@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <title>My Website</title>
+        <link rel="stylesheet" type="text/css" href="My website.css"/>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="navbar_title">My Website</div>
+            <nav id="menu" class="navbar_menu">
+                <ul>
+                    <li><a href="#">Item 1</a></li>
+                    <li><a href="#">Item 2</a></li>
+                    <li><a href="#">Item 3</a></li>
+                    <li><a href="#">Item 4</a></li>
+                </ul>
+            </nav>
+            <button class="hamburger" id="menuToggle" type="button">
+                    <img src="hamburger.png" width="30" height="30" class="icon-hamburger"/>
+                    <img src="close.png" width="30" height="30" class="icon-close" hidden/>
+            </button>
+        </div>   
+        <div class="title">Welcome to MyHome</div>
+        <div class="main_content">
+             <div class="promotions">
+                <div class="promotion1">
+                    <img src="week1.jpg">
+                    <span>Promotion 1</span>
+                </div>
+                <div class="promotion2">
+                    <img src="week1.jpg">
+                    <span>Promotion 2</span>
+                </div>
+                <div class="promotion3">
+                    <img src="week1.jpg">
+                    <span>Promotion 3</span>
+                </div>
+            </div>
+            <ul class="content_blocks">
+                <li class="card1">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 1</span>
+                </li>
+                <li class="card2">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 2</span>
+                </li>
+                <li class="card3">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 3</span>
+                </li>
+                <li class="card4">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 4</span>
+                </li>
+                <li class="card5">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 5</span>
+                </li>
+                <li class="card6">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 6</span>
+                </li>
+                <li class="card7">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 7</span>
+                </li>
+                <li class="card8">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 8</span>
+                </li>
+                <li class="card9">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 9</span>
+                </li>
+                <li class="card10">
+                    <img class="card_img" src="week1.jpg">
+                    <img class="card_star" src="star.png">
+                    <span class="card_text">Title 10</span>
+                </li>
+            </ul>
+        <script >
+            const btn = document.getElementById('menuToggle'); //抓取漢堡按鈕元素
+            const panel = document.getElementById('menu'); //抓取右側選單元素
+            const iconHamburger = btn.querySelector('.icon-hamburger');//從按鈕裡面抓取漢堡圖片
+            const iconClose = btn.querySelector('.icon-close');//從按鈕裡面抓取關閉圖片
+            btn.addEventListener('click', () => { //當使用者點擊按鈕後執行下列程式碼
+            const isOpen = panel.classList.toggle('active');//切換選單樣式、並且記錄目前是開還是關
+            btn.classList.toggle('active', isOpen); //讓css生效
+            iconHamburger.hidden = isOpen; //針對狀態決定是否隱藏 hamburger.png
+            iconClose.hidden = !isOpen; //針對狀態決定是否隱藏 close.png
+            });
+        </script>
+    </body>
+</html>
