@@ -7,7 +7,9 @@ body{
     display:flex;
     align-items: center;
     justify-content: space-between;
-    margin:20px;
+    margin:0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .navbar_title{
     flex:none;
@@ -43,7 +45,8 @@ body{
     font-weight: bold;
     height:250px;
     line-height: 1;
-    font-size : 2em;
+    font-size : 2rem;
+    text-align: center 
 }
 .main_content{
     width:1200px;
@@ -142,6 +145,7 @@ body{
     }
 }
 @media (max-width: 600px){
+
     .main_content{
         width:90%;
         margin:0 auto;
