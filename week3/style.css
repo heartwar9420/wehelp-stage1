@@ -1,0 +1,201 @@
+body{
+    background-color:rgb(255, 255, 255);
+    margin: 0px;
+    font-size:20px;
+    }
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar_title{
+    flex:none;
+}
+.navbar_menu ul{
+    display:flex;
+    justify-content:flex-end;
+    gap:20px;
+    padding:0;
+    list-style: none;
+}
+.hamburger {
+    display: none; /*一開始隱藏*/
+    background: none; /*消除背景*/
+    border: none; /*消除邊框*/
+    cursor: pointer; /*讓滑鼠移上去之後變成點擊的圖標*/
+    z-index: 2001; /*設定圖標在上層*/
+}
+.icon-hamburger {
+    display: block;
+}
+.hamburger.active .icon-hamburger {
+    display: none;
+}
+.hamburger.active .icon-close {
+    display: block;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DDEEF7;
+    font-weight: bold;
+    height:250px;
+    line-height: 1;
+    font-size : 2rem;
+    text-align: center 
+}
+.main_content{
+    width:1200px;
+    margin:20px auto;
+}
+.promotions img{
+    width: 80px;
+    height:50px;
+    margin-right:20px;
+}
+.promotions{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow:hidden;
+    margin:20px;
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+    "p1 p1"
+    "p2 p3";
+    gap: 20px;    
+}
+.promotion1,
+.promotion2,
+.promotion3{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: #DDEEF7;
+}
+.promotion1{ grid-area:p1;}
+.promotion2{ grid-area:p2;}
+.promotion3{ grid-area:p3;}
+.content_blocks{
+    margin:20px;
+    display:grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+.content_blocks{
+    padding: 0;
+    margin: 20;
+    align-items: stretch;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+}
+.card{
+    position: relative;
+    overflow: hidden;
+}
+.card_img{
+    width: 100%;
+    height: 100%; 
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
+.card_text{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow:hidden;
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    text-align: center;
+    padding: 6px;
+    background: rgba(255,255,255,0.7);
+}
+.card_star{
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 24px;
+    height: 24px;
+    opacity: 0.7;
+}
+.load-more-div{
+    display: flex;
+    justify-content: center;
+    width : auto;
+    margin:30px;
+}
+.load-more-btn{
+    border-radius : 10px;
+    display: inline-block;
+    cursor: pointer;
+    padding : 20px 30px;
+}
+@media (max-width:1200px){
+    .main_content{
+        width:90%;
+        margin:0 auto;
+    }
+    .promotions{
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        "p1 p2"
+        "p3 p3";
+    }
+    .content_blocks{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .content_blocks li:nth-child(10n+9),
+    .content_blocks li:nth-child(10n+10){
+        grid-column: span 2;
+    }
+}
+@media (max-width: 600px){
+
+    .main_content{
+        width:90%;
+        margin:0 auto;
+    }
+    .promotions{
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "p1""p2""p3";
+    }
+    .content_blocks > li {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 9;
+    grid-column: 1 / -1 !important;
+    grid-row: auto !important;
+    }
+
+    .navbar_menu{
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 60%;
+        height: 100%;
+        background: white;
+        box-shadow: -4px 0 10px rgba(0, 0, 0, 0.2);
+        transform: translateX(100%); /*沿著x軸移動自己寬度100% 也就是把自己隱藏起來*/
+        transition: transform 0.3s ease;/*選單動畫花費0.3秒*/
+        padding: 20px;
+        z-index: 1000;
+        text-align: center;
+    }
+    .navbar_menu ul{
+        flex-direction: column;/*從橫的改成直的*/
+        align-items: center;
+        margin:20px;
+    }
+    .navbar_menu.active {
+        transform: translateX(0);
+    }
+    .hamburger {
+        display: block;
+    }
+}
