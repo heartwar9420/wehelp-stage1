@@ -1,0 +1,5582 @@
+[
+  {
+    "id": "216",
+    "ch_name": "帛堯初見輕旅",
+    "en_name": "C.J inn",
+    "ch_address": "臺北市萬華區忠孝西路2段38號",
+    "en_address": "No.38 ,sec2, Zhongxiao W.rd, Wanhua Dist,Taipei city.108.Taiwan.",
+    "tel": "02-23886813",
+    "room_count": "4"
+  },
+  {
+    "id": "512",
+    "ch_name": "台北君悅酒店",
+    "en_name": "Grand Hyatt Taipei",
+    "ch_address": "臺北市信義區松壽路2號",
+    "en_address": "No.2, Songshou Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27201234",
+    "room_count": "866"
+  },
+  {
+    "id": "609",
+    "ch_name": "華宮旅社",
+    "en_name": "HUAKUNG HOTEL",
+    "ch_address": "臺北市萬華區西昌街157號",
+    "en_address": "No.157, Sichang St., Wanhua District, Taipei City",
+    "tel": "02-23142627",
+    "room_count": "14"
+  },
+  {
+    "id": "308",
+    "ch_name": "昌亞旅館",
+    "en_name": "HOTEL PRIMA CASA",
+    "ch_address": "臺北市中山區林森北路673號1至7樓",
+    "en_address": "No.673, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25863161",
+    "room_count": "29"
+  },
+  {
+    "id": "397",
+    "ch_name": "臺北車站智選假日酒店",
+    "en_name": "Holiday Inn Express Taipei Train Station",
+    "ch_address": "臺北市大同區重慶北路一段73號1樓至7樓",
+    "en_address": "1,3-7F., No.73, Sec. 1, Chongqing N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25505799",
+    "room_count": "152"
+  },
+  {
+    "id": "471",
+    "ch_name": "星美飯店",
+    "en_name": "Beauty Hotels Taipei-Starbeauty Resort",
+    "ch_address": "臺北市士林區前港街38-1、38-2",
+    "en_address": "No.38-1,Qiangang St., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28828080",
+    "room_count": "48"
+  },
+  {
+    "id": "26",
+    "ch_name": "藝築文旅昆明館",
+    "en_name": "ARTINN KUNMING",
+    "ch_address": "臺北市萬華區昆明街79號10樓",
+    "en_address": "10F., No. 79, Kunming St., Wanhua Dist., Taipei City, Taiwan (R.O.C.)",
+    "tel": "02-23610330",
+    "room_count": "14"
+  },
+  {
+    "id": "225",
+    "ch_name": "靜好文旅by墾趣",
+    "en_name": "Chill Roof Hotel",
+    "ch_address": "臺北市中山區南京東路2段11號11樓",
+    "en_address": "11F., No.11, Sec. 2, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25718875",
+    "room_count": "10"
+  },
+  {
+    "id": "402",
+    "ch_name": "沐蘭精品旅館",
+    "en_name": "Mulan Villa SPA Motel Taipei",
+    "ch_address": "臺北市中山區堤頂大道2段460號",
+    "en_address": "No.460, Sec. 2, Tiding Blvd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85023397",
+    "room_count": "46"
+  },
+  {
+    "id": "597",
+    "ch_name": "銀河旅館",
+    "en_name": "GALAXY HOTEL",
+    "ch_address": "臺北市萬華區漢中街147巷6號1至4樓",
+    "en_address": "No.6, Ln. 147, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23116606",
+    "room_count": "18"
+  },
+  {
+    "id": "591",
+    "ch_name": "台北凱撒大飯店",
+    "en_name": "Caesar Park Taipei",
+    "ch_address": "臺北市中正區忠孝西路1段38號",
+    "en_address": "No.38, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23115151",
+    "room_count": "478"
+  },
+  {
+    "id": "250",
+    "ch_name": "方舟旅店 長安復興",
+    "en_name": "ARK Hotel",
+    "ch_address": "臺北市中山區長安東路二段246號3樓、10樓及11樓",
+    "en_address": "3F., No.246, Sec. 2, Minsheng E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-27727750",
+    "room_count": "82"
+  },
+  {
+    "id": "453",
+    "ch_name": "水美溫泉會館",
+    "en_name": "Sweetme Hotspring Resort",
+    "ch_address": "臺北市北投區光明路224號",
+    "en_address": "No.224, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28983838",
+    "room_count": "78"
+  },
+  {
+    "id": "390",
+    "ch_name": "新驛旅店台北車站三館",
+    "en_name": "City Inn Hotel III",
+    "ch_address": "臺北市大同區長安西路77,79號1-7樓",
+    "en_address": "1-7F., No.77, Chang’an W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-77327777",
+    "room_count": "66"
+  },
+  {
+    "id": "405",
+    "ch_name": "璽愛旅店",
+    "en_name": "SAY LOVE HOTEL",
+    "ch_address": "臺北市中正區忠孝西路一段72號3樓,3樓之1",
+    "en_address": "3F., No.72, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23880808",
+    "room_count": "39"
+  },
+  {
+    "id": "603",
+    "ch_name": "景美大旅社",
+    "en_name": "Jing Mei Hotel",
+    "ch_address": "臺北市文山區景文街104號2-4樓",
+    "en_address": "Level 2-4, N0.104,Jingwen St.,Wenshan Dist.,Taipei City 116,Taiwan (R.O.C.)",
+    "tel": "02-29313788",
+    "room_count": "12"
+  },
+  {
+    "id": "262",
+    "ch_name": "二十輪旅店大安店",
+    "en_name": "SWIIO HOTEL DAAN",
+    "ch_address": "臺北市大安區大安路一段183號，185號，185號2樓至7樓",
+    "en_address": "1-7F.,No.183,No.185, Sec. 1, Da’an Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27032220",
+    "room_count": "30"
+  },
+  {
+    "id": "415",
+    "ch_name": "宏都金殿大飯店",
+    "en_name": "HOTEL HD PALACE",
+    "ch_address": "臺北市大安區安和路2段100號2-9樓",
+    "en_address": "2F-9F., No.100, Sec. 2, Anhe Rd., Da-an District, Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27556599",
+    "room_count": "32"
+  },
+  {
+    "id": "20",
+    "ch_name": "頭等艙飯店西門館",
+    "en_name": "AIRLINE INN XIMEN",
+    "ch_address": "臺北市中正區中華路一段59號4樓、4樓之1、8樓之1、9樓之1、11樓至13樓",
+    "en_address": "4,5,8,9,11-13F., No. 59, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23114567",
+    "room_count": "115"
+  },
+  {
+    "id": "448",
+    "ch_name": "旅居文旅中山館",
+    "en_name": "HUB HOTEL Zhongshan",
+    "ch_address": "臺北市中山區錦西街6號",
+    "en_address": "No.6, Jinsi St., Jhongshan District, Taipei City",
+    "tel": "02-25117111",
+    "room_count": "70"
+  },
+  {
+    "id": "155",
+    "ch_name": "天成文旅 華山町",
+    "en_name": "Hua Shan Din By Cosmos Creation",
+    "ch_address": "臺北市中正區忠孝東路二段79號（1-3樓）",
+    "en_address": "79 Sec. 2, Zhongxiao East Road, Jhongjheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23515188",
+    "room_count": "72"
+  },
+  {
+    "id": "329",
+    "ch_name": "尚印旅店-二?",
+    "en_name": "STAY INN TAIPEI",
+    "ch_address": "臺北市中山區中山北路二段71號10樓",
+    "en_address": "10F., No.71, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25682810",
+    "room_count": "20"
+  },
+  {
+    "id": "255",
+    "ch_name": "洛碁大飯店南京館",
+    "en_name": "Green World Grand Nanjing",
+    "ch_address": "臺北市中山區南京東路三段8號1樓至14樓",
+    "en_address": "1-14F., No.8, Sec. 3, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25098882",
+    "room_count": "116"
+  },
+  {
+    "id": "556",
+    "ch_name": "豪爵旅館",
+    "en_name": "ARISTOCRAT HOTEL",
+    "ch_address": "臺北市中山區吉林路379巷20號1至7樓及20之1號2樓至7樓、德惠街170巷24號1樓",
+    "en_address": "No.20, Lane 379, Jilin Rd., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25942977",
+    "room_count": "53"
+  },
+  {
+    "id": "253",
+    "ch_name": "能量旅店",
+    "en_name": "Energy Inn",
+    "ch_address": "臺北市萬華區康定路25巷38號",
+    "en_address": "No.38, Ln. 25, Kangding Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23121211",
+    "room_count": "4"
+  },
+  {
+    "id": "164",
+    "ch_name": "謙匯普樂室行旅",
+    "en_name": "CH PLACEX HOTEL",
+    "ch_address": "臺北市信義區信義路5段109號地下1樓",
+    "en_address": "B1,NO109 section 5,Xinyi Road,Xinyi Pistrict 11075",
+    "tel": "02-87864188",
+    "room_count": "40"
+  },
+  {
+    "id": "221",
+    "ch_name": "城市商旅昆明館（HOTEL PAPA WHALE）",
+    "en_name": "HOTEL PAPA WHALE",
+    "ch_address": "臺北市萬華區昆明街46號地下1樓、46號及46號2至4樓、4樓之2、4樓之3",
+    "en_address": "No.46, Kunming St., Wanhua Dist., Taipei City 108, Taiwan",
+    "tel": "02-23311177",
+    "room_count": "335"
+  },
+  {
+    "id": "125",
+    "ch_name": "門草行旅",
+    "en_name": "The Door Inn",
+    "ch_address": "臺北市大同區安西街23號1至4樓（不含安西街25號1樓）",
+    "en_address": "No. 23, Anxi St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25577045",
+    "room_count": "4"
+  },
+  {
+    "id": "116",
+    "ch_name": "瀚寓酒店",
+    "en_name": "HANNS HOUSE",
+    "ch_address": "臺北市信義區基隆路一段206號1至12樓",
+    "en_address": "1-12th Floor, No. 206, Section 1, Keelung Road, Xinyi District, Taipei City",
+    "tel": "02-87583777",
+    "room_count": "120"
+  },
+  {
+    "id": "473",
+    "ch_name": "新月商旅",
+    "en_name": "MOON HOTEL",
+    "ch_address": "臺北市中山區新生北路一段122號1-7樓",
+    "en_address": "No.122, Sec. 1, Xinsheng N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25213301",
+    "room_count": "42"
+  },
+  {
+    "id": "151",
+    "ch_name": "五月家青旅 北車館",
+    "en_name": "May Rooms‧Taipei Main Station",
+    "ch_address": "臺北市中正區忠孝西路一段122號6樓",
+    "en_address": "6F., No.122, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23822929",
+    "room_count": "5"
+  },
+  {
+    "id": "273",
+    "ch_name": "三二行館",
+    "en_name": "Villa 32",
+    "ch_address": "臺北市北投區中山路32號",
+    "en_address": "No.32, Zhongshan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-66117888",
+    "room_count": "5"
+  },
+  {
+    "id": "29",
+    "ch_name": "美好境界旅店",
+    "en_name": "Wanderwall",
+    "ch_address": "臺北市萬華區西寧南路36號9樓之2、9樓之3、9樓之4",
+    "en_address": "9F.-2, 9F.-3,9F.-4, No. 36, Xining S. Rd., Wanhua Dist., Taipei City",
+    "tel": "02-23617608",
+    "room_count": "42"
+  },
+  {
+    "id": "55",
+    "ch_name": "葛瑞絲商旅敦北館",
+    "en_name": "Grace Hotel Dunbei",
+    "ch_address": "臺北市松山區敦化北路216號1樓至5樓",
+    "en_address": "No. 216, Dunhua N. Rd., Songshan Dist., Taipei City , Taiwan",
+    "tel": "02-27886682",
+    "room_count": "34"
+  },
+  {
+    "id": "156",
+    "ch_name": "台北士林萬麗酒店",
+    "en_name": "Renaissance Taipei Shihlin Hotel",
+    "ch_address": "臺北市士林區中山北路五段470巷8號",
+    "en_address": "No.8,Ln.470,Sec.5, Zhongshan N. Rd., Shilin Dist., Taipei City 111, Taiwan",
+    "tel": "02-88612389",
+    "room_count": "104"
+  },
+  {
+    "id": "51",
+    "ch_name": "台北棧",
+    "en_name": "Taipei Inn",
+    "ch_address": "臺北市中正區許昌街40號5樓、5樓之1、5樓之2、6樓、6樓之1、6樓之2、7樓、7樓之1、7樓之2、7樓之3",
+    "en_address": "No. 40, Xuchang St., Zhongzheng Dist., Taipei City 100415, Taiwan (R.O.C.)",
+    "tel": "02-23313381",
+    "room_count": "34"
+  },
+  {
+    "id": "176",
+    "ch_name": "南陽街壹號旅店",
+    "en_name": "NYS LOFT HOTEL",
+    "ch_address": "臺北市中正區南陽街1號3樓至4樓",
+    "en_address": "3F.4F., No.1, Nanyang St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23888377",
+    "room_count": "79"
+  },
+  {
+    "id": "286",
+    "ch_name": "豪景大酒店新館",
+    "en_name": "Riverview Suites Taipei",
+    "ch_address": "臺北市萬華區成都路173之1號B2及1至7樓",
+    "en_address": "No173-1, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23113130",
+    "room_count": "48"
+  },
+  {
+    "id": "395",
+    "ch_name": "愛活商旅",
+    "en_name": "Lavita Hotel",
+    "ch_address": "臺北市萬華區西寧南路36號10樓之3",
+    "en_address": "10F.-3, No.36, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23615205",
+    "room_count": "22"
+  },
+  {
+    "id": "144",
+    "ch_name": "皇家玫瑰旅館新生館",
+    "en_name": "Royal Rose Hotel x?nsh?ng",
+    "ch_address": "臺北市大安區新生南路一段103巷37號(1至5樓)",
+    "en_address": "No.37, Ln. 103, Sec. 1, Xinsheng S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27522077",
+    "room_count": "21"
+  },
+  {
+    "id": "44",
+    "ch_name": "成都壹壹壹商旅",
+    "en_name": "Chengdu 111 Business Hotel",
+    "ch_address": "臺北市萬華區成都路111號1樓-6樓",
+    "en_address": "1-6F, No. 111, Chengdu Road, Wanhua District, Taipei City",
+    "tel": "02-23751022",
+    "room_count": "11"
+  },
+  {
+    "id": "240",
+    "ch_name": "清翼居旅店采風館",
+    "en_name": "Morwing Hotel Culture Vogue",
+    "ch_address": "臺北市中正區南陽街8號2至5樓",
+    "en_address": "2-5F, No.8, Nanyang St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23123661",
+    "room_count": "50"
+  },
+  {
+    "id": "211",
+    "ch_name": "台灣青旅",
+    "en_name": "Taiwan Youth hostel",
+    "ch_address": "臺北市中正區青島西路11號地下1樓",
+    "en_address": "B1, No.11, Qingdao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23613000",
+    "room_count": "12"
+  },
+  {
+    "id": "463",
+    "ch_name": "長榮桂冠酒店 (台北)",
+    "en_name": "Evergreen Laurel Hotel (Taipei)",
+    "ch_address": "臺北市中山區松江路63號",
+    "en_address": "No.63, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25019988",
+    "room_count": "95"
+  },
+  {
+    "id": "582",
+    "ch_name": "水都溫泉會館",
+    "en_name": "Spa spring Resort",
+    "ch_address": "臺北市北投區光明路283號",
+    "en_address": "No.283, Guangming Rd., Beitou District, Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28979060",
+    "room_count": "33"
+  },
+  {
+    "id": "229",
+    "ch_name": "旅樂序精品旅館三館",
+    "en_name": "HOTEL RELAX3",
+    "ch_address": "臺北市中正區懷寧街34號1至8樓",
+    "en_address": "1-8F., No.34, Huaining St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23758333",
+    "room_count": "41"
+  },
+  {
+    "id": "475",
+    "ch_name": "葫蘆商旅",
+    "en_name": "H Hotel",
+    "ch_address": "臺北市士林區重慶北路四段202號1-4樓、204號1樓",
+    "en_address": "No.202, Sec. 4, Chongqing N. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28119395",
+    "room_count": "19"
+  },
+  {
+    "id": "280",
+    "ch_name": "?美精旅",
+    "en_name": "Hotel B7",
+    "ch_address": "臺北市中正區重慶南路1段111號",
+    "en_address": "No.111, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23832088",
+    "room_count": "38"
+  },
+  {
+    "id": "420",
+    "ch_name": "山樂溫泉",
+    "en_name": "Shan Yao Hot Spring Hotel",
+    "ch_address": "臺北市北投區泉源路1巷17號1-2樓",
+    "en_address": "1-2F., No.17, Ln. 1, Quanyuan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28913388",
+    "room_count": "9"
+  },
+  {
+    "id": "234",
+    "ch_name": "綺樂文旅 開封館",
+    "en_name": "LE ROOM HOTEL",
+    "ch_address": "臺北市中正區開封街一段35號1至8樓",
+    "en_address": "No.35, Sec. 1, Kaifeng St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23615889",
+    "room_count": "63"
+  },
+  {
+    "id": "485",
+    "ch_name": "米窩飯店-中山",
+    "en_name": "Meworld Hotel-Zhongshan",
+    "ch_address": "臺北市中山區中山北路二段183巷30、32號3樓",
+    "en_address": "3F., No.30,32, Ln. 183, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25910183",
+    "room_count": "13"
+  },
+  {
+    "id": "186",
+    "ch_name": "旅樂序精品旅館五館",
+    "en_name": "Hotel Relax 5",
+    "ch_address": "臺北市中正區重慶南路一段20號B1樓至10樓",
+    "en_address": "No.20, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23756777",
+    "room_count": "57"
+  },
+  {
+    "id": "533",
+    "ch_name": "多郎明哥旅館",
+    "en_name": "Dolamanco Hotel",
+    "ch_address": "臺北市大安區信義路三段73號",
+    "en_address": "No.73, Sec. 3, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27001200",
+    "room_count": "30"
+  },
+  {
+    "id": "87",
+    "ch_name": "趣西門旅店",
+    "en_name": "Funny Ximen Hotel",
+    "ch_address": "臺北市萬華區武昌街二段72號7樓",
+    "en_address": "7F., No. 72, Sec. 2, Wuchang St., Wanhua Dist., Taipei City 108002, Taiwan (R.O.C.)",
+    "tel": "02-23618266",
+    "room_count": "27"
+  },
+  {
+    "id": "595",
+    "ch_name": "璞漣商務旅館臺北車站店",
+    "en_name": "HOTEL PURI TAIPEI STATION",
+    "ch_address": "臺北市大同區華陰街46號3樓",
+    "en_address": "3F., No.46, Huayin St., Datong District, Taipei City",
+    "tel": "02-25592662",
+    "room_count": "43"
+  },
+  {
+    "id": "24",
+    "ch_name": "金通商旅",
+    "en_name": "non",
+    "ch_address": "臺北市大同區重慶北路一段1號10樓之1",
+    "en_address": "10F.-1, No. 1, Sec. 1, Chongqing N. Rd., Datong Dist., Taipei City , Taiwan (R.O.C.)",
+    "tel": "02-25921919",
+    "room_count": "9"
+  },
+  {
+    "id": "581",
+    "ch_name": "承攜行旅台北重慶館",
+    "en_name": "Guide Hotel Taipei Chongqing",
+    "ch_address": "臺北市大同區重慶北路一段62號1、4至10樓",
+    "en_address": "No.62, Sec. 1, Chongqing N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25580551",
+    "room_count": "168"
+  },
+  {
+    "id": "132",
+    "ch_name": "松河璞旅",
+    "en_name": "Waterfront Hotel",
+    "ch_address": "臺北市松山區松河街112號1樓至8樓",
+    "en_address": "1-8F., No. 112, Songhe St., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-25281567",
+    "room_count": "42"
+  },
+  {
+    "id": "327",
+    "ch_name": "路境行旅-府前館",
+    "en_name": "Finders Hotel Fu-Qian",
+    "ch_address": "臺北市中正區重慶南路一段86號",
+    "en_address": "No.86, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23899595",
+    "room_count": "158"
+  },
+  {
+    "id": "418",
+    "ch_name": "華弘怡亨酒店",
+    "en_name": "Hotel Eclat, Taipei",
+    "ch_address": "臺北市大安區敦化南路一段370號",
+    "en_address": "No.370, Sec. 1, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27848888",
+    "room_count": "68"
+  },
+  {
+    "id": "563",
+    "ch_name": "兄弟大飯店",
+    "en_name": "Brother Hotel",
+    "ch_address": "臺北市松山區南京東路3段255號",
+    "en_address": "No.255, Sec. 3, Nanjing E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27123456",
+    "room_count": "250"
+  },
+  {
+    "id": "611",
+    "ch_name": "梅樓商務驛站",
+    "en_name": "Main Inn Taipei",
+    "ch_address": "臺北市大同區鄭州路29巷1-1號2-4樓",
+    "en_address": "2F., No.1-1, Lane 29, Jhengjhou Rd., Datong District, Taipei City 103, Taiwan(R.O.C)",
+    "tel": "02-25552587",
+    "room_count": "18"
+  },
+  {
+    "id": "470",
+    "ch_name": "台北商旅（大安館）",
+    "en_name": "Les Suites Taipei (Da An)",
+    "ch_address": "臺北市大安區大安路一段135號",
+    "en_address": "No.135, Taan Rd., Sec. 1, Taipei City",
+    "tel": "02-77119933",
+    "room_count": "42"
+  },
+  {
+    "id": "411",
+    "ch_name": "小王子甜蜜旅店",
+    "en_name": "Honey Prince Hotel",
+    "ch_address": "臺北市萬華區漢中街42號9樓",
+    "en_address": "9F., No.42, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23820225",
+    "room_count": "9"
+  },
+  {
+    "id": "242",
+    "ch_name": "麗之湯別館",
+    "en_name": "Gorgeous Hot Spring Resort",
+    "ch_address": "臺北市北投區溫泉路銀光巷4-2號",
+    "en_address": "No.4-2, Yinguang Ln., Wenquan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28910033",
+    "room_count": "40"
+  },
+  {
+    "id": "400",
+    "ch_name": "士林町旅店",
+    "en_name": "SHILIN DING 24H HOTEL",
+    "ch_address": "臺北市士林區安平街26號1至4樓",
+    "en_address": "No.26, Anping St., Shihlin District, Taipei City",
+    "tel": "02-28813133",
+    "room_count": "10"
+  },
+  {
+    "id": "230",
+    "ch_name": "路徒行旅-中華館",
+    "en_name": "Roaders Hotel Zhonghua",
+    "ch_address": "臺北市中正區延平南路68號",
+    "en_address": "No.68, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23120589",
+    "room_count": "68"
+  },
+  {
+    "id": "140",
+    "ch_name": "凱旋酒店",
+    "en_name": "Just Palace",
+    "ch_address": "臺北市內湖區江南街55號3樓、9樓",
+    "en_address": "No.55, Jiangnan St., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)",
+    "tel": "02-87527888",
+    "room_count": "88"
+  },
+  {
+    "id": "251",
+    "ch_name": "藝宿商旅",
+    "en_name": "YISU HOTEL",
+    "ch_address": "臺北市大同區重慶北路一段116號2樓至11樓及11樓夾層",
+    "en_address": "2F., No.116, Sec. 1, Chongqing N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25506655",
+    "room_count": "69"
+  },
+  {
+    "id": "617",
+    "ch_name": "幸福大旅社",
+    "en_name": "HAPPINESS HOTEL",
+    "ch_address": "臺北市萬華區內江街55巷26號1-4樓",
+    "en_address": "1-4F., No.26, Ln. 55, Neijiang St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23716808",
+    "room_count": "22"
+  },
+  {
+    "id": "337",
+    "ch_name": "柯達大飯店台北松江",
+    "en_name": "Khotels Taipei Songjiang",
+    "ch_address": "臺北市中山區松江路251號",
+    "en_address": "No.251, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25159999",
+    "room_count": "85"
+  },
+  {
+    "id": "569",
+    "ch_name": "迪樂商旅",
+    "en_name": "THE DEALER HOTEL",
+    "ch_address": "臺北市大同區延平北路一段121號1至6樓",
+    "en_address": "1-6F., No.121, Sec. 1, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25551130",
+    "room_count": "28"
+  },
+  {
+    "id": "409",
+    "ch_name": "福容大飯店 台北一館",
+    "en_name": "Fullon Hotel Taipei,Central",
+    "ch_address": "臺北市大安區建國南路1段266號",
+    "en_address": "No.266, Sec. 1, Jianguo S. Rd., Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27019266",
+    "room_count": "120"
+  },
+  {
+    "id": "494",
+    "ch_name": "悠趣旅店",
+    "en_name": "URTRIP HOTEL",
+    "ch_address": "臺北市松山區長安東路2段219號12樓",
+    "en_address": "12F., No.219, Sec. 2, Chang’an E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27752277",
+    "room_count": "27"
+  },
+  {
+    "id": "158",
+    "ch_name": "福爾摩莎北驛旅館",
+    "en_name": "Formosa 101 Taipei Main Branch",
+    "ch_address": "臺北市中正區漢口街1段45號2、4樓及47號2樓",
+    "en_address": "2、4F., No. 45、47, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100006, Taiwan (R.O.C.)",
+    "tel": "02-23816089",
+    "room_count": "41"
+  },
+  {
+    "id": "372",
+    "ch_name": "二十輪旅店",
+    "en_name": "SWIIO HOTEL",
+    "ch_address": "臺北市萬華區武昌街二段72號5樓、6樓、10樓",
+    "en_address": "5.6.10F., No.72, Sec. 2, Wuchang St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23810500",
+    "room_count": "48"
+  },
+  {
+    "id": "7",
+    "ch_name": "鉑泊客2館",
+    "en_name": "PoshPacker Hotel2",
+    "ch_address": "臺北市中正區重慶南路1段37號",
+    "en_address": "No. 37, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23755555",
+    "room_count": "44"
+  },
+  {
+    "id": "80",
+    "ch_name": "藝築文旅台北站前館",
+    "en_name": "Artinn",
+    "ch_address": "臺北市中正區襄陽路8號3至11樓",
+    "en_address": "3-11F.,No.8,Xiangyang Rd.,Zhongaheng Dist.,Taipei City,Taiwan(R.O.C)",
+    "tel": "02-23820150",
+    "room_count": "90"
+  },
+  {
+    "id": "119",
+    "ch_name": "華達大飯店",
+    "en_name": "Huada Hotel",
+    "ch_address": "臺北市中正區重慶南路一段1號6樓",
+    "en_address": "6F., No.1, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 10046, Taiwan (R.O.C.)",
+    "tel": "02-23110212",
+    "room_count": "14"
+  },
+  {
+    "id": "348",
+    "ch_name": "世方旅居文旅",
+    "en_name": "Hub Hotel - Taipei Songshan Airport",
+    "ch_address": "臺北市中山區松江路485號1至5樓,5樓之1-3,6-7樓,7樓之1-5",
+    "en_address": "Song Jiang Road, No.485, Taipei City",
+    "tel": "02-25025000",
+    "room_count": "121"
+  },
+  {
+    "id": "575",
+    "ch_name": "漾館溫泉商旅",
+    "en_name": "Aqua Bella Hotel",
+    "ch_address": "臺北市北投區溫泉路63號1-4樓",
+    "en_address": "1-4F., No.63, Wuncyuan Rd., Beitou District, Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28911118",
+    "room_count": "31"
+  },
+  {
+    "id": "604",
+    "ch_name": "第一大飯店",
+    "en_name": "First Hotel",
+    "ch_address": "臺北市中山區南京東路2段63號",
+    "en_address": "No.63, Sec. 2, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25418234",
+    "room_count": "176"
+  },
+  {
+    "id": "437",
+    "ch_name": "萬事達旅店(中華店)",
+    "en_name": "Wonstar Hotel",
+    "ch_address": "臺北市萬華區中華路一段82號1-9樓",
+    "en_address": "1-9F., No.82, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23820889",
+    "room_count": "56"
+  },
+  {
+    "id": "506",
+    "ch_name": "仙渡莊旅社",
+    "en_name": "XIAN DU ZUANG HOTEL",
+    "ch_address": "臺北市北投區大度路三段304號",
+    "en_address": "No.304, Sec. 3, Dadu Rd., Beitou District, Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28913537",
+    "room_count": "14"
+  },
+  {
+    "id": "267",
+    "ch_name": "城市商旅德立莊分館",
+    "en_name": "hotel midtown richardson",
+    "ch_address": "臺北市中正區秀山街4號5-12樓、15樓；衡陽路99號5-12樓、15樓；延平南路110號5-11樓、15樓",
+    "en_address": "5F-12F,15F.,No4, Xiushan St.,; 5F-12F,15F., No.99, Hengyang Rd., ; 5F-11F,15F., No.110, Yanping S. R",
+    "tel": "02-23757777",
+    "room_count": "535"
+  },
+  {
+    "id": "257",
+    "ch_name": "沃客商旅-西門館",
+    "en_name": "Walker Hotel.Ximen",
+    "ch_address": "臺北市萬華區中華路一段144號10樓",
+    "en_address": "10F., No.144, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23812633",
+    "room_count": "23"
+  },
+  {
+    "id": "441",
+    "ch_name": "太平洋商旅",
+    "en_name": "PACIFIC BUSINESS Hotel",
+    "ch_address": "臺北市信義區光復南路495號11樓之2及13,16,17,19樓",
+    "en_address": "11F.-2, No.495, Guangfu S. Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-87808000",
+    "room_count": "48"
+  },
+  {
+    "id": "142",
+    "ch_name": "漫步1948",
+    "en_name": "Meander 1948",
+    "ch_address": "臺北市大同區太原路40、42、44號(1至4樓)",
+    "en_address": "No.42, Taiyuan Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25588812",
+    "room_count": "24"
+  },
+  {
+    "id": "182",
+    "ch_name": "謙商旅(谷墨商旅-師大館)",
+    "en_name": "Goodmore Hotel",
+    "ch_address": "臺北市大安區和平東路一段145號2至4樓、147 號5至6樓、6樓之1、6樓之2",
+    "en_address": "No.147, Sec. 1, Heping E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23955535",
+    "room_count": "92"
+  },
+  {
+    "id": "529",
+    "ch_name": "一等好旅店",
+    "en_name": "GOOD HOTEL",
+    "ch_address": "臺北市松山區八德路四段624巷2號B1-1樓,4號2-6樓",
+    "en_address": "No.2, Ln. 624, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27609255",
+    "room_count": "32"
+  },
+  {
+    "id": "425",
+    "ch_name": "維多麗亞酒店",
+    "en_name": "GRAND VICTORIA HOTEL",
+    "ch_address": "臺北市中山區敬業四路168號",
+    "en_address": "5-10F., No.168, Jingye 4th Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85020007",
+    "room_count": "96"
+  },
+  {
+    "id": "313",
+    "ch_name": "復新文旅",
+    "en_name": "Forever Inn",
+    "ch_address": "臺北市中山區復興北路282號3,6樓",
+    "en_address": "3、6F., No.282, Fuxing N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77337959",
+    "room_count": "19"
+  },
+  {
+    "id": "114",
+    "ch_name": "配普特行旅",
+    "en_name": "plain stay hostel",
+    "ch_address": "臺北市大同區鄭州路21巷4號(1樓至3樓)",
+    "en_address": "No. 4, Ln. 21, Zhengzhou Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25583669",
+    "room_count": "9"
+  },
+  {
+    "id": "528",
+    "ch_name": "囍閱文創旅店",
+    "en_name": "Hotel attic",
+    "ch_address": "臺北市萬華區長沙街二段11號10樓",
+    "en_address": "10F., No.11, Sec. 2, Changsha St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23886235",
+    "room_count": "20"
+  },
+  {
+    "id": "296",
+    "ch_name": "皇家玫瑰旅館西門館",
+    "en_name": "Royal Rose Hotel Ximen",
+    "ch_address": "臺北市萬華區西寧南路63之1號",
+    "en_address": "No.63-1, Xining S. Rd., Wanhua Dist., Taipei City 10842, Taiwan (R.O.C)",
+    "tel": "02-23819333",
+    "room_count": "7"
+  },
+  {
+    "id": "551",
+    "ch_name": "洛碁大飯店花華分館",
+    "en_name": "Green World Flora Annex",
+    "ch_address": "臺北市中正區漢口街一段36號1-8樓及地下室",
+    "en_address": "No.36, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23123811",
+    "room_count": "56"
+  },
+  {
+    "id": "18",
+    "ch_name": "大光瀛商旅",
+    "en_name": "Twin Star Inn",
+    "ch_address": "臺北市中正區忠孝西路1段50號地下3層",
+    "en_address": "B3., No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23705590",
+    "room_count": "49"
+  },
+  {
+    "id": "92",
+    "ch_name": "瑞絲逸旅店",
+    "en_name": "The rooms Inn",
+    "ch_address": "臺北市中山區林森北路96號2樓之1、之2",
+    "en_address": "2F.-1,-2, No. 96, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25641372",
+    "room_count": "9"
+  },
+  {
+    "id": "579",
+    "ch_name": "紅菱閣賓館",
+    "en_name": "HUNGLINGKE HOTEL",
+    "ch_address": "臺北市萬華區峨嵋街80,82號",
+    "en_address": "No.80,82, Emei St., Wanhua District, Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23619696",
+    "room_count": "27"
+  },
+  {
+    "id": "322",
+    "ch_name": "明星大飯店",
+    "en_name": "Mingxing Hotel",
+    "ch_address": "臺北市萬華區成都路21號2至3樓、23號2至3樓、27巷1號2至3樓",
+    "en_address": "2-3F., No.21, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755227",
+    "room_count": "34"
+  },
+  {
+    "id": "224",
+    "ch_name": "台北北門窩泊旅",
+    "en_name": "Beimen Wow Poshtel",
+    "ch_address": "臺北市大同區太原路92巷2之1、2之2、2之3、2之4號(1樓至4樓)",
+    "en_address": "1~4F., No.2-1、2-2、2-3、2-4, Ln. 92, Taiyuan Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25525068",
+    "room_count": "19"
+  },
+  {
+    "id": "281",
+    "ch_name": "小公館人文旅舍",
+    "en_name": "NK Hostel",
+    "ch_address": "臺北市松山區南京東路五段399號5,8,14樓",
+    "en_address": "5F, No.399, Sec5, Nanjing. E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27690200",
+    "room_count": "20"
+  },
+  {
+    "id": "396",
+    "ch_name": "安庭台北商務旅館",
+    "en_name": "My Hotel",
+    "ch_address": "臺北市大安區忠孝東路四段197號12樓、12樓之1、12樓之4、12樓之5、12樓之9",
+    "en_address": "12F, 12F.-1, 12F.-4,12F.-5,12F.-9 ,No.197, Sec.4, Zhongxiao E.Rd, Da’an Dist., Taipei City 106076, T",
+    "tel": "02-27780920",
+    "room_count": "41"
+  },
+  {
+    "id": "109",
+    "ch_name": "日好青旅",
+    "en_name": "GOOD DAY HOSTEL",
+    "ch_address": "臺北市大同區甘谷街26號6樓",
+    "en_address": "6F., No. 26, Gangu St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25558667",
+    "room_count": "11"
+  },
+  {
+    "id": "319",
+    "ch_name": "丰居旅店雙連館",
+    "en_name": "VIA LOFT HOTEL",
+    "ch_address": "臺北市中山區民生東路一段42號2,3樓,-1至-5",
+    "en_address": "2,3F.-1-5, No.42, Sec. 1, Minsheng E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-23112555",
+    "room_count": "47"
+  },
+  {
+    "id": "17",
+    "ch_name": "享住青旅",
+    "en_name": "Just Live Inn",
+    "ch_address": "臺北市中正區館前路8號地下1層",
+    "en_address": "B1., No. 8, Guanqian Rd., Zhongzheng Dist., Taipei City",
+    "tel": "-",
+    "room_count": "7"
+  },
+  {
+    "id": "86",
+    "ch_name": "聖雄商旅",
+    "en_name": "Hermit dorm",
+    "ch_address": "臺北市松山區基隆路一段8號、10號17至18樓",
+    "en_address": "17F-18F., No.8,N.10, Sec. 1, Keelung Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27600920",
+    "room_count": "37"
+  },
+  {
+    "id": "537",
+    "ch_name": "台北馥敦飯店復南館",
+    "en_name": "Taipei Fullerton Hotel - south",
+    "ch_address": "臺北市大安區復興南路二段41號",
+    "en_address": "No.41, Sec. 2, Fusing S. Rd., Da-an District, Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27031234",
+    "room_count": "95"
+  },
+  {
+    "id": "258",
+    "ch_name": "壹零壹艾美琪旅店",
+    "en_name": "101AMICI",
+    "ch_address": "臺北市大安區復興南路一段126巷1號4樓",
+    "en_address": "4F., No.1, Ln. 126, Sec. 1, Fuxing S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27728101",
+    "room_count": "36"
+  },
+  {
+    "id": "72",
+    "ch_name": "城市商旅德立莊二館",
+    "en_name": "Hotel Midtown Richardson Ⅱ",
+    "ch_address": "臺北市中正區衡陽路97號2樓、97之1號2樓、99號2樓、101號2樓、101號2樓之1、103號2樓、103號2樓之1、105號2樓、延平南路110號2-4樓",
+    "en_address": "2F, No. 97, No. 97-1, No. 99, No. 101, No. 103, No. 105,Hengyang Rd.；2F-1, No. 101, No. 103,Hengy",
+    "tel": "02-23703258",
+    "room_count": "199"
+  },
+  {
+    "id": "241",
+    "ch_name": "禾順行旅",
+    "en_name": "Wholesome Hotel",
+    "ch_address": "臺北市萬華區廣州街247號及247號2至6樓",
+    "en_address": "1F-6F., No.247, Guangzhou St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23081000",
+    "room_count": "98"
+  },
+  {
+    "id": "145",
+    "ch_name": "九昱晴美",
+    "en_name": "Jolley Hotel",
+    "ch_address": "臺北市中山區林森北路568號2至13樓，3樓之1、2、3、5、6至12樓之1、2、3、5、6，13樓之1",
+    "en_address": "2F-13F，3F-1、2、3、5、6~12F-1、2、3、5、6,13F-1.,No.568, Linsen N. Rd.,Zhongshan Dist.,Taipei City Taiwan",
+    "tel": "02-66080807",
+    "room_count": "62"
+  },
+  {
+    "id": "102",
+    "ch_name": "百樂匯大飯店",
+    "en_name": "BROAD WAY HOTEL",
+    "ch_address": "臺北市北投區溫泉路99號1-4樓",
+    "en_address": "1-4F., No.99, Wenquan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28928288",
+    "room_count": "33"
+  },
+  {
+    "id": "371",
+    "ch_name": "新秀閣大飯店",
+    "en_name": "SINCERE HOTEL",
+    "ch_address": "臺北市北投區光明路238號1-5樓",
+    "en_address": "1-5F., No.238, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28912166",
+    "room_count": "17"
+  },
+  {
+    "id": "226",
+    "ch_name": "背包棧旅店-台北長春店",
+    "en_name": "Backpackers-Hostels Taipei Changchan",
+    "ch_address": "臺北市中山區長春路258巷6號2樓",
+    "en_address": "2F., No.6, Ln. 258, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25180188",
+    "room_count": "43"
+  },
+  {
+    "id": "157",
+    "ch_name": "果芒驛站旅店",
+    "en_name": "GOMAN STATION HOSTEL",
+    "ch_address": "臺北市中正區忠孝西路一段50號23樓之18",
+    "en_address": "23F.-18, No.50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23706808",
+    "room_count": "2"
+  },
+  {
+    "id": "521",
+    "ch_name": "君帥旅館",
+    "en_name": "JIN SHINE HOTEL",
+    "ch_address": "臺北市萬華區成都路68號8-10樓",
+    "en_address": "8-10F., No.68, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23718812",
+    "room_count": "35"
+  },
+  {
+    "id": "352",
+    "ch_name": "長弘時尚旅店",
+    "en_name": "Changhong Fashion Hotel",
+    "ch_address": "臺北市中山區長春路56號3至5樓",
+    "en_address": "3-5F., No.56, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25420101",
+    "room_count": "24"
+  },
+  {
+    "id": "32",
+    "ch_name": "日光樂居",
+    "en_name": "funstayinn",
+    "ch_address": "臺北市萬華區西寧南路72之1號5樓",
+    "en_address": "5F., No. 72-1, Xining S. Rd., Wanhua Dist., Taipei City",
+    "tel": "02-23889978",
+    "room_count": "27"
+  },
+  {
+    "id": "452",
+    "ch_name": "鴨川旅館",
+    "en_name": "GAWA HOTEL",
+    "ch_address": "臺北市中山區中山北路二段65巷2弄60號1-6樓",
+    "en_address": "No.60, Alley 2, Lane 65, Sec. 2, Jhongshan N. Rd., Jhongshan District, Taipei City",
+    "tel": "02-25603965",
+    "room_count": "20"
+  },
+  {
+    "id": "284",
+    "ch_name": "品格子旅店西門館",
+    "en_name": "Inn Cube (Ximen)",
+    "ch_address": "臺北市萬華區西寧南路30號8樓",
+    "en_address": "8F., No.30, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23618008",
+    "room_count": "35"
+  },
+  {
+    "id": "481",
+    "ch_name": "旅居文旅-松山驛站",
+    "en_name": "Hub Hotel Songshan Inn",
+    "ch_address": "臺北市松山區八德路四段626號3樓",
+    "en_address": "3F., No.626, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27635889",
+    "room_count": "18"
+  },
+  {
+    "id": "201",
+    "ch_name": "錦棧商旅",
+    "en_name": "GOLDINN",
+    "ch_address": "臺北市中山區林森北路413號2樓、7樓、7樓之14及錦州街46號7樓、48號7樓、46號13樓、48號13樓",
+    "en_address": "2F, 7F, 7F-14, No. 413, Linsen N. Rd.；7F, No. 48, 7F, No. 46, 13F, No. 46, 13F, No. 48, Jinzhou St.,",
+    "tel": "02-77012121",
+    "room_count": "92"
+  },
+  {
+    "id": "436",
+    "ch_name": "皇家季節酒店1館",
+    "en_name": "SEASONS HOTEL",
+    "ch_address": "臺北市大同區南京西路326號1樓、2樓、3樓、4樓、5樓，及8樓、9樓",
+    "en_address": "No.326, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25554288",
+    "room_count": "48"
+  },
+  {
+    "id": "306",
+    "ch_name": "大地清旅",
+    "en_name": "HORIZON INN",
+    "ch_address": "臺北市中山區長安東路二段246號4至5樓",
+    "en_address": "4-5F., No.246, Sec. 2, Chang’an E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-27110102",
+    "room_count": "36"
+  },
+  {
+    "id": "310",
+    "ch_name": "儷夏旅館-西寧館",
+    "en_name": "Lixia Hotel Xining Guan",
+    "ch_address": "臺北市萬華區西寧南路30號3樓、9樓",
+    "en_address": "3、9F., No.30, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23616999",
+    "room_count": "31"
+  },
+  {
+    "id": "509",
+    "ch_name": "緒遠旅館",
+    "en_name": "Shuyuan Hotel",
+    "ch_address": "臺北市中山區錦州街20號3樓",
+    "en_address": "3F., No.20, Jinjhou St., Jhongshan District, Taipei City",
+    "tel": "02-25682005",
+    "room_count": "8"
+  },
+  {
+    "id": "304",
+    "ch_name": "安庭澔思青年旅舍",
+    "en_name": "Easymind Guest House",
+    "ch_address": "臺北市大同區承德路一段66號12樓",
+    "en_address": "12F., No.66, Sec. 1, Chengde Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25526176",
+    "room_count": "4"
+  },
+  {
+    "id": "78",
+    "ch_name": "漢普頓酒店",
+    "en_name": "HAMP COURT PALACE",
+    "ch_address": "臺北市中山區建國北路2段7號",
+    "en_address": "No.7, Sec. 2, Jianguo N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25069696",
+    "room_count": "121"
+  },
+  {
+    "id": "554",
+    "ch_name": "苓旅站前",
+    "en_name": "Lininn TMS",
+    "ch_address": "臺北市中正區忠孝西路一段72號4樓",
+    "en_address": "4F., No.72, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23814755",
+    "room_count": "35"
+  },
+  {
+    "id": "232",
+    "ch_name": "楓?微笑會館",
+    "en_name": "Maple&#39;s Smile",
+    "ch_address": "臺北市士林區菁山里菁山路131巷18之1號",
+    "en_address": "No.18-1, Ln. 131, Jingshan Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28622145",
+    "room_count": "5"
+  },
+  {
+    "id": "210",
+    "ch_name": "仲信大湖商旅",
+    "en_name": "The Koos Hotel Dahu",
+    "ch_address": "臺北市內湖區成功路四段351、353號1至4樓",
+    "en_address": "No.353, Sec. 4, Chenggong Rd., Neihu Dist., Taipei City 11457, Taiwan (R.O.C.)",
+    "tel": "02-27932122",
+    "room_count": "27"
+  },
+  {
+    "id": "56",
+    "ch_name": "米窩飯店-松山",
+    "en_name": "Meworld Hotel-Songsha",
+    "ch_address": "臺北市信義區松山路153號2-7樓",
+    "en_address": "2-7F., No.153, Songshan Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27565659",
+    "room_count": "33"
+  },
+  {
+    "id": "434",
+    "ch_name": "丹迪旅店-天母店",
+    "en_name": "Dandy Hotel - Tianmu Branch",
+    "ch_address": "臺北市士林區中山北路六段728巷2號1-7樓",
+    "en_address": "No.2, Ln. 728, Sec. 6, Zhongshan N. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28732222",
+    "room_count": "54"
+  },
+  {
+    "id": "543",
+    "ch_name": "鳳凰閣旅社",
+    "en_name": "Phoenix-hotspring.taiwan",
+    "ch_address": "臺北市北投區溫泉路106之1號",
+    "en_address": "No.106-1, Wuncyuan Rd.,Beitou District, Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28912827",
+    "room_count": "25"
+  },
+  {
+    "id": "469",
+    "ch_name": "柯達大飯店台北二店",
+    "en_name": "K Hotels, Taipei 2",
+    "ch_address": "臺北市中山區中山北路二段139號",
+    "en_address": "No.139, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25255555",
+    "room_count": "87"
+  },
+  {
+    "id": "330",
+    "ch_name": "華泰瑞舍",
+    "en_name": "GLORIA RESIDENCE",
+    "ch_address": "臺北市中山區林森北路357及359號2樓,-1,-2,-3,-5,-6至7樓,-1,-2,-3,-5,-6、2樓-7,-8,-9至5樓-7,-8,-9",
+    "en_address": "No.357-359, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25310699",
+    "room_count": "48"
+  },
+  {
+    "id": "594",
+    "ch_name": "國王大飯店",
+    "en_name": "Emperor Hotel",
+    "ch_address": "臺北市中山區南京東路1段118號",
+    "en_address": "No.118, Sec. 1, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25811111",
+    "room_count": "97"
+  },
+  {
+    "id": "539",
+    "ch_name": "旅居文旅西門驛站昆明館",
+    "en_name": "Hub Hotel Ximen Inn Kunming Branch",
+    "ch_address": "臺北市萬華區昆明街142號7-8樓",
+    "en_address": "7-8F., No.142, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23818131",
+    "room_count": "37"
+  },
+  {
+    "id": "298",
+    "ch_name": "有誠商旅",
+    "en_name": "Yusense Hotel",
+    "ch_address": "臺北市士林區至善路二段55號4樓至10樓",
+    "en_address": "No.55, Sec.2, Zhishan Rd.,Shihlin Dist. Taipei, Taiwan, R.O.C.",
+    "tel": "02-88615599",
+    "room_count": "64"
+  },
+  {
+    "id": "466",
+    "ch_name": "新仕商務旅店",
+    "en_name": "SHIN-SHIH HOTEL",
+    "ch_address": "臺北市中山區民生西路8號及附2-12樓",
+    "en_address": "No.8, Minsheng W. Rd., Jhongshan District, Taipei City",
+    "tel": "02-25627466",
+    "room_count": "44"
+  },
+  {
+    "id": "433",
+    "ch_name": "馥麗精品旅館",
+    "en_name": "ELEGANCE HOTEL",
+    "ch_address": "臺北市內湖區內湖路1段325號1-5樓",
+    "en_address": "No.325, Sec. 1, Neihu Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)",
+    "tel": "02-26586167",
+    "room_count": "28"
+  },
+  {
+    "id": "479",
+    "ch_name": "美上美旅館",
+    "en_name": "MEI SHANG MEI HOTEL",
+    "ch_address": "臺北市萬華區西園路一段168號11樓",
+    "en_address": "11F., No.168, Sec. 1, Siyuan Rd., Wanhua District, Taipei City",
+    "tel": "02-23088105",
+    "room_count": "9"
+  },
+  {
+    "id": "527",
+    "ch_name": "富順大飯店",
+    "en_name": "FORTUNE HOTEL",
+    "ch_address": "臺北市大同區南京西路177號",
+    "en_address": "No.177, Nanking W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25551016",
+    "room_count": "88"
+  },
+  {
+    "id": "423",
+    "ch_name": "苓旅旅館中山館",
+    "en_name": "LININN ZS",
+    "ch_address": "臺北市中山區建國北路2段91號1樓,93號1至7樓,2樓-1至7樓-1,95巷2號1樓,4號1樓",
+    "en_address": "No.93, Sec. 2, Jianguo N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25084588",
+    "room_count": "42"
+  },
+  {
+    "id": "478",
+    "ch_name": "京都商務旅館",
+    "en_name": "Taipei Kyoto Hotel",
+    "ch_address": "臺北市中山區長春路38號3-10樓",
+    "en_address": "No.38, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25673366",
+    "room_count": "40"
+  },
+  {
+    "id": "99",
+    "ch_name": "白色空間設計旅店",
+    "en_name": "White Space Design Hotel",
+    "ch_address": "臺北市中正區許昌街40號4樓、4樓之1、4樓之2",
+    "en_address": "4F.-2,4F.-1,4F., No. 40, Xuchang St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23822200",
+    "room_count": "13"
+  },
+  {
+    "id": "208",
+    "ch_name": "皇后旅店二館",
+    "en_name": "Queen Hotel II",
+    "ch_address": "臺北市大同區南京西路163號四樓之2",
+    "en_address": "4F.-2, No.163, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25555877",
+    "room_count": "30"
+  },
+  {
+    "id": "10",
+    "ch_name": "古奈堡精品旅館",
+    "en_name": "Good9stay Hotel",
+    "ch_address": "臺北市萬華區峨眉街28號5樓之1",
+    "en_address": "5F.-1, No. 28, Emei St.",
+    "tel": "02-23816808",
+    "room_count": "8"
+  },
+  {
+    "id": "27",
+    "ch_name": "豐宿創新壹旅",
+    "en_name": "GHotel",
+    "ch_address": "臺北市大同區南京西路165號6樓",
+    "en_address": "6F, No. 165, Nanjing W. Rd., Datong Dist., Taipei City 103008 , Taiwan (R.O.C.)",
+    "tel": "02-77557937",
+    "room_count": "28"
+  },
+  {
+    "id": "312",
+    "ch_name": "洛碁大飯店中華館",
+    "en_name": "Green World Zhonghua",
+    "ch_address": "臺北市中正區中華路一段41號2樓、3樓、10樓至14樓",
+    "en_address": "2,3,10-14F., No.41, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23705158",
+    "room_count": "197"
+  },
+  {
+    "id": "510",
+    "ch_name": "晶華酒店",
+    "en_name": "Regent Taipei",
+    "ch_address": "臺北市中山區中山北路2段39巷3號",
+    "en_address": "No.3, Ln. 39, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25238000",
+    "room_count": "550"
+  },
+  {
+    "id": "141",
+    "ch_name": "台北國泰萬怡酒店",
+    "en_name": "Courtyard by Marriott Taipei Downtown",
+    "ch_address": "臺北市中山區民生東路三段6號地下1樓、1、2、14至20樓",
+    "en_address": "No.6,Sec 3,Minsheng E.Rd.,Zhongshan Dist.,Taipei City 10480,Taiwan(R.O.C)",
+    "tel": "02-77503377",
+    "room_count": "227"
+  },
+  {
+    "id": "75",
+    "ch_name": "時尚居商旅",
+    "en_name": "Fashion Residence Business Travel Limited",
+    "ch_address": "臺北市中山區民生東路三段9巷1之1號2樓, 1之1號 3樓,1之1號4樓, 1之2號2樓, 1之2號3樓, 1之2號4樓, 1之3號2樓, 1之3號3樓, 1之3號4樓",
+    "en_address": "No. 1-1, Sec. 3, Minquan E. Rd., Zhongshan Dist., Taipei City, Taiwan (R.O.C.)",
+    "tel": "02-25090102",
+    "room_count": "8"
+  },
+  {
+    "id": "618",
+    "ch_name": "新驛旅店",
+    "en_name": "CityInn Hotel Branch 1",
+    "ch_address": "臺北市中正區懷寧街7號",
+    "en_address": "No.7, Huaining St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23148008",
+    "room_count": "51"
+  },
+  {
+    "id": "136",
+    "ch_name": "美侖商旅",
+    "en_name": "Parkview Taipei",
+    "ch_address": "臺北市中山區吉林路49號1至8樓",
+    "en_address": "No.49,Jilin Rd.,Jhongshan Dist., Taipei City 10458, Taiwan (R.O.C)",
+    "tel": "02-25313535",
+    "room_count": "70"
+  },
+  {
+    "id": "586",
+    "ch_name": "長虹大飯店",
+    "en_name": "RAINBOW HOTEL",
+    "ch_address": "臺北市萬華區漢中街36號1,3-8樓",
+    "en_address": "No.36, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23119193",
+    "room_count": "68"
+  },
+  {
+    "id": "333",
+    "ch_name": "大師會館國際酒店",
+    "en_name": "Master Inn",
+    "ch_address": "臺北市大同區市民大道1段211號16樓等25室",
+    "en_address": "Civic Boulevard, 16th Floor, No. 211, Section 1, Datong Dist., Taipei City 103, Taiwan(R.O.C.)",
+    "tel": "02-25597722",
+    "room_count": "24"
+  },
+  {
+    "id": "600",
+    "ch_name": "內江賓?",
+    "en_name": "Nei Jiang Hotel",
+    "ch_address": "臺北市萬華區西寧南路112號2-6樓",
+    "en_address": "No.112, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23812147",
+    "room_count": "17"
+  },
+  {
+    "id": "193",
+    "ch_name": "町記憶旅店2館",
+    "en_name": "CHO HOTEL 2",
+    "ch_address": "臺北市萬華區昆明街113號2-4樓，115號1-4樓",
+    "en_address": "No.119, Kunming St., Wanhua Dist., Taipei City 108, Taiwan",
+    "tel": "02-23709830",
+    "room_count": "27"
+  },
+  {
+    "id": "104",
+    "ch_name": "旅家雅舍",
+    "en_name": "THe Residence",
+    "ch_address": "臺北市中正區南昌路二段222號11樓",
+    "en_address": "11F., No. 222, Sec. 2, Nanchang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "-",
+    "room_count": "7"
+  },
+  {
+    "id": "223",
+    "ch_name": "斯格加旅店",
+    "en_name": "4 Plus Hostel",
+    "ch_address": "臺北市中山區林森北路72號1樓至4樓",
+    "en_address": "1~4F., No.72, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25629117",
+    "room_count": "7"
+  },
+  {
+    "id": "213",
+    "ch_name": "涪美飯店",
+    "en_name": "Hotel B7 Journey",
+    "ch_address": "臺北市中正區重慶南路一段94號",
+    "en_address": "No. 94, Sec.1, Chongqing S. Rd.., Zhongzheng Dist., Taipei City, Taiwan (R.O.C.)",
+    "tel": "02-23810086",
+    "room_count": "49"
+  },
+  {
+    "id": "269",
+    "ch_name": "清翼居旅店童話館",
+    "en_name": "Morwing Hotel Fairytale",
+    "ch_address": "臺北市中正區開封街1段36號3-7樓",
+    "en_address": "3F-7F, No.36, Sec.1, Kaifeng St., Zhongzheng Dist, Taipei City, R.O.C.",
+    "tel": "02-23117168",
+    "room_count": "39"
+  },
+  {
+    "id": "427",
+    "ch_name": "溫拿旅館",
+    "en_name": "WARM LIFE HOTEL",
+    "ch_address": "臺北市北投區承德路7段380號1-5樓",
+    "en_address": "1-5F., No.380, Sec. 7, Chengde Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28213191",
+    "room_count": "28"
+  },
+  {
+    "id": "559",
+    "ch_name": "賓王大飯店",
+    "en_name": "KING PLAZE HOTEL",
+    "ch_address": "臺北市大同區南京西路163號3至4樓",
+    "en_address": "3-4F., No.163, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25555182",
+    "room_count": "53"
+  },
+  {
+    "id": "413",
+    "ch_name": "采舍精品旅館",
+    "en_name": "Caishe Hotel",
+    "ch_address": "臺北市中山區農安街34號3樓及7樓",
+    "en_address": "3 and 7 F., No.34, Nong-an St., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25963969",
+    "room_count": "35"
+  },
+  {
+    "id": "261",
+    "ch_name": "福爾摩莎壹零壹旅館",
+    "en_name": "Formosa101 Hostel",
+    "ch_address": "臺北市信義區基隆路二段115號5樓、5樓之1及9樓",
+    "en_address": "5F&9F., No.115, Sec. 2, Keelung Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-23771579",
+    "room_count": "34"
+  },
+  {
+    "id": "135",
+    "ch_name": "雅璞文旅",
+    "en_name": "Apause INN",
+    "ch_address": "臺北市中正區黎明里10鄰館前路8號5樓及8樓",
+    "en_address": "5F, No. 8, Guanqian Rd, Zhongzheng District, 10047 Taipei City, Taiwan",
+    "tel": "02-23709966",
+    "room_count": "64"
+  },
+  {
+    "id": "165",
+    "ch_name": "台北五號商旅",
+    "en_name": "chez Taipei No5",
+    "ch_address": "臺北市中正區延平南路160之5號(1樓至4樓)",
+    "en_address": "No.160-5, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23883067",
+    "room_count": "6"
+  },
+  {
+    "id": "403",
+    "ch_name": "正二旅館",
+    "en_name": "The Blue by Just Inn",
+    "ch_address": "臺北市中正區漢口街一段2號3-9樓",
+    "en_address": "3-9 F, No.2, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23708008",
+    "room_count": "55"
+  },
+  {
+    "id": "442",
+    "ch_name": "富園國際商務飯店",
+    "en_name": "Rich Garden Hotel",
+    "ch_address": "臺北市萬華區中華路一段178號",
+    "en_address": "No.178, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23887890",
+    "room_count": "45"
+  },
+  {
+    "id": "401",
+    "ch_name": "台北馥華商旅",
+    "en_name": "FORWARD HOTEL TAIPEI",
+    "ch_address": "臺北市中山區一江街3號、3號2樓、2樓之1至之14、3號3樓、3樓之1至之14、3號4樓、4樓之1至之14、3號5樓、5樓之1至之14、3號6樓、6樓之1至之14、3號7樓、7樓之1至之14",
+    "en_address": "1-7F., No.3, Yijiang St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25118896",
+    "room_count": "90"
+  },
+  {
+    "id": "580",
+    "ch_name": "紫園旅社",
+    "en_name": "PURPLE GARDEN HOTEL",
+    "ch_address": "臺北市大同區南京西路18巷30號",
+    "en_address": "No.30, Lane 18, Nanjing W. Rd., Datong District, Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25557178",
+    "room_count": "27"
+  },
+  {
+    "id": "291",
+    "ch_name": "松哖酒店",
+    "en_name": "Sonnien Hotel",
+    "ch_address": "臺北市大安區仁愛路三段6號及8號1至12樓",
+    "en_address": "No.6,8 Sec. 3, Ren’ai Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27070101",
+    "room_count": "89"
+  },
+  {
+    "id": "386",
+    "ch_name": "台北寒舍艾美酒店",
+    "en_name": "Le Meridien Taipei",
+    "ch_address": "臺北市信義區松仁路38號",
+    "en_address": "No.38, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-66228000",
+    "room_count": "160"
+  },
+  {
+    "id": "614",
+    "ch_name": "台北碧瑤飯店",
+    "en_name": "HOTEL B",
+    "ch_address": "臺北市松山區八德路二段367號1-10樓",
+    "en_address": "1-10F., No.367, Sec. 2, Bade Rd., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27813121",
+    "room_count": "84"
+  },
+  {
+    "id": "353",
+    "ch_name": "俞美飯店",
+    "en_name": "Hotel B6",
+    "ch_address": "臺北市萬華區武昌街二段106號2-8樓",
+    "en_address": "No. 106, sec 2., Wuchang St. Wanhua Dist., Taipei City 10843, Taiwan (R. O. C)",
+    "tel": "02-23883008",
+    "room_count": "42"
+  },
+  {
+    "id": "41",
+    "ch_name": "金弘旅社",
+    "en_name": "JIN HORNG HOTEL",
+    "ch_address": "臺北市大同區南京西路316號4樓",
+    "en_address": "4F., No.316, Nanjing W. Rd., Datong District, Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25554038",
+    "room_count": "19"
+  },
+  {
+    "id": "498",
+    "ch_name": "香榭峇里賓館",
+    "en_name": "SHIANG JI SHIEH HOTEL",
+    "ch_address": "臺北市大安區忠孝東路三段305號7樓",
+    "en_address": "7F., No.305, Sec. 3, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27114159",
+    "room_count": "9"
+  },
+  {
+    "id": "364",
+    "ch_name": "台北世聯商旅",
+    "en_name": "Linkword Hotel Taipei",
+    "ch_address": "臺北市中山區松江路90巷5號1至7樓",
+    "en_address": "1-7F., No.5, Ln. 90, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25626161",
+    "room_count": "44"
+  },
+  {
+    "id": "252",
+    "ch_name": "天使青旅",
+    "en_name": "Angels&#39; Hostel . Taipei Ximen",
+    "ch_address": "臺北市中正區衡陽路51號2樓之2",
+    "en_address": "2F.-2, No.51, Hengyang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23131319",
+    "room_count": "8"
+  },
+  {
+    "id": "381",
+    "ch_name": "城市商旅南東館",
+    "en_name": "CITY SUITES Taipei Nandong",
+    "ch_address": "臺北市松山區南京東路五段411號地下三樓至7樓",
+    "en_address": "B3-7F., No.411, Sec. 5, Nanjing E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27425888",
+    "room_count": "127"
+  },
+  {
+    "id": "619",
+    "ch_name": "圓山大飯店",
+    "en_name": "The Grand Hotel",
+    "ch_address": "臺北市中山區中山北路4段1巷1號",
+    "en_address": "No.1, Ln. 1, Sec. 4, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-28868888",
+    "room_count": "408"
+  },
+  {
+    "id": "414",
+    "ch_name": "富逸旅趣-北車開封館",
+    "en_name": "Rich&Free Hotel-Taipei Main Station(Kaifeng)",
+    "ch_address": "臺北市中正區開封街1段41號2-9樓",
+    "en_address": "No.41, Sec. 1, Kaifeng St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23881788",
+    "room_count": "42"
+  },
+  {
+    "id": "317",
+    "ch_name": "旅樂序精品旅館",
+    "en_name": "Hotel Relax",
+    "ch_address": "臺北市中正區館前路8號10樓、11樓",
+    "en_address": "10-11F., No.8, Guanqian Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23832727",
+    "room_count": "34"
+  },
+  {
+    "id": "605",
+    "ch_name": "南港安樂旅社",
+    "en_name": "MAY ROOMS TAIPEI",
+    "ch_address": "臺北市南港區南港路一段229號2-3樓",
+    "en_address": "2-3F., No.229, Sec. 1, Nangang Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-26511797",
+    "room_count": "10"
+  },
+  {
+    "id": "266",
+    "ch_name": "町記憶旅店",
+    "en_name": "Cho Hotel",
+    "ch_address": "臺北市萬華區昆明街117號、117之1至之6號及119號、119之1至之6號1至7樓",
+    "en_address": "No.119,-1~-6,No.117,-1~-6, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23709830",
+    "room_count": "42"
+  },
+  {
+    "id": "292",
+    "ch_name": "北投老爺酒店",
+    "en_name": "Hotel Royal Beitou",
+    "ch_address": "臺北市北投區中和街2號1樓及6至12樓",
+    "en_address": "No.2, Zhonghe St., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28969777",
+    "room_count": "50"
+  },
+  {
+    "id": "497",
+    "ch_name": "雅莊旅館",
+    "en_name": "ATTIC MOTEL",
+    "ch_address": "臺北市中山區民族東路438號B1至4樓,440號B1至5樓",
+    "en_address": "No.438, Minzu E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25075999",
+    "room_count": "37"
+  },
+  {
+    "id": "62",
+    "ch_name": "雀客快捷台北永康",
+    "en_name": "CHECK inn Express Taipei Yongkang",
+    "ch_address": "臺北市中正區信義路二段73號(1至7樓、1樓夾層、公共使用)",
+    "en_address": "No. 73, Sec. 2, Xinyi Rd., Zhongzheng Dist., Taipei City 100012 , Taiwan (R.O.C.)",
+    "tel": "02-23212721",
+    "room_count": "43"
+  },
+  {
+    "id": "38",
+    "ch_name": "福華國際文教會館",
+    "en_name": "Howard Civil Service International House",
+    "ch_address": "臺北市大安區新生南路3段30號(住宿棟1 樓及5樓至14樓)",
+    "en_address": "No.30.Sec.3,Shin-Shene South Road Taipei.106,Taiwan.R O.C",
+    "tel": "02-77122323",
+    "room_count": "279"
+  },
+  {
+    "id": "96",
+    "ch_name": "玉璽精品飯店",
+    "en_name": "Royal Jade Boutique Hotel",
+    "ch_address": "臺北市士林區中山北路七段14巷2之3號2至10樓、11樓（11層及12層）",
+    "en_address": "2-11F., No. 2-3, Ln. 14, Sec. 7, Zhongshan N. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28766579",
+    "room_count": "85"
+  },
+  {
+    "id": "37",
+    "ch_name": "台北漢來大飯店",
+    "en_name": "GRAND HILAI TAIPEI",
+    "ch_address": "臺北市南港區經貿一路168號",
+    "en_address": "No. 168, Jingmao 1st Rd., Nangang Dist., Taipei City, Taiwan",
+    "tel": "02-27886868",
+    "room_count": "424"
+  },
+  {
+    "id": "349",
+    "ch_name": "東棧商務旅店",
+    "en_name": "VENDOME EAST INN",
+    "ch_address": "臺北市大安區忠孝東路四段209號8樓,8樓-1,-2,211號8樓,8樓-1",
+    "en_address": "8F., No. 209, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan(R. O. C)",
+    "tel": "02-27117721",
+    "room_count": "23"
+  },
+  {
+    "id": "282",
+    "ch_name": "台北中山意舍酒店",
+    "en_name": "amba Taipei Zhongshan",
+    "ch_address": "臺北市中山區中山北路二段57之1號1至8樓",
+    "en_address": "1-8F., No.57-1, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25652828",
+    "room_count": "90"
+  },
+  {
+    "id": "175",
+    "ch_name": "漫映旅舍",
+    "en_name": "Slow Town Hotel-Reel",
+    "ch_address": "臺北市中山區吉林路32號1-5樓",
+    "en_address": "2F.,No.32,Jilin Rd.,Zhongshan Dist.,Taipei City 104,Taiwan(R.O.C)",
+    "tel": "02-25222111",
+    "room_count": "14"
+  },
+  {
+    "id": "410",
+    "ch_name": "柔美商旅",
+    "en_name": "Roumei Hotel",
+    "ch_address": "臺北市中山區建國北路二段64巷9號",
+    "en_address": "No.9, Lane 64, Sec. 2, Jianguo N. Rd., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25031133",
+    "room_count": "47"
+  },
+  {
+    "id": "345",
+    "ch_name": "台糖台北會館",
+    "en_name": "Taisugar Hotel Taipei",
+    "ch_address": "臺北市中正區中華路一段39號",
+    "en_address": "No.39, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23885522",
+    "room_count": "68"
+  },
+  {
+    "id": "148",
+    "ch_name": "沃客汽車旅館",
+    "en_name": "Walker Motel",
+    "ch_address": "臺北市北投區承德路七段236號",
+    "en_address": "No.236, Sec. 7, Chengde Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28226666",
+    "room_count": "63"
+  },
+  {
+    "id": "36",
+    "ch_name": "柯達大飯店台北南京",
+    "en_name": "K Hotels Nanjing",
+    "ch_address": "臺北市松山區南京東路三段333號2至11樓",
+    "en_address": "No. 333, Sec. 3, Nanjing E. Rd., Songshan Dist., Taipei City 105 , Taiwan (R.O.C.)",
+    "tel": "02-27196666",
+    "room_count": "64"
+  },
+  {
+    "id": "58",
+    "ch_name": "苓旅旅館萬年館",
+    "en_name": "LININN",
+    "ch_address": "臺北市萬華區西寧南路70號7樓",
+    "en_address": "7F.,No.70,Sec.1,Xining S. Rd.,Taipei City108,Taiwan(R.O.C)",
+    "tel": "02-23814188",
+    "room_count": "29"
+  },
+  {
+    "id": "101",
+    "ch_name": "台北時代寓所",
+    "en_name": "Hotel Resonance Taipei",
+    "ch_address": "臺北市中正區林森南路7號1至14樓、7-1號1樓",
+    "en_address": "1~14F., No. 7, Linsen S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-77521888",
+    "room_count": "175"
+  },
+  {
+    "id": "374",
+    "ch_name": "柯達大飯店敦南店",
+    "en_name": "KHOTEL TAIPEI DUNNAN",
+    "ch_address": "臺北市大安區敦化南路二段238號B1-14樓",
+    "en_address": "No.238, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27323333",
+    "room_count": "77"
+  },
+  {
+    "id": "459",
+    "ch_name": "薇閣精品旅館",
+    "en_name": "Wego Motel Taipei",
+    "ch_address": "臺北市中山區錦州街27、29號,31號2-4樓",
+    "en_address": "No.27, Jinzhou St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25318000",
+    "room_count": "87"
+  },
+  {
+    "id": "525",
+    "ch_name": "欣欣時尚旅店松山站",
+    "en_name": "Shinshin Hotel Songshan",
+    "ch_address": "臺北市松山區八德路四段453巷12號8-9樓",
+    "en_address": "8-9F., No.12, Ln. 453, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27688832",
+    "room_count": "32"
+  },
+  {
+    "id": "568",
+    "ch_name": "立建賓館",
+    "en_name": "HOTEL LEE-CHAN",
+    "ch_address": "臺北市松山區八德路四段656,656-1號7-8樓",
+    "en_address": "7F., No.656, Sec. 4, Bade Rd., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27691135",
+    "room_count": "66"
+  },
+  {
+    "id": "227",
+    "ch_name": "洛碁大飯店忠孝館",
+    "en_name": "Green World ZhongXiao",
+    "ch_address": "臺北市大安區忠孝東路四段180號1樓、4樓至14樓",
+    "en_address": "No.180, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27116869",
+    "room_count": "150"
+  },
+  {
+    "id": "42",
+    "ch_name": "西門雲町旅店",
+    "en_name": "Sky Gate Hotel",
+    "ch_address": "臺北市萬華區漢中街52號12樓至13樓",
+    "en_address": "12F、13F, No. 52, Hanzhong Street, Wanhua District, Taipei City 108,Taiwan(R.O.C)",
+    "tel": "02-23112555",
+    "room_count": "32"
+  },
+  {
+    "id": "83",
+    "ch_name": "路徒PLUS行旅-站前館",
+    "en_name": "ROADERS PLUS HOTEL-TAIPEI STATION",
+    "ch_address": "臺北市中正區忠孝西路一段80號4樓、24至35樓",
+    "en_address": "4,24-35F., No. 80, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100007 , Taiwan (R.O.C.",
+    "tel": "02-23886366",
+    "room_count": "127"
+  },
+  {
+    "id": "341",
+    "ch_name": "富裕自由商旅",
+    "en_name": "R & F HOTEL",
+    "ch_address": "臺北市大安區忠孝東路四段235號2樓、2樓之1、3樓、3樓之1、4樓之1、5樓之1、6樓之1、7樓、7樓之1及9樓",
+    "en_address": "3F., No.235, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27413147",
+    "room_count": "67"
+  },
+  {
+    "id": "217",
+    "ch_name": "大安公園旅店",
+    "en_name": "DAAN PARK HOTEL",
+    "ch_address": "臺北市中正區信義路2段271號8樓",
+    "en_address": "8F., No.271, Sec. 2, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23965222",
+    "room_count": "13"
+  },
+  {
+    "id": "279",
+    "ch_name": "綺樂文旅 康定館",
+    "en_name": "LE ROOM HOTEL",
+    "ch_address": "臺北市萬華區康定路32號1至6樓",
+    "en_address": "1-6F.,No.32, Kangding Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23615868",
+    "room_count": "23"
+  },
+  {
+    "id": "566",
+    "ch_name": "華麗大飯店",
+    "en_name": "FERRARY HOTEL",
+    "ch_address": "臺北市萬華區康定路41號",
+    "en_address": "No. 41, Kangding Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23818111",
+    "room_count": "88"
+  },
+  {
+    "id": "163",
+    "ch_name": "木文陶喜時尚旅館",
+    "en_name": "M.Taipei Hotel",
+    "ch_address": "臺北市信義區基隆路一段155號2樓之2、2樓之3",
+    "en_address": "No.155-2,Sec 1,Keelung Rd.,Xinyi Dist.,Taipei City 110,Taiwan R.O.C",
+    "tel": "02-27494698",
+    "room_count": "15"
+  },
+  {
+    "id": "486",
+    "ch_name": "燦路都飯店",
+    "en_name": "Hotel Sunroute Taipei",
+    "ch_address": "臺北市中山區民權東路1段9號地下1樓、2-10樓",
+    "en_address": "No.9, Sec. 1, Minquan E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25973610",
+    "room_count": "125"
+  },
+  {
+    "id": "91",
+    "ch_name": "旅城驛鎮",
+    "en_name": "Journey town inn",
+    "ch_address": "臺北市中山區松江路95-1號6樓",
+    "en_address": "6f,no.95-1,songjiang rd,zhongshan dist,taipei city 104 taiwan (R.O.C)",
+    "tel": "02-25081848",
+    "room_count": "10"
+  },
+  {
+    "id": "516",
+    "ch_name": "首都唯客樂飯店",
+    "en_name": "Waikoloa Hotel Taipei",
+    "ch_address": "臺北市中山區長春路187號1-9樓",
+    "en_address": "1-9F., No.187, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25070168",
+    "room_count": "80"
+  },
+  {
+    "id": "615",
+    "ch_name": "古山園旅社",
+    "en_name": "KUSHANYUAN HOTEL",
+    "ch_address": "臺北市萬華區華西街40巷16號",
+    "en_address": "No.16, Lane 40, Huasi St., Wanhua District, Taipei City",
+    "tel": "02-23067408",
+    "room_count": "20"
+  },
+  {
+    "id": "69",
+    "ch_name": "星西門行旅",
+    "en_name": "STAR XIMEN",
+    "ch_address": "臺北市萬華區西寧南路36號9樓、9樓之1、9樓之31至43、9樓之45至51、10樓之1",
+    "en_address": "9F.,No.36,Xining S. Rd.,Wanhua Dist.,Taipei City 108,Taiwan(R.O.C.)",
+    "tel": "02-23313188",
+    "room_count": "54"
+  },
+  {
+    "id": "507",
+    "ch_name": "大地酒店",
+    "en_name": "THE GAIA HOTEL",
+    "ch_address": "臺北市北投區奇岩路1號",
+    "en_address": "No.1, Qiyan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-55518888",
+    "room_count": "48"
+  },
+  {
+    "id": "209",
+    "ch_name": "朗司旅館",
+    "en_name": "chez nous hotel",
+    "ch_address": "臺北市大安區信義路3段147巷18號、2樓至7樓、2樓之1及6樓之1",
+    "en_address": "No.18, Ln. 147, Sec. 3, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27018110",
+    "room_count": "25"
+  },
+  {
+    "id": "50",
+    "ch_name": "天母之星商務會館",
+    "en_name": "Tianmu Star Urban Living",
+    "ch_address": "臺北市北投區石牌路一段166巷46號,2樓至7樓、2樓之1至5樓之1、2樓之2至5樓之2",
+    "en_address": "No. 46, Ln. 166, Sec. 1, Shipai Rd., Beitou Dist., Taipei City",
+    "tel": "02-28231896",
+    "room_count": "17"
+  },
+  {
+    "id": "302",
+    "ch_name": "信星旅館",
+    "en_name": "star hostel",
+    "ch_address": "臺北市大同區華陰街48號至48之11號4樓、50號至50之11號5樓",
+    "en_address": "5F., No.50~ No.50-11,4F., No.48~ No.48-11, Huayin St., Datong Dist., Taipei City 103, Taiwan (R.O.C.",
+    "tel": "02-25562015",
+    "room_count": "57"
+  },
+  {
+    "id": "205",
+    "ch_name": "台北北投雅樂軒酒店",
+    "en_name": "Aloft Taipei Beitou",
+    "ch_address": "臺北市北投區中央里大業路302號、300巷1號，2樓",
+    "en_address": "No.302, Daye Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-77011788",
+    "room_count": "292"
+  },
+  {
+    "id": "338",
+    "ch_name": "西悠巢旅台北館",
+    "en_name": "C U Hotel Taipei",
+    "ch_address": "臺北市大同區民生西路198號之2 (代表號)",
+    "en_address": "1F., No.198, Minsheng W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25585500",
+    "room_count": "87"
+  },
+  {
+    "id": "392",
+    "ch_name": "台北花園大酒店",
+    "en_name": "Taipei Garden Hotel",
+    "ch_address": "臺北市中正區中華路2段1號",
+    "en_address": "No.1, Sec. 2, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23143300",
+    "room_count": "241"
+  },
+  {
+    "id": "237",
+    "ch_name": "寧夏2號旅店",
+    "en_name": "NING XIA No.2 INN",
+    "ch_address": "臺北市大同區寧夏路2號",
+    "en_address": "No.2, Ningxia Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25507619",
+    "room_count": "19"
+  },
+  {
+    "id": "321",
+    "ch_name": "酩月大飯店",
+    "en_name": "Ming Le Hotel",
+    "ch_address": "臺北市萬華區成都路21號4至5樓，23號4至5樓，27巷1號4至5樓",
+    "en_address": "4-5F., No.21, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755218",
+    "room_count": "31"
+  },
+  {
+    "id": "112",
+    "ch_name": "和旅瓏旅館西門館",
+    "en_name": "HATAGO",
+    "ch_address": "臺北市萬華區西寧南路105號2至5樓、2樓之1至5樓之1",
+    "en_address": "2-5F., No. 105, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23616569",
+    "room_count": "42"
+  },
+  {
+    "id": "546",
+    "ch_name": "老爺大酒店",
+    "en_name": "Hotel Royal-Nikko Taipei",
+    "ch_address": "臺北市中山區中山北路2段37之1號",
+    "en_address": "37-1,Chung Shan North Road, Section 2, Taipei, Taiwan, R.O.C",
+    "tel": "02-25423266",
+    "room_count": "202"
+  },
+  {
+    "id": "377",
+    "ch_name": "洛碁大飯店林森館",
+    "en_name": "Green World Linsen",
+    "ch_address": "臺北市中山區林森北路617號1至10樓",
+    "en_address": "No.617, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25955225",
+    "room_count": "80"
+  },
+  {
+    "id": "535",
+    "ch_name": "欣欣時尚旅店",
+    "en_name": "SHIHHSIN HOTEL",
+    "ch_address": "臺北市萬華區昆明街34號4樓",
+    "en_address": "4F., No.34, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23112898",
+    "room_count": "13"
+  },
+  {
+    "id": "429",
+    "ch_name": "茹曦酒店",
+    "en_name": "ILLUME TAIPEI",
+    "ch_address": "臺北市松山區敦化北路100號",
+    "en_address": "No.100, Dunhua N. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27198399",
+    "room_count": "312"
+  },
+  {
+    "id": "457",
+    "ch_name": "華大HOTEL",
+    "en_name": "Hwa Da Hotel",
+    "ch_address": "臺北市信義區永吉路30巷150號1-7樓",
+    "en_address": "1-7F., No.150, Ln. 30, Yongji Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27635313",
+    "room_count": "24"
+  },
+  {
+    "id": "297",
+    "ch_name": "首都大飯店松山館",
+    "en_name": "Capital Hotel-SongShan branch",
+    "ch_address": "臺北市松山區八德路四段658號1至12樓",
+    "en_address": "1-12F., No.658, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-77375577",
+    "room_count": "123"
+  },
+  {
+    "id": "184",
+    "ch_name": "凱達大飯店",
+    "en_name": "Caesar Metro Hotel",
+    "ch_address": "臺北市萬華區艋舺大道167號",
+    "en_address": "No.167, Bangka Blvd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23066777",
+    "room_count": "745"
+  },
+  {
+    "id": "565",
+    "ch_name": "帝華旅社",
+    "en_name": "TI HWA HOTEL",
+    "ch_address": "臺北市萬華區桂林路89號11-12樓",
+    "en_address": "11-12F., No.206, Guilin Rd., Wanhua District, Taipei City",
+    "tel": "02-23118411",
+    "room_count": "32"
+  },
+  {
+    "id": "100",
+    "ch_name": "路徒PLUS行旅-主題館",
+    "en_name": "ROADERS PLUS HOTEL-THEME",
+    "ch_address": "臺北市中正區忠孝西路一段80號5至12樓",
+    "en_address": "5-12F., No. 80, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23311788",
+    "room_count": "109"
+  },
+  {
+    "id": "360",
+    "ch_name": "大倉久和大飯店",
+    "en_name": "The Okura Prestige Taipei",
+    "ch_address": "臺北市中山區南京東路1段9號",
+    "en_address": "9 Nanjing E. Rd., Sec. 1, Taipei, Taiwan",
+    "tel": "02-25231111",
+    "room_count": "208"
+  },
+  {
+    "id": "73",
+    "ch_name": "雅齊旅館",
+    "en_name": "Anjoy Inn",
+    "ch_address": "臺北市中正區重慶南路1段86號3樓、3樓之1、4樓、4樓之1、5樓及3樓、4樓等共同使用、5樓共同使用",
+    "en_address": "3F.3F-1.4F.4F-1.5F., No. 86, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City, Taiwan (R.O.C.",
+    "tel": "02-23709988",
+    "room_count": "93"
+  },
+  {
+    "id": "354",
+    "ch_name": "尚印旅店",
+    "en_name": "StayInn Taipei",
+    "ch_address": "臺北市中山區中山北路二段71號8樓",
+    "en_address": "8F., No.71, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25682270",
+    "room_count": "23"
+  },
+  {
+    "id": "12",
+    "ch_name": "捷絲旅臺大尊賢館",
+    "en_name": "JustSleep Taipei NTU",
+    "ch_address": "臺北市大安區羅斯福路4段83號1-10樓",
+    "en_address": "No.83,Sec.4,Roosevelt Rd., Da&#39;an Dist.,Taipei City 106032,Taiwan(R.O.C)",
+    "tel": "02-77355088",
+    "room_count": "76"
+  },
+  {
+    "id": "121",
+    "ch_name": "日光拾玖",
+    "en_name": "sky 19 hotel",
+    "ch_address": "臺北市中正區忠孝西路一段50號19樓、19樓之1、之2、之5、之17、之27、之29、之31、之43及19樓等共同使用",
+    "en_address": "19F,19F-1、-2、-5、-17、-27、-29、-31、-43, No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23889998",
+    "room_count": "40"
+  },
+  {
+    "id": "585",
+    "ch_name": "東姿商務旅館",
+    "en_name": "EasternBeauty Hotel",
+    "ch_address": "臺北市中山區一江街33號1-4樓",
+    "en_address": "1-4F., No.33, Yijiang St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25638866",
+    "room_count": "29"
+  },
+  {
+    "id": "277",
+    "ch_name": "新驛旅店復興北路店",
+    "en_name": "CityInn Hotel Plus Fuxing N. Rd. Branch",
+    "ch_address": "臺北市中山區復興北路338號",
+    "en_address": "No.338, Fuxing N. Rd., Zhongshan Dist., Taipei City 104, Taiwan",
+    "tel": "02-25158777",
+    "room_count": "120"
+  },
+  {
+    "id": "362",
+    "ch_name": "洛碁大飯店舞衣南京館",
+    "en_name": "Green World Mai-Nanjing",
+    "ch_address": "臺北市中山區南京東路二段163號1-8樓",
+    "en_address": "NO.163,SEC.2.NANJING E.ROAD.,ZHONGSHAN DIST.,TAIPEI CITY 104 TAIWAN",
+    "tel": "02-25035511",
+    "room_count": "40"
+  },
+  {
+    "id": "153",
+    "ch_name": "宜家居商旅",
+    "en_name": "E-JIA",
+    "ch_address": "臺北市北投區中和街40號3樓及3樓之1",
+    "en_address": "3F,NO40,JHINGHE ST,BEITOUDIST,TAIPEI",
+    "tel": "02-28910502",
+    "room_count": "39"
+  },
+  {
+    "id": "274",
+    "ch_name": "東楓商旅",
+    "en_name": "Vendome East Maple inn",
+    "ch_address": "臺北市大安區忠孝東路四段209號7樓、7樓之1、7樓之2、211號7樓",
+    "en_address": "No.211-7,No.209-7, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27211511",
+    "room_count": "22"
+  },
+  {
+    "id": "220",
+    "ch_name": "碩美精品飯店",
+    "en_name": "HOTEL BSTAT",
+    "ch_address": "臺北市中山區中山北路2段71號3樓",
+    "en_address": "3F., No.71, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25621598",
+    "room_count": "25"
+  },
+  {
+    "id": "300",
+    "ch_name": "千彩格精品旅店",
+    "en_name": "Colors Infinity Inn",
+    "ch_address": "臺北市中山區林森北路286號2至3樓",
+    "en_address": "2-3F., No.286, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25637555",
+    "room_count": "19"
+  },
+  {
+    "id": "84",
+    "ch_name": "米窩飯店-西門",
+    "en_name": "Meworld Hotel - Ximen",
+    "ch_address": "臺北市萬華區成都路101、103號1-6樓",
+    "en_address": "1-6F., No.101, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23759951",
+    "room_count": "34"
+  },
+  {
+    "id": "15",
+    "ch_name": "貓尾口袋（西門館）",
+    "en_name": "CAT TAIL POCKET INN (XIMEN)",
+    "ch_address": "臺北市萬華區康定路25巷1號2至4樓",
+    "en_address": "2-4F., No. 1, Ln. 25, Kangding Rd.",
+    "tel": "02-25586002",
+    "room_count": "10"
+  },
+  {
+    "id": "325",
+    "ch_name": "皇家玫瑰旅館中山館",
+    "en_name": "Royal Rose Hotel Zhongshan",
+    "ch_address": "臺北市中山區林森北路133巷8號3樓、4樓、7樓",
+    "en_address": "No.8, Ln. 133, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25317333",
+    "room_count": "16"
+  },
+  {
+    "id": "294",
+    "ch_name": "思泊客",
+    "en_name": "SPARKLE HOTEL",
+    "ch_address": "臺北市信義區信義路五段16號B1,18號B1,B1-1",
+    "en_address": "B1F., No.16, Sec. 5, Xinyi Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27230999",
+    "room_count": "45"
+  },
+  {
+    "id": "11",
+    "ch_name": "臺北嘉佩樂酒店 Capella Taipei",
+    "en_name": "Capella Taipei",
+    "ch_address": "臺北市松山區敦化北路131、133、135、137、139號（地下1樓至2樓、14至17樓）及129號地下1樓至2樓",
+    "en_address": "No. 131、133、、137、139, Dunhua N. Rd., Songshan Dist., Taipei City 105021 , Taiwan (R.O.C.)",
+    "tel": "02-77096868",
+    "room_count": "86"
+  },
+  {
+    "id": "578",
+    "ch_name": "東京國際飯店",
+    "en_name": "Tokyo International Hotel",
+    "ch_address": "臺北市中山區長春路39號2-6樓",
+    "en_address": "No.39, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25643733",
+    "room_count": "43"
+  },
+  {
+    "id": "40",
+    "ch_name": "宏洲旅社",
+    "en_name": "HON CHOU HOTEL",
+    "ch_address": "臺北市萬華區漢中街4號1-7樓",
+    "en_address": "1-7F., No.4, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23319841",
+    "room_count": "28"
+  },
+  {
+    "id": "25",
+    "ch_name": "日初青旅",
+    "en_name": "Sundaily Hostel",
+    "ch_address": "臺北市中正區重慶南路一段49號9樓",
+    "en_address": "9F., No. 49, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23615222",
+    "room_count": "12"
+  },
+  {
+    "id": "517",
+    "ch_name": "優美飯店",
+    "en_name": "YOMI hotel",
+    "ch_address": "臺北市中山區民生東路一段28號1-8樓",
+    "en_address": "No.28, Sec. 1, Minsheng E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25255678",
+    "room_count": "63"
+  },
+  {
+    "id": "504",
+    "ch_name": "明日大飯店",
+    "en_name": "Tomorrow Hotel",
+    "ch_address": "臺北市萬華區成都路23號、27巷1號6至8樓",
+    "en_address": "4-8F., No.23 and No.1, Ln. 27, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755500",
+    "room_count": "40"
+  },
+  {
+    "id": "246",
+    "ch_name": "怡品商旅",
+    "en_name": "Eastin Taipei Hotel",
+    "ch_address": "臺北市大安區忠孝東路四段87號13﹑14樓",
+    "en_address": "13-14F., No.87, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 10690, Taiwan (R.O.C.)",
+    "tel": "02-27766136",
+    "room_count": "81"
+  },
+  {
+    "id": "150",
+    "ch_name": "義華酒店",
+    "en_name": "YIHUA Hotel",
+    "ch_address": "臺北市中山區樂群二路197號",
+    "en_address": "No.197, Lequn 2nd Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85029988",
+    "room_count": "149"
+  },
+  {
+    "id": "394",
+    "ch_name": "台北君品大酒店",
+    "en_name": "Palais De Chine Hotel Taipei",
+    "ch_address": "臺北市大同區承德路1段3號(1樓.5樓~16樓及地下1樓.地下3樓)",
+    "en_address": "No.3, Sec. 1, Chengde Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-21819999",
+    "room_count": "286"
+  },
+  {
+    "id": "122",
+    "ch_name": "甲山林湯旅JSL hotel",
+    "en_name": "JSL hotel",
+    "ch_address": "臺北市中山區興安街56、58、60號1樓，62號1至9樓",
+    "en_address": "1F No.56、58、60,1-9F No.62,Xing’an St.,Zhongshan Dist., Taipei City 104,Taiwan R.O.C",
+    "tel": "02-25012222",
+    "room_count": "157"
+  },
+  {
+    "id": "204",
+    "ch_name": "柯達大飯店台北天津",
+    "en_name": "K HOTELS TAIPEI TIANJIN",
+    "ch_address": "臺北市中山區中山北路1段53巷22號、22號4樓至8樓",
+    "en_address": "No.22, Ln. 53, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25812222",
+    "room_count": "57"
+  },
+  {
+    "id": "218",
+    "ch_name": "禾裕 北車",
+    "en_name": "Heyu House Hotel - Taipei Main Station",
+    "ch_address": "臺北市中正區重慶南路一段1號3樓",
+    "en_address": "3F, No.1, Sec.1, Chongqing S. Rd., Zhongzheng Dist, Taipei City, Taiwan(R.O.C)",
+    "tel": "02-29643678",
+    "room_count": "23"
+  },
+  {
+    "id": "77",
+    "ch_name": "承攜行旅台北八德館",
+    "en_name": "Guide Hotel Taipei Bade",
+    "ch_address": "臺北市松山區八德路四段213號1-7樓",
+    "en_address": "No.213, Sec. 4, Bade Rd., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27425575",
+    "room_count": "76"
+  },
+  {
+    "id": "196",
+    "ch_name": "愛玩客旅店",
+    "en_name": "I Play Inn",
+    "ch_address": "臺北市萬華區西寧南路30號12樓",
+    "en_address": "12F., No.30, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23316008",
+    "room_count": "1"
+  },
+  {
+    "id": "557",
+    "ch_name": "新驛旅店台北車站二館",
+    "en_name": "Cityinn Hotel Taipei Station Branch II",
+    "ch_address": "臺北市大同區長安西路83號",
+    "en_address": "No.83, Chang-an W. Rd., Datong District, Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25555577",
+    "room_count": "50"
+  },
+  {
+    "id": "131",
+    "ch_name": "晶城青年旅館",
+    "en_name": "Starbox Hostel",
+    "ch_address": "臺北市大同區南京西路288號4樓（本號1戶）",
+    "en_address": "4F., No. 288, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25507220",
+    "room_count": "3"
+  },
+  {
+    "id": "123",
+    "ch_name": "丹居青旅",
+    "en_name": "dan hostel",
+    "ch_address": "臺北市萬華區漢中街154號",
+    "en_address": "No. 154, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "-",
+    "room_count": "11"
+  },
+  {
+    "id": "592",
+    "ch_name": "城美行旅",
+    "en_name": "CHAIR MAN HOTEL",
+    "ch_address": "臺北市中正區漢口街一段88,90號1-7樓",
+    "en_address": "1-7F., No.88, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23147305",
+    "room_count": "59"
+  },
+  {
+    "id": "477",
+    "ch_name": "上華旅館",
+    "en_name": "Good Life Hotel",
+    "ch_address": "臺北市中山區雙城街5號2樓至6樓",
+    "en_address": "No.5, Shuangcheng St., Jhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25911190",
+    "room_count": "40"
+  },
+  {
+    "id": "489",
+    "ch_name": "雲富大飯店",
+    "en_name": "Hotel Cloud",
+    "ch_address": "臺北市中山區長春路24號2樓至8樓",
+    "en_address": "No.24, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25316767",
+    "room_count": "55"
+  },
+  {
+    "id": "419",
+    "ch_name": "山水樂會館",
+    "en_name": "SHAN-SHUI-YUE RESORT",
+    "ch_address": "臺北市北投區中和街20巷6號",
+    "en_address": "No.6, Ln. 20, Zhonghe St., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28922665",
+    "room_count": "18"
+  },
+  {
+    "id": "523",
+    "ch_name": "一加一旅館",
+    "en_name": "one plus one hotel",
+    "ch_address": "臺北市萬華區昆明街34號3樓",
+    "en_address": "3F., No.34, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23892886",
+    "room_count": "13"
+  },
+  {
+    "id": "468",
+    "ch_name": "和怡商務旅館",
+    "en_name": "The we hotel",
+    "ch_address": "臺北市南港區重陽路122號",
+    "en_address": "No.122, Chongyang Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-27890505",
+    "room_count": "43"
+  },
+  {
+    "id": "152",
+    "ch_name": "陽明山美國渡假村",
+    "en_name": "american village resort",
+    "ch_address": "臺北市士林區凱旋路69號、71號及61巷2弄6至10號",
+    "en_address": "No.69.Kaixuan Rd.Shlin, Dist.Taipei CITY",
+    "tel": "02-28623232",
+    "room_count": "28"
+  },
+  {
+    "id": "608",
+    "ch_name": "美觀園旅社",
+    "en_name": "MEI KUAN YUAN HOTEL",
+    "ch_address": "臺北市萬華區西寧南路90巷13號",
+    "en_address": "NO.13,Lane 90,Xining South Rd.Wanhua Dist,Taipei,Taiwan",
+    "tel": "02-23314123",
+    "room_count": "15"
+  },
+  {
+    "id": "54",
+    "ch_name": "珂曼旅館",
+    "en_name": "COMMA Boutique Hotel",
+    "ch_address": "臺北市萬華區西寧南路77號1-15樓、2樓之1-15樓之1、3樓之2-14樓之2、12樓之3-13樓之3、12樓之5",
+    "en_address": "1-15th floor,No. 77, Xining South Road, Wanhua District, Taipei City",
+    "tel": "02-23886000",
+    "room_count": "64"
+  },
+  {
+    "id": "202",
+    "ch_name": "東驛 E-HOUSE",
+    "en_name": "E-HOUSE HOTEL",
+    "ch_address": "臺北市萬華區西寧南路155號3F",
+    "en_address": "3F., No.155, Xining S. Rd., Wanhua Dist., Taipei City 10844, Taiwan (R.O.C.)",
+    "tel": "02-23615161",
+    "room_count": "13"
+  },
+  {
+    "id": "449",
+    "ch_name": "雅柏精緻旅館",
+    "en_name": "Alper Motel",
+    "ch_address": "臺北市松山區南京東路五段319、321、323、325、327、329、331號",
+    "en_address": "No.325, Sec. 5, Nanjing E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27645858",
+    "room_count": "36"
+  },
+  {
+    "id": "480",
+    "ch_name": "雲沐行旅",
+    "en_name": "Cloud Hotel Arena",
+    "ch_address": "臺北市大安區忠孝東路四段197號13樓及13樓之4、5、6、7、8、9",
+    "en_address": "13F., No.197, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27735177",
+    "room_count": "42"
+  },
+  {
+    "id": "589",
+    "ch_name": "東皇大飯店",
+    "en_name": "EMPIRE HOTEL",
+    "ch_address": "臺北市北投區溫泉路108號1-6樓",
+    "en_address": "1-6F., No.108, Wenquan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28913027",
+    "room_count": "39"
+  },
+  {
+    "id": "447",
+    "ch_name": "豪贊旅店",
+    "en_name": "HAOZHAN HOTEL",
+    "ch_address": "臺北市萬華區昆明街34號2樓",
+    "en_address": "2F., No.34, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23702199",
+    "room_count": "14"
+  },
+  {
+    "id": "465",
+    "ch_name": "大來商旅",
+    "en_name": "Delight Hotel",
+    "ch_address": "臺北市松山區長春路432號1-7樓",
+    "en_address": "No. 432 Changchun Rd. Taipei, Taiwan",
+    "tel": "02-27160011",
+    "room_count": "62"
+  },
+  {
+    "id": "462",
+    "ch_name": "洛碁三貝茲",
+    "en_name": "Green World Triplebeds",
+    "ch_address": "臺北市松山區八德路四段16號1-7樓",
+    "en_address": "1-7F., No.16, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27630555",
+    "room_count": "54"
+  },
+  {
+    "id": "103",
+    "ch_name": "晴悅旅店",
+    "en_name": "Ching Yueh Hotel",
+    "ch_address": "臺北市中山區新生北路三段10號2、3樓",
+    "en_address": "2F., No. 10, Sec. 3, Xinsheng N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25992211",
+    "room_count": "19"
+  },
+  {
+    "id": "342",
+    "ch_name": "福泰桔子商務旅館西門店",
+    "en_name": "Forte Orange Hotel-Ximen",
+    "ch_address": "臺北市萬華區中華路一段166之2號1至11樓",
+    "en_address": "No. 166-2, Section 1, Zhonghua Rd., Wanhua Dist., Taipei City 10846, Taiwan(R. O. C)",
+    "tel": "02-23115556",
+    "room_count": "60"
+  },
+  {
+    "id": "440",
+    "ch_name": "情覓汽車旅館",
+    "en_name": "LOVE STORY HOTEL",
+    "ch_address": "臺北市中山區植福路189號2樓",
+    "en_address": "No.189, Zhifu Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85020689",
+    "room_count": "16"
+  },
+  {
+    "id": "283",
+    "ch_name": "互舍商旅台北館",
+    "en_name": "H? House, Taipei",
+    "ch_address": "臺北市大同區重慶北路二段172號1至14樓、5樓之1至14樓之1及174號、保安街13、11號4樓",
+    "en_address": "No.172, Sec. 2 Chongqing N. Rd. ,Datong Dist.,Taipei City 10357, Taiwan (R.O.C.)",
+    "tel": "02-25533919",
+    "room_count": "148"
+  },
+  {
+    "id": "499",
+    "ch_name": "丹迪旅店-天津店",
+    "en_name": "Dandy Hotel Tianjin Branch",
+    "ch_address": "臺北市中山區中山北路一段135巷13號",
+    "en_address": "No.13, Ln. 135, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25415788",
+    "room_count": "30"
+  },
+  {
+    "id": "404",
+    "ch_name": "薇閣精品旅館(大直)",
+    "en_name": "We-Go Motel",
+    "ch_address": "臺北市中山區敬業三路11號",
+    "en_address": "No.11, Jingye 3rd Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85026000",
+    "room_count": "96"
+  },
+  {
+    "id": "446",
+    "ch_name": "貴族商務旅館",
+    "en_name": "NOBLE MOTEL",
+    "ch_address": "臺北市士林區忠誠路二段21巷10,12號1至6樓",
+    "en_address": "1-6F., No.10,12, Ln. 21, Sec. 2, Zhongcheng Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28323388",
+    "room_count": "49"
+  },
+  {
+    "id": "311",
+    "ch_name": "台北漫步旅店",
+    "en_name": "Meander Taipei Hostel",
+    "ch_address": "臺北市萬華區成都路163號2至6樓",
+    "en_address": "2-6F., No.163, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23831334",
+    "room_count": "27"
+  },
+  {
+    "id": "90",
+    "ch_name": "柯達大飯店台北林森",
+    "en_name": "K HOTELS LINSEN",
+    "ch_address": "臺北市中山區林森北路74號、76號(1樓至8樓 )",
+    "en_address": "No. 74, Linsen N. Rd., Zhongshan Dist., Taipei City 104005, Taiwan (R.O.C.)",
+    "tel": "02-25712222",
+    "room_count": "49"
+  },
+  {
+    "id": "346",
+    "ch_name": "WESTGATE HOTEL 永安棧",
+    "en_name": "WESTGATE HOTEL",
+    "ch_address": "臺北市萬華區中華路一段148號1樓、148之1號1樓及150號1至10樓",
+    "en_address": "No. 148 1F, No. 148-1 1F, No. 150, Section 1, Chung Hwa. Rd., Wanhua Dist., Taipei City 10843, Taiwa",
+    "tel": "02-23313161",
+    "room_count": "121"
+  },
+  {
+    "id": "188",
+    "ch_name": "美好行旅北車重慶館",
+    "en_name": "Wondertime",
+    "ch_address": "臺北市中正區重慶南路一段1號5樓",
+    "en_address": "5F., No.1, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "03-2873706",
+    "room_count": "14"
+  },
+  {
+    "id": "552",
+    "ch_name": "承攜行旅台北台大館",
+    "en_name": "Guide Hotel Taipei NTU",
+    "ch_address": "臺北市中正區羅斯福路三段98號1-8樓",
+    "en_address": "1-8F., No.98, Sec. 3, Roosevelt Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23657367",
+    "room_count": "35"
+  },
+  {
+    "id": "23",
+    "ch_name": "美好行旅",
+    "en_name": "美好行旅",
+    "ch_address": "臺北市中正區開封街一段2號12樓、12樓之1",
+    "en_address": "12F., No. 2, Sec. 1, Kaifeng St., Zhongzheng Dist., Taipei City",
+    "tel": "02-23617608",
+    "room_count": "5"
+  },
+  {
+    "id": "375",
+    "ch_name": "探索汽車旅館延平館",
+    "en_name": "Discovery Motel Yanpin",
+    "ch_address": "臺北市士林區延平北路五段23號2至5樓及23之1號2至5樓",
+    "en_address": "No.23, Sec. 5, Yanping N. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-88112588",
+    "room_count": "40"
+  },
+  {
+    "id": "47",
+    "ch_name": "陸號行旅西門館",
+    "en_name": "hotel6 Ximen",
+    "ch_address": "臺北市萬華區中華路一段152號5樓、5樓之1、9樓、10樓；成都路1號9樓、10樓",
+    "en_address": "5th, 1st, 9th, and 10th floors, No. 152, Section 1, Zhonghua Road, Wanhua District, Taipei City; 9th",
+    "tel": "02-23144003",
+    "room_count": "27"
+  },
+  {
+    "id": "426",
+    "ch_name": "金來商旅",
+    "en_name": "Royal Biz Taipei",
+    "ch_address": "臺北市中正區金山南路1段71號B1-7樓,71之1號2-7樓",
+    "en_address": "No.71, Sec. 1, Jinshan S. Rd., Zhongzheng Dist., Taipei City 10056, Taiwan (R.O.C.)",
+    "tel": "02-23979399",
+    "room_count": "48"
+  },
+  {
+    "id": "179",
+    "ch_name": "文舺行旅",
+    "en_name": "Monka Hotel",
+    "ch_address": "臺北市萬華區西園路一段139號1-4樓",
+    "en_address": "1F-4F., No.139, Sec. 1, Xiyuan Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23064990",
+    "room_count": "9"
+  },
+  {
+    "id": "57",
+    "ch_name": "陸號行旅中華館",
+    "en_name": "hotel6 Zhonghua",
+    "ch_address": "臺北市萬華區中華路一段90號9樓、11樓",
+    "en_address": "9F.、11F.,No.90,Sec.1,Zhonghua Rd.,Wanhua Dist.,Taipei City108002,Taiwan(R.O.C)",
+    "tel": "02-23112522",
+    "room_count": "72"
+  },
+  {
+    "id": "97",
+    "ch_name": "雀客旅館台北站前",
+    "en_name": "CHECK inn Taipei Main Station Branch",
+    "ch_address": "臺北市中正區襄陽路4號(1至10樓)",
+    "en_address": "1F.~10F,No. 4, Xiangyang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23120522",
+    "room_count": "100"
+  },
+  {
+    "id": "347",
+    "ch_name": "北投天玥泉溫泉會館",
+    "en_name": "BEITOU HOT SPRING RESORT",
+    "ch_address": "臺北市北投區中山路3號3樓",
+    "en_address": "3F, No.3, Zhongshan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28988661",
+    "room_count": "21"
+  },
+  {
+    "id": "278",
+    "ch_name": "北門臥客青年旅舍",
+    "en_name": "WE COME HOSTEL",
+    "ch_address": "臺北市大同區甘谷街26號2樓之1",
+    "en_address": "2F.-1, No.26, Gangu St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25557177",
+    "room_count": "5"
+  },
+  {
+    "id": "117",
+    "ch_name": "MVSA 慕舍酒店",
+    "en_name": "Hotel Mvsa",
+    "ch_address": "臺北市中山區建國北路一段61號",
+    "en_address": "No. 61, Sec. 1, Jianguo N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25006772",
+    "room_count": "38"
+  },
+  {
+    "id": "384",
+    "ch_name": "台北馥華商旅南港館",
+    "en_name": "Forward Hotel Taipei-Nangang Branch",
+    "ch_address": "臺北市南港區三重路23號1-4樓",
+    "en_address": "1-4F., No.23, Sanchong Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-27852655",
+    "room_count": "66"
+  },
+  {
+    "id": "200",
+    "ch_name": "東旅",
+    "en_name": "Hotel East",
+    "ch_address": "臺北市松山區南京東路五段97號地下1樓、1樓夾層、1至10樓",
+    "en_address": "B1-10F,No.97, Sec. 5, Nanjing E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27663889",
+    "room_count": "35"
+  },
+  {
+    "id": "307",
+    "ch_name": "台北文華東方酒店",
+    "en_name": "Mandarin Oriental Hotel, Taipei",
+    "ch_address": "臺北市松山區敦化北路158號B3-14樓",
+    "en_address": "B3-14F, No.158, Dunhua N. Rd., Songshan Dist., Taipei City 10548, Taiwan (R.O.C.)",
+    "tel": "02-27156888",
+    "room_count": "303"
+  },
+  {
+    "id": "454",
+    "ch_name": "台北國際飯店",
+    "en_name": "Taipei International Hotel",
+    "ch_address": "臺北市中山區南京東路一段66號3樓至10樓",
+    "en_address": "3F-10F., No. 66, Sec. 1, Nanjing E. Rd., Zhongshan Dist., Taipei City 104 , Taiwan (R.O.C.)",
+    "tel": "02-66085999",
+    "room_count": "85"
+  },
+  {
+    "id": "147",
+    "ch_name": "拉開門輕旅",
+    "en_name": "Le Passage Hostel",
+    "ch_address": "臺北市中正區紹興北街8號4樓之1至4樓之3",
+    "en_address": "4F.-1, No.8, Shaoxing N. St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-66044400",
+    "room_count": "6"
+  },
+  {
+    "id": "616",
+    "ch_name": "皇家大飯店",
+    "en_name": "ROYAL HOTEL",
+    "ch_address": "臺北市中正區懷寧街5-1號1-6樓",
+    "en_address": "No 5-1,Hwaining Street,Taipei City,Taiwan",
+    "tel": "02-23111668",
+    "room_count": "40"
+  },
+  {
+    "id": "315",
+    "ch_name": "途中‧台北國際青年旅舍",
+    "en_name": "On My Way . Taipei Youth Hostel",
+    "ch_address": "臺北市北投區光明路82號1至5樓",
+    "en_address": "No. 82, Guangming Rd., Beitou District, Taipei City 112, Taiwan",
+    "tel": "02-28910230",
+    "room_count": "10"
+  },
+  {
+    "id": "106",
+    "ch_name": "同一大飯店",
+    "en_name": "Unite hotel",
+    "ch_address": "臺北市中山區農安街36號3-10樓",
+    "en_address": "3-10F, No. 36, Nong&#39;an St., Zhongshan Dist., Taipei City 104030 , Taiwan (R.O.C.)",
+    "tel": "02-25923977",
+    "room_count": "95"
+  },
+  {
+    "id": "350",
+    "ch_name": "新麗旅店",
+    "en_name": "*",
+    "ch_address": "臺北市萬華區開封街二段53號3-5,7-9樓",
+    "en_address": "No. 53, Sec 2, Kaifeng St., Wanhua Dist., Taipei City 108, Taiwan (R. O. C)",
+    "tel": "02-23817899",
+    "room_count": "22"
+  },
+  {
+    "id": "363",
+    "ch_name": "薆悅酒店",
+    "en_name": "inhouse hotel",
+    "ch_address": "臺北市萬華區西寧南路107號1至10樓",
+    "en_address": "No.107 Xining South Road, Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23753388",
+    "room_count": "53"
+  },
+  {
+    "id": "500",
+    "ch_name": "歐華酒店",
+    "en_name": "The Riviera Hotel",
+    "ch_address": "臺北市中山區林森北路646號",
+    "en_address": "No.646, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25853258",
+    "room_count": "112"
+  },
+  {
+    "id": "143",
+    "ch_name": "門埕青旅",
+    "en_name": "Old Door Hostel",
+    "ch_address": "臺北市大同區鄭州路21巷10號(1至3樓)",
+    "en_address": "No.10, Ln. 21, Zhengzhou Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25585676",
+    "room_count": "2"
+  },
+  {
+    "id": "293",
+    "ch_name": "誠品行旅",
+    "en_name": "eslite hotel",
+    "ch_address": "臺北市信義區菸廠路98號、2樓、3樓",
+    "en_address": "No.98, Yanchang Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-66262888",
+    "room_count": "104"
+  },
+  {
+    "id": "93",
+    "ch_name": "大欣大飯店",
+    "en_name": "DAHSHIN HOTEL",
+    "ch_address": "臺北市中山區中山北路二段27巷2-2號1-5樓",
+    "en_address": "No.2-2, Ln. 27, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25652155",
+    "room_count": "32"
+  },
+  {
+    "id": "235",
+    "ch_name": "趣旅館‧林森館",
+    "en_name": "Discovery Hotel.Linsen",
+    "ch_address": "臺北市中山區林森北路487號1樓至2樓",
+    "en_address": "1F., No.487, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25683242",
+    "room_count": "123"
+  },
+  {
+    "id": "219",
+    "ch_name": "卡夫人背包客棧",
+    "en_name": "Cavemem Hostel",
+    "ch_address": "臺北市中正區館前路34號7樓",
+    "en_address": "7F, No.34, Guanqian Rd., Taipei, Taiwan(R.O.C.)",
+    "tel": "02-23881666",
+    "room_count": "14"
+  },
+  {
+    "id": "270",
+    "ch_name": "賦樂旅居",
+    "en_name": "HOTEL PROVERBS TAIPEI",
+    "ch_address": "臺北市大安區大安路一段56號、56號4樓",
+    "en_address": "No.56, Sec. 1, Da’an Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27111118",
+    "room_count": "42"
+  },
+  {
+    "id": "189",
+    "ch_name": "台北中山雅樂軒酒店",
+    "en_name": "Aloft Taipei Zhongshan",
+    "ch_address": "臺北市中山區雙城街1號",
+    "en_address": "No.1, Shuangcheng St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77439999",
+    "room_count": "88"
+  },
+  {
+    "id": "526",
+    "ch_name": "台北星辰旅館",
+    "en_name": "TAIPEI CITIZEN HOTEL",
+    "ch_address": "臺北市中正區金山南路一段80號1至7樓",
+    "en_address": "No.80, Sec. 1, Jinshan S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23971377",
+    "room_count": "52"
+  },
+  {
+    "id": "388",
+    "ch_name": "新驛旅店西門捷運店",
+    "en_name": "Cityinn Hotel Plus - Ximending Branch",
+    "ch_address": "臺北市中正區衡陽路124號1、2、4、6、7樓,寶慶路63號",
+    "en_address": "1,2,4,6,7F., No.124, Hengyang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-77252288",
+    "room_count": "44"
+  },
+  {
+    "id": "490",
+    "ch_name": "麗都大飯店",
+    "en_name": "Rido Hotel",
+    "ch_address": "臺北市大安區信義路三段11號1-11樓",
+    "en_address": "No.11, Sec. 3, Xinyi Rd., Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27065600",
+    "room_count": "73"
+  },
+  {
+    "id": "598",
+    "ch_name": "力歐時尚旅館西門館",
+    "en_name": "LIO HOTEL XIMEN",
+    "ch_address": "臺北市萬華區康定路25巷36弄4,6號2-4樓",
+    "en_address": "2-4F., No.4-6, Aly. 36, Ln. 25, Kangding Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23889855",
+    "room_count": "17"
+  },
+  {
+    "id": "515",
+    "ch_name": "上賓大飯店",
+    "en_name": "VIP HOTEL",
+    "ch_address": "臺北市中山區錦州街23巷4號",
+    "en_address": "No.4, Lane 23, Jinjhou St., Jhongshan District, Taipei City",
+    "tel": "02-25113232",
+    "room_count": "50"
+  },
+  {
+    "id": "424",
+    "ch_name": "友徠精品旅館",
+    "en_name": "Uline Boutique Motel",
+    "ch_address": "臺北市南港區重陽路57巷15號",
+    "en_address": "No.15, Ln. 57, Chongyang Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-26510101",
+    "room_count": "26"
+  },
+  {
+    "id": "272",
+    "ch_name": "浩室物業1館",
+    "en_name": "MeetingMates",
+    "ch_address": "臺北市萬華區昆明街316號、318號",
+    "en_address": "No.316,No.318, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-77553617",
+    "room_count": "11"
+  },
+  {
+    "id": "61",
+    "ch_name": "希爾商旅台北館",
+    "en_name": "HotelsHere,Taipei",
+    "ch_address": "臺北市中山區南京東路二段11號4至5樓",
+    "en_address": "4-5F, No.11, Sec. 2, Nanjing E. Road, Zhongshan District, Taipei city",
+    "tel": "02-25678858",
+    "room_count": "32"
+  },
+  {
+    "id": "206",
+    "ch_name": "旅樂序精品旅館二館",
+    "en_name": "HOTEL RELAX2",
+    "ch_address": "臺北市中正區漢口街一段15號1至8樓",
+    "en_address": "1-8F, No.15, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23757555",
+    "room_count": "58"
+  },
+  {
+    "id": "584",
+    "ch_name": "國際大旅館",
+    "en_name": "INTERNATIONAL HOTEL",
+    "ch_address": "臺北市北投區湖山路一段7號",
+    "en_address": "No.7, Sec. 1, Hushan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28617100",
+    "room_count": "44"
+  },
+  {
+    "id": "421",
+    "ch_name": "寶格利時尚旅館",
+    "en_name": "BURGARY HOTEL",
+    "ch_address": "臺北市萬華區中華路一段168號1-15樓",
+    "en_address": "1-15F., No.168, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23821314",
+    "room_count": "46"
+  },
+  {
+    "id": "365",
+    "ch_name": "香樹花園酒店",
+    "en_name": "S-AURA HOTEL",
+    "ch_address": "臺北市中山區堤頂大道二段566號1樓、2樓、4 樓（四層至六層）、7樓（七層至十一層）",
+    "en_address": "7-11F., No.566, Sec. 2, Tiding Blvd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-85023955",
+    "room_count": "84"
+  },
+  {
+    "id": "183",
+    "ch_name": "台灣柒天精品旅店",
+    "en_name": "Sevenday Hotel",
+    "ch_address": "臺北市萬華區環河南路二段282號1至4樓",
+    "en_address": "No.282, Sec. 2, Huanhe S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23085222",
+    "room_count": "36"
+  },
+  {
+    "id": "356",
+    "ch_name": "橙舍背包客國際青年旅館",
+    "en_name": "Taipei City Hostel",
+    "ch_address": "臺北市萬華區漢口街二段41號1-3樓",
+    "en_address": "No.41, Sec. 2, Hankou St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23119559",
+    "room_count": "5"
+  },
+  {
+    "id": "110",
+    "ch_name": "藝築文旅開封館",
+    "en_name": "Artinn Hotel",
+    "ch_address": "臺北市萬華區開封街二段63號",
+    "en_address": "No. 63, Sec. 2, Kaifeng St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23312986",
+    "room_count": "12"
+  },
+  {
+    "id": "320",
+    "ch_name": "方舟旅店",
+    "en_name": "ARK HOTEL",
+    "ch_address": "臺北市中正區信義路二段255號1至4樓",
+    "en_address": "1-4F., No.255, Sec. 2, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23912600",
+    "room_count": "12"
+  },
+  {
+    "id": "8",
+    "ch_name": "太子文旅-修齊館",
+    "en_name": "Academy Hotel-Hsiu Chi",
+    "ch_address": "臺北市中正區思源街16、16之1號",
+    "en_address": "No. 16、16-1, Siyuan St., Zhongzheng Dist., Taipei City",
+    "tel": "02-23631066",
+    "room_count": "95"
+  },
+  {
+    "id": "522",
+    "ch_name": "春天酒店",
+    "en_name": "Spring City Resort",
+    "ch_address": "臺北市北投區幽雅路18號",
+    "en_address": "1-6F., No.18, Youya Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28924546",
+    "room_count": "81"
+  },
+  {
+    "id": "127",
+    "ch_name": "玩行旅 台北館",
+    "en_name": "wowhappy-taipei",
+    "ch_address": "臺北市中正區金山南路1段8號1樓至8樓",
+    "en_address": "No.8,Sec.1,Jinshan S.Rd., Zhongzheng Dist., Taipei City 100,Taiwan(R.O.C)",
+    "tel": "02-23212680",
+    "room_count": "49"
+  },
+  {
+    "id": "491",
+    "ch_name": "嘉賓閣旅館",
+    "en_name": "Jia Bin Ger Hot Spring Resorts Hotel",
+    "ch_address": "臺北市北投區光明路230號B1-7樓",
+    "en_address": "B1-7F., No.230, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28930055",
+    "room_count": "47"
+  },
+  {
+    "id": "314",
+    "ch_name": "台北慕軒飯店，臻品之選",
+    "en_name": "Madison Taipei, a Tribute Portfolio Hotel",
+    "ch_address": "臺北市大安區敦化南路一段331號1-13樓",
+    "en_address": "1-13F., No.331, Sec. 1, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-77266699",
+    "room_count": "124"
+  },
+  {
+    "id": "435",
+    "ch_name": "美麗信花園酒店",
+    "en_name": "Miramar Garden Taipei",
+    "ch_address": "臺北市中山區市民大道三段83號",
+    "en_address": "No.83, Sec. 3, Civic Blvd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-87728800",
+    "room_count": "203"
+  },
+  {
+    "id": "228",
+    "ch_name": "漫旅時光",
+    "en_name": "Travel Time hotel",
+    "ch_address": "臺北市中山區林森北路282號3樓",
+    "en_address": "3F., No.282, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25617711",
+    "room_count": "20"
+  },
+  {
+    "id": "107",
+    "ch_name": "美亞商旅",
+    "en_name": "MAYER INN",
+    "ch_address": "臺北市中正區忠孝西路一段50號3樓至5樓及3樓之1至5樓之1",
+    "en_address": "3-5F., No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23313001",
+    "room_count": "264"
+  },
+  {
+    "id": "620",
+    "ch_name": "龍山旅社",
+    "en_name": "LongShan Inn",
+    "ch_address": "臺北市萬華區西園路一段125巷13-1號1-3樓",
+    "en_address": "No.13-1, Lane 125, Sec. 1, Siyuan Rd., Wanhua District, Taipei City",
+    "tel": "02-23064990",
+    "room_count": "14"
+  },
+  {
+    "id": "316",
+    "ch_name": "龍蝦先生的秘密巢穴",
+    "en_name": "The Box Hotel",
+    "ch_address": "臺北市大同區重慶北路一段22號9樓",
+    "en_address": "9F, No. 22, Sec.1, Chongqing N Rd, Datong Dist. Taipei City 108, Taiwan(R. O. C)",
+    "tel": "02-25558752",
+    "room_count": "33"
+  },
+  {
+    "id": "495",
+    "ch_name": "小雅旅店",
+    "en_name": "SHOW ART HOTEL",
+    "ch_address": "臺北市松山區八德路四段616號5樓",
+    "en_address": "5F., No.616, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27631122",
+    "room_count": "17"
+  },
+  {
+    "id": "249",
+    "ch_name": "天雲旅棧台北基河",
+    "en_name": "Tango Hotel Taipei JiHe",
+    "ch_address": "臺北市士林區基河路18號",
+    "en_address": "No.18, Jihe Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28856666",
+    "room_count": "31"
+  },
+  {
+    "id": "231",
+    "ch_name": "日日吉旅店",
+    "en_name": "Lucky One Hostel",
+    "ch_address": "臺北市大同區昌吉街1號 1樓至3樓",
+    "en_address": "No.1, Changji St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25991787",
+    "room_count": "21"
+  },
+  {
+    "id": "16",
+    "ch_name": "北投晶泉丰旅",
+    "en_name": "Wellspring by Silks Beitou",
+    "ch_address": "臺北市北投區泉源路19號、19之1號（地上1層至地上14層）",
+    "en_address": "No. 19, Quanyuan Rd., Beitou Dist., Taipei City",
+    "tel": "02-66108000",
+    "room_count": "98"
+  },
+  {
+    "id": "484",
+    "ch_name": "丹迪旅店-大安森林公園店",
+    "en_name": "Dandy Hotel Dann Park Branch",
+    "ch_address": "臺北市大安區信義路三段33號3-10樓",
+    "en_address": "NO.33,Sec. 3,Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan",
+    "tel": "02-27076899",
+    "room_count": "73"
+  },
+  {
+    "id": "13",
+    "ch_name": "天雲旅棧台北開封",
+    "en_name": "Tianyun Hotel Taipei Kaifeng",
+    "ch_address": "臺北市中正區開封街1段33號1至8樓",
+    "en_address": "1-8F., No. 33, Sec. 1, Kaifeng St., Zhongzheng Dist., Taipei City",
+    "tel": "02-23811111",
+    "room_count": "158"
+  },
+  {
+    "id": "167",
+    "ch_name": "泊居旅店二館",
+    "en_name": "OURS INN II",
+    "ch_address": "臺北市中山區林森北路96號3樓、3樓之1",
+    "en_address": "3F-1,3F,No.96,Linsen N, Rd.,Zhongshan Dist., Taipei city,Taiwan",
+    "tel": "02-25417766",
+    "room_count": "14"
+  },
+  {
+    "id": "450",
+    "ch_name": "享住旅店 Just Live Inn",
+    "en_name": "Just Live Inn",
+    "ch_address": "臺北市中正區漢口街一段4,6號2-4樓",
+    "en_address": "No.4,6, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23713151",
+    "room_count": "18"
+  },
+  {
+    "id": "572",
+    "ch_name": "老爺商務會館",
+    "en_name": "RoyalInn Taipei Nanxi",
+    "ch_address": "臺北市中山區南京西路1號8-11樓",
+    "en_address": "8F., No.1, Nanjing W. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25316171",
+    "room_count": "76"
+  },
+  {
+    "id": "192",
+    "ch_name": "旅晨行旅",
+    "en_name": "RE-CHANGE",
+    "ch_address": "臺北市中正區重慶南路一段1號2樓",
+    "en_address": "2F., No.1, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23116388",
+    "room_count": "23"
+  },
+  {
+    "id": "259",
+    "ch_name": "台北美福大飯店",
+    "en_name": "Grand Mayfull Hotel Taipei",
+    "ch_address": "臺北市中山區樂群二路55號",
+    "en_address": "No.55, Lequn 2nd Rd., Zhongshan Dist., Taipei 10462, Taiwan",
+    "tel": "02-77223399",
+    "room_count": "146"
+  },
+  {
+    "id": "1",
+    "ch_name": "?朗旅宿",
+    "en_name": "AKA HOTEL",
+    "ch_address": "臺北市大安區金華街187號2樓、5樓~13樓",
+    "en_address": "2F., NO.187,Jinhua St.,Da& #39;an Dist.,Taipei City 106304,Taiwan(R.O.C.)",
+    "tel": "02-23418828",
+    "room_count": "100"
+  },
+  {
+    "id": "335",
+    "ch_name": "意芙旅店",
+    "en_name": "IF inn",
+    "ch_address": "臺北市大同區延平北路二段197號2樓",
+    "en_address": "2F., No.197, Sec. 2, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25532133",
+    "room_count": "20"
+  },
+  {
+    "id": "451",
+    "ch_name": "洛碁大飯店慶天閣",
+    "en_name": "Green World Sansui",
+    "ch_address": "臺北市中山區中山北路二段181號7-9樓",
+    "en_address": "7-9F., No.181, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25971281",
+    "room_count": "24"
+  },
+  {
+    "id": "6",
+    "ch_name": "雀客藏居台北內湖",
+    "en_name": "CHECK inn SELECT Taipei NeiHu",
+    "ch_address": "臺北市內湖區成功路二段512、514號地下1樓至10樓",
+    "en_address": "B1F-10F., No. 512、514, Sec. 2, Chenggong Rd., Neihu Dist., Taipei City 114032, Taiwan (R.O.C.)",
+    "tel": "02-27956977",
+    "room_count": "160"
+  },
+  {
+    "id": "105",
+    "ch_name": "所在行旅",
+    "en_name": "Urban Abode",
+    "ch_address": "臺北市中正區忠孝西路一段50號 24樓之6",
+    "en_address": "Suite 6, 24th Fl., No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.",
+    "tel": "02-77552077",
+    "room_count": "2"
+  },
+  {
+    "id": "461",
+    "ch_name": "美代溫泉飯店",
+    "en_name": "BEAUTYAGE SPRING HOTEL",
+    "ch_address": "臺北市北投區光明路281號1-3樓",
+    "en_address": "No.281, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28912174",
+    "room_count": "20"
+  },
+  {
+    "id": "408",
+    "ch_name": "新舍商旅-林森館",
+    "en_name": "XINSHE Hotel Linsen",
+    "ch_address": "臺北市中山區林森北路477號",
+    "en_address": "No.477, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77431000",
+    "room_count": "79"
+  },
+  {
+    "id": "379",
+    "ch_name": "雀客旅館台北內湖",
+    "en_name": "CHECKinn Taipei NeiHu",
+    "ch_address": "臺北市內湖區民權東路六段123巷34弄1號1至12樓",
+    "en_address": "1-12F., No.1, Aly. 34, Ln. 123, Sec. 6, Minquan E. Rd., Neihu Dist., Taipei City 114059, Taiwan (R.O",
+    "tel": "02-87925319",
+    "room_count": "87"
+  },
+  {
+    "id": "46",
+    "ch_name": "立和商務旅館-漢口館",
+    "en_name": "LIHO HOTEL-HanKou",
+    "ch_address": "臺北市萬華區漢口街二段54號10樓",
+    "en_address": "10th Floor, No. 54, Section 2, Hankou Street, Wanhua District, Taipei City",
+    "tel": "02-23613350",
+    "room_count": "59"
+  },
+  {
+    "id": "564",
+    "ch_name": "五月家青旅台大館",
+    "en_name": "May Rooms Taipei NTU Gongguan Branch",
+    "ch_address": "臺北市文山區羅斯福路四段208號1-2樓",
+    "en_address": "No.208, Sec. 4, Roosevelt Rd., Wunshan District, Taipei City",
+    "tel": "02-23652284",
+    "room_count": "13"
+  },
+  {
+    "id": "514",
+    "ch_name": "黛芬旅館",
+    "en_name": "TAIFEN HOTEL",
+    "ch_address": "臺北市萬華區昆明街76號3樓",
+    "en_address": "3F., No.76, Kunming St., Wanhua District, Taipei City",
+    "tel": "02-23719751",
+    "room_count": "15"
+  },
+  {
+    "id": "168",
+    "ch_name": "慶爾喜旅館長沙一館",
+    "en_name": "CheersLoft",
+    "ch_address": "臺北市萬華區長沙街二段11號2樓",
+    "en_address": "2F,N0.11,Sec.2,Changsha St. Wahua Dist. , Taipei City 108, Taiwan",
+    "tel": "02-77309920",
+    "room_count": "15"
+  },
+  {
+    "id": "357",
+    "ch_name": "六福居",
+    "en_name": "Leofoo Residences",
+    "ch_address": "臺北市中山區南京東路一段38號",
+    "en_address": "No.38, Sec. 1, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77010165",
+    "room_count": "49"
+  },
+  {
+    "id": "34",
+    "ch_name": "客憩旅宿",
+    "en_name": "COZY HOME",
+    "ch_address": "臺北市中正區重慶南路一段63號2樓",
+    "en_address": "2F., No. 63, Section 1, Chongqing South Road, Zhongzheng District, Taipei City",
+    "tel": "02-23116118",
+    "room_count": "11"
+  },
+  {
+    "id": "89",
+    "ch_name": "在家行旅",
+    "en_name": "At Home",
+    "ch_address": "臺北市中山區中山北路二段65巷2弄3號1-4樓",
+    "en_address": "No.3, Alley 2, Lane 65, Sec. 2, Jhongshan N. Rd., Jhongshan District, Taipei City",
+    "tel": "02-25413959",
+    "room_count": "15"
+  },
+  {
+    "id": "520",
+    "ch_name": "香城大飯店",
+    "en_name": "CHARMING CITY HOTEL",
+    "ch_address": "臺北市大安區信義路四段295號1至11樓",
+    "en_address": "No.295, Sec. 4, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27049546",
+    "room_count": "60"
+  },
+  {
+    "id": "534",
+    "ch_name": "儷萊飯店(普亨萊大飯店)",
+    "en_name": "Taipei toy hotel",
+    "ch_address": "臺北市中正區中華路一段21號12樓",
+    "en_address": "12F., No.21, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23111440",
+    "room_count": "13"
+  },
+  {
+    "id": "288",
+    "ch_name": "瘋台北青旅",
+    "en_name": "FUN INN TAIPEI",
+    "ch_address": "臺北市中正區延平南路21號2樓及6樓",
+    "en_address": "2F., No.21, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23821818",
+    "room_count": "17"
+  },
+  {
+    "id": "185",
+    "ch_name": "台北臥客旅店",
+    "en_name": "WE COME HOSTEL",
+    "ch_address": "臺北市大同區甘谷街26號7樓",
+    "en_address": "7F., No.26, Gangu St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25557177",
+    "room_count": "13"
+  },
+  {
+    "id": "66",
+    "ch_name": "城市商旅北門二館",
+    "en_name": "City Siutes Beimen II",
+    "ch_address": "臺北市大同區長安西路271號2樓至4樓、275號1樓至4樓",
+    "en_address": "2F?4F., No. 271, 1F?4F., No. 275, Chang&#39;an W. Rd., Datong Dist., Taipei City, Taiwan (R.O.C.)",
+    "tel": "02-25525777",
+    "room_count": "19"
+  },
+  {
+    "id": "406",
+    "ch_name": "宜津美侖大飯店",
+    "en_name": "PARK TAIPEI HOTEL",
+    "ch_address": "臺北市大安區復興南路1段315號,317號,317號2樓",
+    "en_address": "No.317, Sec. 1, Fuxing S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-55793888",
+    "room_count": "143"
+  },
+  {
+    "id": "19",
+    "ch_name": "日光樂居成都館",
+    "en_name": "Funstay Inn(Cheng Du)",
+    "ch_address": "臺北市萬華區成都路99號2樓至4樓",
+    "en_address": "2-4F., No. 99, Chengdu Rd",
+    "tel": "02-23886898",
+    "room_count": "14"
+  },
+  {
+    "id": "33",
+    "ch_name": "天閣酒店(台北林森)",
+    "en_name": "Tango HOTEL Taipei LinSen",
+    "ch_address": "臺北市中山區中山北路一段83巷15號1樓至6樓",
+    "en_address": "No.15, Ln. 83, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25319999",
+    "room_count": "65"
+  },
+  {
+    "id": "244",
+    "ch_name": "丰居旅店忠孝館",
+    "en_name": "VIA HOTEL ZHONGXIAO",
+    "ch_address": "臺北市大安區復興南路1段126巷1號3樓(含3樓、3樓夾層、4樓)",
+    "en_address": "3F., No.1, Ln. 126, Sec. 1, Fuxing S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-77116368",
+    "room_count": "21"
+  },
+  {
+    "id": "134",
+    "ch_name": "109 Inn Taipei 台北109旅店",
+    "en_name": "109 Inn Taipei",
+    "ch_address": "臺北市中正區博愛路36號3樓、7樓",
+    "en_address": "3,7F., No.36, Boai Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "-",
+    "room_count": "14"
+  },
+  {
+    "id": "287",
+    "ch_name": "承攜行旅台北復北館",
+    "en_name": "Guide Hotel Taipei Fuxing N.",
+    "ch_address": "臺北市松山區復興北路307號1至7樓",
+    "en_address": "1-7F,No307, Fuxing N.Rd.Songshan Dist.Taipei, taiwan",
+    "tel": "02-27122155",
+    "room_count": "65"
+  },
+  {
+    "id": "430",
+    "ch_name": "伊倫商務旅館",
+    "en_name": "ERIN HOTEL",
+    "ch_address": "臺北市中山區松江路123巷10號1-4樓",
+    "en_address": "No.10, Lane 123, Songjiang Rd., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25076666",
+    "room_count": "31"
+  },
+  {
+    "id": "601",
+    "ch_name": "馥悅溫泉酒店",
+    "en_name": "Rich&Free Hotel-Beitou",
+    "ch_address": "臺北市北投區中山路26號1-5樓",
+    "en_address": "No.26, Zhongshan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28969798",
+    "room_count": "44"
+  },
+  {
+    "id": "212",
+    "ch_name": "夾腳拖的家長安122",
+    "en_name": "Flip Flop Hostel Garden",
+    "ch_address": "臺北市大同區長安西路 122 號、124號 1至4樓",
+    "en_address": "No.122, Chang’an W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25585050",
+    "room_count": "31"
+  },
+  {
+    "id": "173",
+    "ch_name": "合星旅館",
+    "en_name": "Star Hostel East",
+    "ch_address": "臺北市大安區忠孝東路四段147巷5號3樓",
+    "en_address": "3F., No.5, Ln. 147,Sec. 4, Zhongxiao E. Rd., Da&#39; an Dist., Taipei City 106, Taiwan(R.O.C.)",
+    "tel": "02-27218225",
+    "room_count": "18"
+  },
+  {
+    "id": "382",
+    "ch_name": "台北W飯店",
+    "en_name": "W Taipei",
+    "ch_address": "臺北市信義區忠孝東路五段10號",
+    "en_address": "No.10, Sec. 5, Zhongxiao E. Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-77038888",
+    "room_count": "405"
+  },
+  {
+    "id": "482",
+    "ch_name": "貴都飯店",
+    "en_name": "CRYSTAL HOTEL",
+    "ch_address": "臺北市萬華區西藏路192-1號",
+    "en_address": "No.192, Xizang Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23029345",
+    "room_count": "69"
+  },
+  {
+    "id": "31",
+    "ch_name": "瀚寓夏天",
+    "en_name": "Hanns Summer Hotel",
+    "ch_address": "臺北市中正區汀州路三段62號、3樓、6樓",
+    "en_address": "No. 62, Section 3, Tingzhou Road, Zhongzheng District, Taipei City",
+    "tel": "02-87583777",
+    "room_count": "69"
+  },
+  {
+    "id": "203",
+    "ch_name": "瑪奇商務旅店",
+    "en_name": "MACCHI HOTEL",
+    "ch_address": "臺北市文山區景中街30巷6號3-4樓",
+    "en_address": "3-4F., No.6, Ln. 30, Jingzhong St., Wenshan Dist., Taipei City 116, Taiwan (R.O.C.)",
+    "tel": "02-29321000",
+    "room_count": "26"
+  },
+  {
+    "id": "549",
+    "ch_name": "金財神旅館",
+    "en_name": "King Regency Hotel",
+    "ch_address": "臺北市中正區中華路一段21號3樓",
+    "en_address": "3F., No.21, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23110066",
+    "room_count": "12"
+  },
+  {
+    "id": "326",
+    "ch_name": "和逸 台北忠孝館",
+    "en_name": "Cozzi",
+    "ch_address": "臺北市中正區忠孝東路一段31號1至12樓",
+    "en_address": "No.31, Sec. 1, Zhongxiao E. Rd., Zhongzheng Dist.,Taipei City 100, Taiwan (R.O.C)",
+    "tel": "02-77253399",
+    "room_count": "123"
+  },
+  {
+    "id": "438",
+    "ch_name": "喜瑞飯店",
+    "en_name": "Ambience Hotel",
+    "ch_address": "臺北市中山區長安東路一段64號B1-10樓",
+    "en_address": "2~10F,No.64, Sec. 1, Chang’an E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25410077",
+    "room_count": "61"
+  },
+  {
+    "id": "531",
+    "ch_name": "瑞華旅社",
+    "en_name": "SWI HWA HOTEL",
+    "ch_address": "臺北市大安區忠孝東路四段235號4-5樓",
+    "en_address": "4-5F., No.235, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27413147",
+    "room_count": "20"
+  },
+  {
+    "id": "133",
+    "ch_name": "幸福蘋果旅店",
+    "en_name": "Lucky Apple Hotel",
+    "ch_address": "臺北市萬華區峨眉街109、109-2號(1樓部分、2至7樓)",
+    "en_address": "No.109-2,Emei St.Wanhua Dist,Taipei City 108,Taiwan(ROC)",
+    "tel": "02-23117877",
+    "room_count": "49"
+  },
+  {
+    "id": "295",
+    "ch_name": "洛碁大飯店驛",
+    "en_name": "Green World Taipei Station",
+    "ch_address": "臺北市中正區重慶南路1段21號1至10樓及15號2至10樓",
+    "en_address": "No.21,1-10F and No.15, 2-10F , Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (",
+    "tel": "02-23819199",
+    "room_count": "103"
+  },
+  {
+    "id": "456",
+    "ch_name": "台北商旅慶城館",
+    "en_name": "Les Suites Taipei (Ching-cheng)",
+    "ch_address": "臺北市松山區慶城街12號",
+    "en_address": "No.12, Qingcheng St., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-87127589",
+    "room_count": "84"
+  },
+  {
+    "id": "256",
+    "ch_name": "甄美精品商旅",
+    "en_name": "Hotel Bfun",
+    "ch_address": "臺北市中山區林森北路259巷9號2樓",
+    "en_address": "2F., No.9, Ln. 259, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25639696",
+    "room_count": "41"
+  },
+  {
+    "id": "339",
+    "ch_name": "東驛商務旅館",
+    "en_name": "E-HOUSE hotel",
+    "ch_address": "臺北市萬華區昆明街76號8-9樓",
+    "en_address": "8F., No. 76, Kunming St., Wanhua Dist., Taipei City 10843, Taiwan(R. O. C)",
+    "tel": "02-23831999",
+    "room_count": "34"
+  },
+  {
+    "id": "367",
+    "ch_name": "瑞沂國際飯店",
+    "en_name": "Ruijiu International Hotel",
+    "ch_address": "臺北市中山區松江路95-1號5樓",
+    "en_address": "5F., No.95-1, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "-",
+    "room_count": "10"
+  },
+  {
+    "id": "21",
+    "ch_name": "梧邸酒店台北杭州",
+    "en_name": "ODD Hotel Taipei HangZhou",
+    "ch_address": "臺北市中正區杭州南路一段12號",
+    "en_address": "No. 12, Sec. 1, Hangzhou S. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23933598",
+    "room_count": "73"
+  },
+  {
+    "id": "254",
+    "ch_name": "家賓大旅社",
+    "en_name": "JIA BIN HOTEL",
+    "ch_address": "臺北市文山區景文街42號6-7樓",
+    "en_address": "6-7F., No.42, Jingwen St., Wenshan Dist., Taipei City 116, Taiwan (R.O.C.)",
+    "tel": "02-29325915",
+    "room_count": "32"
+  },
+  {
+    "id": "366",
+    "ch_name": "西門航棧旅館",
+    "en_name": "Ximen Airline Hotel",
+    "ch_address": "臺北市萬華區中華路一段144號7-8樓,7樓之1,8樓之1",
+    "en_address": "8F., No.144, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23880777",
+    "room_count": "38"
+  },
+  {
+    "id": "555",
+    "ch_name": "國聯大飯店",
+    "en_name": "United Hotel",
+    "ch_address": "臺北市大安區光復南路200號",
+    "en_address": "No.200, Guangfu S. Rd., Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27731515",
+    "room_count": "243"
+  },
+  {
+    "id": "67",
+    "ch_name": "安捷國際公寓酒店",
+    "en_name": "AJ Residence",
+    "ch_address": "臺北市大同區市民大道1段201號15樓、15樓之1至之3、之5至之10",
+    "en_address": "15th Floor, 15th Floor, 1 to 3, 5 to 10, No. 201, Section 1, Civic Avenue, Datong District, Taipei C",
+    "tel": "02-25592900",
+    "room_count": "9"
+  },
+  {
+    "id": "318",
+    "ch_name": "蜂巢 Bee House",
+    "en_name": "Bee House Hotel",
+    "ch_address": "臺北市大同區太原路55, 57號2至5樓",
+    "en_address": "No.57,Taiyuan Rd.,Datong Dist.,Taipei City 103,Taiwan(R.O.C)",
+    "tel": "02-25599000",
+    "room_count": "31"
+  },
+  {
+    "id": "85",
+    "ch_name": "悅心旅",
+    "en_name": "Yes Taipei Hotel",
+    "ch_address": "臺北市大同區重慶北路1段61號1樓 至3樓",
+    "en_address": "1F~3F., No. 61, Sec. 1, Chongqing N. Rd., Datong Dist., Taipei City , Taiwan (R.O.C.)",
+    "tel": "02-25591525",
+    "room_count": "14"
+  },
+  {
+    "id": "540",
+    "ch_name": "悅來旅館",
+    "en_name": "YUEH LAI HOTEL",
+    "ch_address": "臺北市中正區中華路一段21號6-7樓",
+    "en_address": "6-7F., No.21, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23110066",
+    "room_count": "26"
+  },
+  {
+    "id": "171",
+    "ch_name": "智慧環境會館-菁山遊憩區",
+    "en_name": "Intelligent Environmental Hotel",
+    "ch_address": "臺北市士林區菁山路101巷71弄16號",
+    "en_address": "NO.16，Aly.71，Ln.101，Jingshan Rd.，Shilin Dist.，Taipei City 11192，Taiwan(R.O.C)",
+    "tel": "02-28625116",
+    "room_count": "17"
+  },
+  {
+    "id": "389",
+    "ch_name": "立德北投溫泉飯店",
+    "en_name": "Li De Bei Tou Hot Spring Hotel",
+    "ch_address": "臺北市北投區幽雅路11號B1-3樓",
+    "en_address": "1-3F., No.11, Youya Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28973611",
+    "room_count": "25"
+  },
+  {
+    "id": "276",
+    "ch_name": "朵兒旅館",
+    "en_name": "Dor HOTEL",
+    "ch_address": "臺北市中山區新生北路1段66號2樓",
+    "en_address": "2F., No.66, Sec. 1, Xinsheng N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25232699",
+    "room_count": "7"
+  },
+  {
+    "id": "137",
+    "ch_name": "艾爾行旅",
+    "en_name": "HEJ",
+    "ch_address": "臺北市大安區忠孝東路四段87號7樓、7樓之2、7樓之3、7樓之4及7樓之8",
+    "en_address": "No.87, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27418080",
+    "room_count": "40"
+  },
+  {
+    "id": "587",
+    "ch_name": "真珠賓館",
+    "en_name": "JEN JU HOTEL",
+    "ch_address": "臺北市士林區延平北路五段67號3樓",
+    "en_address": "3F., No.67, Sec. 5, Yanping N. Rd., Shihlin District, Taipei City",
+    "tel": "02-28127971",
+    "room_count": "6"
+  },
+  {
+    "id": "476",
+    "ch_name": "乃晶旅社",
+    "en_name": "Nai Jing Hotel",
+    "ch_address": "臺北市萬華區西園路一段168號12樓",
+    "en_address": "12F., No.168, Sec. 1, Xiyuan Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23043795",
+    "room_count": "10"
+  },
+  {
+    "id": "398",
+    "ch_name": "探索汽車旅館南港館",
+    "en_name": "Tansuo Dingji Hotel",
+    "ch_address": "臺北市南港區重陽路66號1至4樓",
+    "en_address": "1-4F., No.66, Chongyang Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-26537727",
+    "room_count": "61"
+  },
+  {
+    "id": "460",
+    "ch_name": "太豪大飯店",
+    "en_name": "TAI HOPE HOTEL",
+    "ch_address": "臺北市松山區興安街137號1-6樓",
+    "en_address": "1-6F., No.137, Xing’an St., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27195152",
+    "room_count": "38"
+  },
+  {
+    "id": "289",
+    "ch_name": "沃田旅店",
+    "en_name": "Mellowfields Hotel",
+    "ch_address": "臺北市士林區中山北路七段127號1至13樓",
+    "en_address": "No.113, Sec. 7, Zhongshan N. Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28752288",
+    "room_count": "172"
+  },
+  {
+    "id": "222",
+    "ch_name": "詩漫精品旅館",
+    "en_name": "Smile Inn",
+    "ch_address": "臺北市中正區館前路8號6樓",
+    "en_address": "6F., No.8, Guanqian Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23820111",
+    "room_count": "33"
+  },
+  {
+    "id": "361",
+    "ch_name": "承攜行旅台北信義館",
+    "en_name": "GUIDE HOTEL-Taipei XinYi",
+    "ch_address": "臺北市信義區基隆路二段15-2號",
+    "en_address": "No.15-2, Sec. 2, Keelung Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-23453511",
+    "room_count": "20"
+  },
+  {
+    "id": "178",
+    "ch_name": "儷客旅店-站前店",
+    "en_name": "Click Hotel Taipei Main Station Branch",
+    "ch_address": "臺北市中正區忠孝西路一段72號5樓及5樓之1",
+    "en_address": "5F., No.72, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23118081",
+    "room_count": "30"
+  },
+  {
+    "id": "493",
+    "ch_name": "友華賓館",
+    "en_name": "BEST HOTEL",
+    "ch_address": "臺北市松山區八德路四段656,656-1號6樓",
+    "en_address": "6F., No.656,656-1, Sec. 4, Bade Rd., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27630505",
+    "room_count": "30"
+  },
+  {
+    "id": "488",
+    "ch_name": "密都大飯店",
+    "en_name": "MEADOW HOTEL",
+    "ch_address": "臺北市中山區長春路246號2-9樓",
+    "en_address": "2-9F., No.246, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25068866",
+    "room_count": "48"
+  },
+  {
+    "id": "146",
+    "ch_name": "正是旅館",
+    "en_name": "Just Inn Taipei（City Hall）",
+    "ch_address": "臺北市信義區基隆路一段182號1樓至7樓",
+    "en_address": "1/F,No.182,Section 1,Keelung Rd, Xinyi Dist,Taipei",
+    "tel": "02-23718230",
+    "room_count": "18"
+  },
+  {
+    "id": "532",
+    "ch_name": "凱統大飯店",
+    "en_name": "KDM Hotel",
+    "ch_address": "臺北市大安區忠孝東路三段8號3-9樓",
+    "en_address": "No.8, Sec. 3, Zhongxiao East Rd., Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27211162",
+    "room_count": "56"
+  },
+  {
+    "id": "260",
+    "ch_name": "台北六福萬怡酒店",
+    "en_name": "Courtyard by Marriott Taipei",
+    "ch_address": "臺北市南港區忠孝東路七段359號7-30樓",
+    "en_address": "7F.、7F.-1,、8F.、 9F. 、 9F-1、 30F., No.359, Sec. 7, Zhongxiao E. Rd., Nangang Dist., Taipei City 115,",
+    "tel": "02-21716565",
+    "room_count": "465"
+  },
+  {
+    "id": "613",
+    "ch_name": "大榮大旅社",
+    "en_name": "EVER GREEN HOTEL",
+    "ch_address": "臺北市萬華區西寧南路185號2-4樓",
+    "en_address": "No.185, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23316527",
+    "room_count": "17"
+  },
+  {
+    "id": "264",
+    "ch_name": "約克旅店",
+    "en_name": "york design hotel",
+    "ch_address": "臺北市中正區南陽街13號4樓",
+    "en_address": "4F., No.13, Nanyang St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23705528",
+    "room_count": "17"
+  },
+  {
+    "id": "380",
+    "ch_name": "北投麗禧溫泉酒店",
+    "en_name": "Grand View Resort Beitou",
+    "ch_address": "臺北市北投區幽雅路30號",
+    "en_address": "No.30, Youya Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28988888",
+    "room_count": "66"
+  },
+  {
+    "id": "162",
+    "ch_name": "吉泰旅店",
+    "en_name": "GREATT HOTEL",
+    "ch_address": "臺北市士林區大東路93號1至4樓",
+    "en_address": "1-4F., No.93, Dadong Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28822278",
+    "room_count": "19"
+  },
+  {
+    "id": "194",
+    "ch_name": "尚美精旅",
+    "en_name": "HOTEL IJOURNEY",
+    "ch_address": "臺北市中山區民生西路16號4樓",
+    "en_address": "4F., No.16, Minsheng W. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25230188",
+    "room_count": "14"
+  },
+  {
+    "id": "474",
+    "ch_name": "新凱飯店",
+    "en_name": "SILKEN HOTEL",
+    "ch_address": "臺北市中山區新生北路3段76之1號1至10樓",
+    "en_address": "1-10F., No.76-1, Sec. 3, Xinsheng N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25855000",
+    "room_count": "42"
+  },
+  {
+    "id": "239",
+    "ch_name": "丰居旅店北車館",
+    "en_name": "Via Hotel Taipei Station",
+    "ch_address": "臺北市中正區重慶南路一段60號",
+    "en_address": "No.60, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23142121",
+    "room_count": "23"
+  },
+  {
+    "id": "574",
+    "ch_name": "吉緻行旅天津館",
+    "en_name": "G Hotel Tianjin Street",
+    "ch_address": "臺北市中山區天津街57號2至8樓",
+    "en_address": "2-8F., No.57, Tianjin St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25365678",
+    "room_count": "55"
+  },
+  {
+    "id": "370",
+    "ch_name": "富驛時尚酒店",
+    "en_name": "FX HOTEL",
+    "ch_address": "臺北市中山區南京東路三段131號10樓至13樓",
+    "en_address": "10-13F., No.131, Sec. 3, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-55720777",
+    "room_count": "180"
+  },
+  {
+    "id": "88",
+    "ch_name": "慶爾喜旅館",
+    "en_name": "CheersHotel",
+    "ch_address": "臺北市萬華區武昌街二段72號11樓",
+    "en_address": "11F., No. 72, Sec. 2, Wuchang St., Wanhua Dist., Taipei City 108002, Taiwan (R.O.C.)",
+    "tel": "02-77309920",
+    "room_count": "6"
+  },
+  {
+    "id": "472",
+    "ch_name": "大新飯店",
+    "en_name": "Dasin Hotel",
+    "ch_address": "臺北市中山區長春路246號11-12樓",
+    "en_address": "11-12F., No.246, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25068866",
+    "room_count": "11"
+  },
+  {
+    "id": "63",
+    "ch_name": "米窩飯店-站前",
+    "en_name": "Meworld Hotel-Taipei Main Station",
+    "ch_address": "臺北市中正區忠孝西路1段50號7樓、7樓之1、之2、之3、8樓",
+    "en_address": "7F.,7F.-1,-2,-3,8F., No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100506 , Taiwan",
+    "tel": "02-23810028",
+    "room_count": "200"
+  },
+  {
+    "id": "560",
+    "ch_name": "亞都麗緻大飯店",
+    "en_name": "The Landis Taipei",
+    "ch_address": "臺北市中山區民權東路2段41號",
+    "en_address": "No.41, Sec. 2, Minquan E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25971234",
+    "room_count": "219"
+  },
+  {
+    "id": "538",
+    "ch_name": "儷萊旅館",
+    "en_name": "Relite Hotel",
+    "ch_address": "臺北市中正區中華路一段21號4-5樓,8-11樓",
+    "en_address": "8-11F., No.21, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23111440",
+    "room_count": "78"
+  },
+  {
+    "id": "45",
+    "ch_name": "摩莎曼拉商務旅館-西門館",
+    "en_name": "Mosha Hotel-Ximen",
+    "ch_address": "臺北市萬華區漢口街二段54號8樓、8樓之1、8樓之6、8樓之7、8樓 之8、9樓、9樓之1",
+    "en_address": "8th Floor, 1st Floor of 8th Floor, 6th Floor of 8th Floor, 7th Floor of 8th Floor, 8th Floor of 8th",
+    "tel": "02-23613350",
+    "room_count": "88"
+  },
+  {
+    "id": "518",
+    "ch_name": "新榮大旅社",
+    "en_name": "SHIN RONG HOTEL",
+    "ch_address": "臺北市士林區文林路116號",
+    "en_address": "No.116, Wunlin Rd., Shihlin District, Taipei City",
+    "tel": "02-28812531",
+    "room_count": "18"
+  },
+  {
+    "id": "215",
+    "ch_name": "進綵商旅",
+    "en_name": "D.G.Hotel",
+    "ch_address": "臺北市大同區迪化街一段334號1至3樓",
+    "en_address": "No.334. Section 1, Dihua ST Datong District, Taipei, Taiwan",
+    "tel": "02-25536711",
+    "room_count": "6"
+  },
+  {
+    "id": "95",
+    "ch_name": "豪城商旅民生館",
+    "en_name": "Hope City MingSheng Hotel",
+    "ch_address": "臺北市松山區民生東路三段113巷7弄11號1樓至6樓",
+    "en_address": "1F-6F, No.11, Alley 7, Lane 113, Sec.3, Mingsheng East Rd., Taipei, Taiwan",
+    "tel": "02-27137078",
+    "room_count": "38"
+  },
+  {
+    "id": "545",
+    "ch_name": "洛碁大飯店新仕界",
+    "en_name": "NEW WORLD HOTEL",
+    "ch_address": "臺北市萬華區昆明街139號2樓、141號3至9樓、7樓之1至13、8樓之1至8",
+    "en_address": "3-9F., No.141, Kunming St., Wanhua District, Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23118863",
+    "room_count": "107"
+  },
+  {
+    "id": "108",
+    "ch_name": "天閣酒店台北士林",
+    "en_name": "The Tango Hotel Taipei Shilin",
+    "ch_address": "臺北市士林區基河路16-8號1樓至11樓",
+    "en_address": "1-11F.No. 16-8, Jihe Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28866888",
+    "room_count": "51"
+  },
+  {
+    "id": "417",
+    "ch_name": "台北青年國際旅館",
+    "en_name": "Y Hotel Taipei",
+    "ch_address": "臺北市中正區許昌街19號1樓及4-10樓",
+    "en_address": "1,4-10F., No.19, Xuchang St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23113201",
+    "room_count": "99"
+  },
+  {
+    "id": "573",
+    "ch_name": "建山大旅社",
+    "en_name": "Jianshan Hotel",
+    "ch_address": "臺北市大同區歸綏街182號2-4樓",
+    "en_address": "No.182, Guisui St., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25520680",
+    "room_count": "13"
+  },
+  {
+    "id": "422",
+    "ch_name": "東門大旅社",
+    "en_name": "DONG MEN HOTEL",
+    "ch_address": "臺北市中正區臨沂街78號2-4樓",
+    "en_address": "No.78, Linyi St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23560210",
+    "room_count": "26"
+  },
+  {
+    "id": "553",
+    "ch_name": "台北寒舍喜來登大飯店",
+    "en_name": "Sheraton Grand Taipei Hotel",
+    "ch_address": "臺北市中正區忠孝東路1段12號",
+    "en_address": "No.12, Sec. 1, Zhongxiao E. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23215511",
+    "room_count": "688"
+  },
+  {
+    "id": "541",
+    "ch_name": "北城大飯店",
+    "en_name": "CITY HOTEL TAIPEI",
+    "ch_address": "臺北市中山區長春路279號B1-12樓",
+    "en_address": "No.279, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25017601",
+    "room_count": "55"
+  },
+  {
+    "id": "52",
+    "ch_name": "番茄行旅",
+    "en_name": "Tomato TTT INN",
+    "ch_address": "臺北市大同區太原路156-2號5樓",
+    "en_address": "5F., No.156-2, Taiyuan Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25555930",
+    "room_count": "5"
+  },
+  {
+    "id": "496",
+    "ch_name": "台北遠東香格里拉",
+    "en_name": "Shangri-La Far Eastern, Taipei",
+    "ch_address": "臺北市大安區敦化南路2段201號",
+    "en_address": "No.201, Sec. 2, Dunhua S. Rd., Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23788888",
+    "room_count": "420"
+  },
+  {
+    "id": "207",
+    "ch_name": "東門3號膠囊旅店",
+    "en_name": "Travel Fun Inn",
+    "ch_address": "臺北市大安區信義路2段110號",
+    "en_address": "No.110, Sec. 2, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23583299",
+    "room_count": "4"
+  },
+  {
+    "id": "247",
+    "ch_name": "台北天晴旅店",
+    "en_name": "Sunny Hostel",
+    "ch_address": "臺北市中正區懷寧街92-2號1至6樓",
+    "en_address": "1-6F., No.92-2, Huaining St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23319391",
+    "room_count": "15"
+  },
+  {
+    "id": "368",
+    "ch_name": "台北西門町意舍酒店",
+    "en_name": "amba Taipei Ximending",
+    "ch_address": "臺北市萬華區武昌街二段77號5-10樓",
+    "en_address": "5-10F., No.77, Sec. 2, Wuchang St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755111",
+    "room_count": "162"
+  },
+  {
+    "id": "606",
+    "ch_name": "東龍大飯店",
+    "en_name": "EAST DRAGON HOTEL",
+    "ch_address": "臺北市萬華區漢口街二段23號1-7樓",
+    "en_address": "No.23, Sec. 2, Hankou St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23116969",
+    "room_count": "70"
+  },
+  {
+    "id": "344",
+    "ch_name": "儷夏商旅",
+    "en_name": "MUZIK HOTEL",
+    "ch_address": "臺北市萬華區中華路一段90號4樓、5樓、6樓、8樓",
+    "en_address": "6F,8F, No.90, Chung Hwa Road. Taipei City 108, Taiwan(R.O.C)",
+    "tel": "02-23116168",
+    "room_count": "85"
+  },
+  {
+    "id": "199",
+    "ch_name": "樂山水靜旅館 OrigInn",
+    "en_name": "OrigInn",
+    "ch_address": "臺北市大同區南京西路247號",
+    "en_address": "No.247, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25588843",
+    "room_count": "5"
+  },
+  {
+    "id": "82",
+    "ch_name": "和苑三井花園飯店 台北忠孝",
+    "en_name": "MGH Mitsui Garden Hotel Taipei Zhongxiao",
+    "ch_address": "臺北市大安區忠孝東路三段30號",
+    "en_address": "No. 30, Sec. 3, Zhongxiao E. Rd., Da’an Dist., Taipei City, 106, Taiwan (R.O.C.)",
+    "tel": "02-27811131",
+    "room_count": "297"
+  },
+  {
+    "id": "590",
+    "ch_name": "嘉榮旅社",
+    "en_name": "JIA RONG HOTEL",
+    "ch_address": "臺北市大同區太原路28巷11號2至4樓",
+    "en_address": "No.11, Lane 28, Taiyuan Rd., Datong District, Taipei City",
+    "tel": "02-25585887",
+    "room_count": "15"
+  },
+  {
+    "id": "577",
+    "ch_name": "華冠商旅HOTEL",
+    "en_name": "HWA GUAN HOTEL",
+    "ch_address": "臺北市萬華區西昌街137 、139號1-6樓",
+    "en_address": "No.137-139, Sichang St., Wanhua District, Taipei City",
+    "tel": "02-23616076",
+    "room_count": "46"
+  },
+  {
+    "id": "290",
+    "ch_name": "凡登商旅●二館",
+    "en_name": "Vendome Hotel II",
+    "ch_address": "臺北市大安區忠孝東路4段197號14樓之2、6、8",
+    "en_address": "14F.-2,6,8, No.197, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-87710852",
+    "room_count": "32"
+  },
+  {
+    "id": "351",
+    "ch_name": "西門邑居自由旅行會館",
+    "en_name": "Easy Stay Ximen Backpackers Guest House",
+    "ch_address": "臺北市萬華區西寧南路67號10樓",
+    "en_address": "10F., No. 67, Ximing S. Rd., Wanhua Dist., Taipei City 10844, Taiwan(R. O. C)",
+    "tel": "02-23616167",
+    "room_count": "8"
+  },
+  {
+    "id": "558",
+    "ch_name": "慕居行旅",
+    "en_name": "Members Hotel at Taipei 101",
+    "ch_address": "臺北市信義區基隆路二段22號5樓",
+    "en_address": "5F., No.22, Sec. 2, Keelung Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27295828",
+    "room_count": "25"
+  },
+  {
+    "id": "443",
+    "ch_name": "高雅賓館",
+    "en_name": "ELEGANCE HOTEL",
+    "ch_address": "臺北市大安區和平東路三段139號及139號2樓至7樓、141號及141號2樓至5樓",
+    "en_address": "No.139, Sec. 3, Heping E. Rd., Da-an District, Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27388947",
+    "room_count": "30"
+  },
+  {
+    "id": "39",
+    "ch_name": "家美瑞品 台北",
+    "en_name": "JIAMEI HOTEL TAIPEI",
+    "ch_address": "臺北市中正區北平東路12號2至9樓",
+    "en_address": "No.12, Beiping E. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23581234",
+    "room_count": "68"
+  },
+  {
+    "id": "64",
+    "ch_name": "喜園旅館",
+    "en_name": "XimenGarden",
+    "ch_address": "臺北市萬華區中華路一段90號3樓、3樓之1、3樓之2",
+    "en_address": "3F.,No.90,Sec.1,Zhonhua Rd.,Taipei City 108,Taiwan(R.O.C.)",
+    "tel": "02-77309920",
+    "room_count": "35"
+  },
+  {
+    "id": "336",
+    "ch_name": "三隻老虎青年旅館",
+    "en_name": "TRIPLE TIGER HOSTEL",
+    "ch_address": "臺北市萬華區康定路25巷39號4樓",
+    "en_address": "4F., No.39, Ln. 25, Kangding Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755299",
+    "room_count": "7"
+  },
+  {
+    "id": "385",
+    "ch_name": "日勝生加賀屋國際溫泉飯店",
+    "en_name": "Radium-Kagaya",
+    "ch_address": "臺北市北投區溫泉里11鄰光明路236號",
+    "en_address": "No.236, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28911111",
+    "room_count": "89"
+  },
+  {
+    "id": "391",
+    "ch_name": "金都精緻溫泉飯店",
+    "en_name": "Jin Dou Jingzhi Hot Spring Hotel",
+    "ch_address": "臺北市北投區光明路240號1-6樓",
+    "en_address": "1-6F., No.240, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28911228",
+    "room_count": "31"
+  },
+  {
+    "id": "378",
+    "ch_name": "雀客快捷台北車站",
+    "en_name": "CHECKinn Express Taipei Station",
+    "ch_address": "臺北市大同區太原路64號1至8樓",
+    "en_address": "1-8F., No.64, Taiyuan Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25590577",
+    "room_count": "58"
+  },
+  {
+    "id": "334",
+    "ch_name": "老爺會館台北林森",
+    "en_name": "Royal Inn Taipei Linsen",
+    "ch_address": "臺北市中山區林森北路83號4至10樓、11樓、11樓之1、11樓之2、12樓、12樓之1、12樓之2",
+    "en_address": "4-12F., No.83, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25676336",
+    "room_count": "81"
+  },
+  {
+    "id": "513",
+    "ch_name": "長春精品旅館",
+    "en_name": "EverGreen Hotel",
+    "ch_address": "臺北市松山區慶城街29號",
+    "en_address": "No.29, Cingcheng St., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27188268",
+    "room_count": "86"
+  },
+  {
+    "id": "115",
+    "ch_name": "台北大直英迪格酒店",
+    "en_name": "HOTEL INDIGO TAIPEI NORTH",
+    "ch_address": "臺北市中山區植福路200號（地上1樓部分）、200號5樓（地上5層至10層）",
+    "en_address": "NO.200,Zhifu Rd.,Zhongshan Dist., Taipei City 104,Taiwan(R.O.C)",
+    "tel": "02-35187777",
+    "room_count": "149"
+  },
+  {
+    "id": "431",
+    "ch_name": "天閣酒店台北信義",
+    "en_name": "Tango HOTEL Taipei XinYi",
+    "ch_address": "臺北市信義區忠孝東路五段297號1-6樓",
+    "en_address": "1-6F., No.297, Sec. 5, Zhongxiao E. Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-25288000",
+    "room_count": "105"
+  },
+  {
+    "id": "508",
+    "ch_name": "客來思樂行旅",
+    "en_name": "CHRYSLER HOTEL",
+    "ch_address": "臺北市大安區羅斯福路3段241號4-6樓,4-6樓之1",
+    "en_address": "4-6F., No.241, Sec. 3, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23626555",
+    "room_count": "20"
+  },
+  {
+    "id": "602",
+    "ch_name": "背包棧旅店西門店",
+    "en_name": "backpackers hostel",
+    "ch_address": "臺北市萬華區康定路25巷13號",
+    "en_address": "No.13, Lane 25, Kangding Rd., Wanhua District, Taipei City",
+    "tel": "02-89783666",
+    "room_count": "19"
+  },
+  {
+    "id": "161",
+    "ch_name": "米窩飯店-大安",
+    "en_name": "Meworld Hotel-Daan",
+    "ch_address": "臺北市大安區忠孝東路四段107號7樓、7樓之2",
+    "en_address": "7F-2、7F，NO.107，Sec.4 Zhongxiao E Rd., Da&#39; an Dist., Taipei City106,Taiwan",
+    "tel": "02-27520006",
+    "room_count": "20"
+  },
+  {
+    "id": "197",
+    "ch_name": "陽光士林珮柏旅館",
+    "en_name": "SUNSHINE SHIHLIN PAPER HOTEL",
+    "ch_address": "臺北市士林區福德路48巷6、8、10、12號1至7樓",
+    "en_address": "No.8, Ln. 48, Fude Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28817588",
+    "room_count": "56"
+  },
+  {
+    "id": "323",
+    "ch_name": "橙舍青年旅館（臺北二館）",
+    "en_name": "TW Hostel",
+    "ch_address": "臺北市萬華區漢口街二段56號2-3樓,58號3樓",
+    "en_address": "3F., No. 56, Sec.2, HanKou St., Wanhua Dist., Taipei City 108, Taiwan (R. O. C)",
+    "tel": "02-23119559",
+    "room_count": "22"
+  },
+  {
+    "id": "299",
+    "ch_name": "拾光行旅",
+    "en_name": "LUMOS INN",
+    "ch_address": "臺北市大同區延平北路二段255號2樓",
+    "en_address": "2F., No.255, Sec. 2, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25574999",
+    "room_count": "49"
+  },
+  {
+    "id": "129",
+    "ch_name": "碩城文旅",
+    "en_name": "SC Hotel",
+    "ch_address": "臺北市中山區中山北路一段105巷12-6號2至8樓",
+    "en_address": "2-8F,No.12-6,Ln. 105, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-21001023",
+    "room_count": "32"
+  },
+  {
+    "id": "359",
+    "ch_name": "西門星辰精典大飯店",
+    "en_name": "Ximen Citizen Hotel",
+    "ch_address": "臺北市萬華區峨眉街72號1至8樓",
+    "en_address": "No.72, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R. O. C)",
+    "tel": "02-23831123",
+    "room_count": "25"
+  },
+  {
+    "id": "268",
+    "ch_name": "雀客旅館台北南京",
+    "en_name": "CHECK inn Taipei Nanjing",
+    "ch_address": "臺北市中山區南京東路三段16號",
+    "en_address": "No.16, Sec. 3, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C)",
+    "tel": "02-25161610",
+    "room_count": "56"
+  },
+  {
+    "id": "542",
+    "ch_name": "千慧旅館",
+    "en_name": "C.H. HOTEL",
+    "ch_address": "臺北市大同區南京西路22號7樓",
+    "en_address": "7F., No.22, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25552451",
+    "room_count": "20"
+  },
+  {
+    "id": "369",
+    "ch_name": "銀座飯店",
+    "en_name": "GINZA HOTEL",
+    "ch_address": "臺北市中山區林森北路289號4樓之1～3",
+    "en_address": "4-3F,4-2F,4-1F., No.289, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25627733",
+    "room_count": "15"
+  },
+  {
+    "id": "76",
+    "ch_name": "森浩文旅-STEP INN",
+    "en_name": "STEP INN",
+    "ch_address": "臺北市松山區饒河街131、133號2至3樓",
+    "en_address": "3F., No. 131, Raohe St., Songshan Dist., Taipei City 105058, Taiwan (R.O.C.)",
+    "tel": "02-27609090",
+    "room_count": "28"
+  },
+  {
+    "id": "170",
+    "ch_name": "城市商旅 北門館",
+    "en_name": "City Siutes Beimen",
+    "ch_address": "臺北市大同區長安西路265號1至6樓及267號1至6樓",
+    "en_address": "NO.265,Chang&#39;an W.Rd.,Datong Dist.,Taipei City103,Taiwan(R.O.C)",
+    "tel": "02-25525777",
+    "room_count": "65"
+  },
+  {
+    "id": "265",
+    "ch_name": "鉑泊客",
+    "en_name": "POSHPACKER HOTEL",
+    "ch_address": "臺北市中正區漢口街1段50號1-5樓",
+    "en_address": "1-5F, No.50, Sec.1 , Hankou St., Zhongzheng Dist., Taipei City, Taiwan (R.O.C.)",
+    "tel": "02-23755555",
+    "room_count": "58"
+  },
+  {
+    "id": "128",
+    "ch_name": "南港老爺行旅",
+    "en_name": "The Place Taipei",
+    "ch_address": "臺北市南港區經貿二路196號.196號10樓至20樓",
+    "en_address": "No.196, jingmao 2nd Rd., Nangang Dist., Taipei City 115, Taiwan(R.O.C)",
+    "tel": "02-77500588",
+    "room_count": "179"
+  },
+  {
+    "id": "505",
+    "ch_name": "皇后旅社",
+    "en_name": "QUEEN HOTEL",
+    "ch_address": "臺北市大同區長安西路226號1至4樓",
+    "en_address": "No.226, Chang’an W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25590489",
+    "room_count": "20"
+  },
+  {
+    "id": "593",
+    "ch_name": "柯達大飯店台北一店",
+    "en_name": "Kodak Hotel, Taipei 1",
+    "ch_address": "臺北市中山區中山北路二段11巷1號及３號",
+    "en_address": "No.1, Ln. 11, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25422222",
+    "room_count": "53"
+  },
+  {
+    "id": "536",
+    "ch_name": "瑾旅南西",
+    "en_name": "Huada Hotel",
+    "ch_address": "臺北市大同區南京西路151號6至12樓",
+    "en_address": "6-12F., No.151, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25593232",
+    "room_count": "45"
+  },
+  {
+    "id": "607",
+    "ch_name": "雀客藏居台北陽明山",
+    "en_name": "CHECK inn Select Taipei Yangmingshan",
+    "ch_address": "臺北市士林區陽明山格致路237號",
+    "en_address": "No.237, Gezhi Rd., Yangmingshan, Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28616661",
+    "room_count": "50"
+  },
+  {
+    "id": "355",
+    "ch_name": "洛碁大飯店建北館",
+    "en_name": "Green World Jianpei",
+    "ch_address": "臺北市中山區建國北路一段138巷1號、140號、140號2至11樓、142號、144號",
+    "en_address": "No.140, Sec. 1, Jianguo N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25095151",
+    "room_count": "59"
+  },
+  {
+    "id": "94",
+    "ch_name": "大湖璞旅",
+    "en_name": "Dahu Hotel",
+    "ch_address": "臺北市內湖區成功路五段462號1樓、3樓至14樓、3樓之1至3樓之6、4樓之1至4樓之13、5樓之2至5樓之13、6樓之2至6樓之13、7樓之2至7樓之12、8樓之1至8樓之13、 9樓之1至9樓之13、10樓之",
+    "en_address": "No. 462, Section 5, Chenggong Road, Neihu District, Taipei City 1st Floor, 3rd to 14th Floor, 3rd Fl",
+    "tel": "02-26338555",
+    "room_count": "148"
+  },
+  {
+    "id": "180",
+    "ch_name": "阿樹國際旅店",
+    "en_name": "ARTREE HOTEL",
+    "ch_address": "臺北市松山區八德路三段76號1樓、4樓至14樓",
+    "en_address": "No.76, Sec. 3, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-25787728",
+    "room_count": "141"
+  },
+  {
+    "id": "124",
+    "ch_name": "小角落旅店",
+    "en_name": "Corner Hostel",
+    "ch_address": "臺北市大同區民族西路33號(1至4樓)",
+    "en_address": "No. 33, Minzu W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25991699",
+    "room_count": "5"
+  },
+  {
+    "id": "79",
+    "ch_name": "格拉斯麗台北飯店",
+    "en_name": "HOTEL GRACERY TAIPEI",
+    "ch_address": "臺北市中正區忠孝東路2段89號3至19樓",
+    "en_address": "3-19F., No. 89, Sec. 2, Zhongxiao E. Rd., Zhongzheng Dist., Taipei City 100013 , Taiwan (R.O.C.)",
+    "tel": "02-23220118",
+    "room_count": "248"
+  },
+  {
+    "id": "28",
+    "ch_name": "歐法行旅",
+    "en_name": "O Fun Hotel",
+    "ch_address": "臺北市萬華區中華路一段90號5樓",
+    "en_address": "5F., No. 90, Sec. 1, Zhonghua Rd., Wanhua Dist., Taipei City",
+    "tel": "02-23711333",
+    "room_count": "33"
+  },
+  {
+    "id": "159",
+    "ch_name": "苓旅松山小巨蛋館",
+    "en_name": "Lininn tpan",
+    "ch_address": "臺北市松山區八德路三段2號14樓",
+    "en_address": "14F,No.2,Sec 3,Bade Rd,ShongShang Dist Taipei,Taiwan",
+    "tel": "-",
+    "room_count": "34"
+  },
+  {
+    "id": "285",
+    "ch_name": "天閣酒店台北復興",
+    "en_name": "Tango Hotel",
+    "ch_address": "臺北市松山區復興北路147號1至12樓",
+    "en_address": "147, Fuxing N. Rd., Taipei 10547, Taiwan",
+    "tel": "02-87128000",
+    "room_count": "70"
+  },
+  {
+    "id": "487",
+    "ch_name": "百悅旅社",
+    "en_name": "Pai Yueh Hotel",
+    "ch_address": "臺北市萬華區開封街2段42巷2號1-5樓,44-1號6-7樓",
+    "en_address": "No.2, Lane 42, Sec. 2, Kaifong St., Wanhua District, Taipei City",
+    "tel": "02-23881792",
+    "room_count": "26"
+  },
+  {
+    "id": "445",
+    "ch_name": "城市商旅-台北南西館",
+    "en_name": "CITY SUITES Taipei Nanxi",
+    "ch_address": "臺北市大同區南京西路169號",
+    "en_address": "No.169, Nanjing W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25507722",
+    "room_count": "80"
+  },
+  {
+    "id": "154",
+    "ch_name": "城鄉旅坊台北",
+    "en_name": "Bon Hotel Taipei",
+    "ch_address": "臺北市中山區松江路95之1號4樓",
+    "en_address": "4F,No.95-1,Songjiang Rd.,Zhongshan Dist.,Taipei City104,Taiwan(R.O.C)",
+    "tel": "02-25029955",
+    "room_count": "11"
+  },
+  {
+    "id": "332",
+    "ch_name": "和逸．台北民生館",
+    "en_name": "Hotel Cozzi Mingsheng Taipei",
+    "ch_address": "臺北市中山區民生東路二段178號1至12樓",
+    "en_address": "1-12F., No.178, Sec. 2, Minsheng E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77063399",
+    "room_count": "134"
+  },
+  {
+    "id": "98",
+    "ch_name": "盤古捷旅",
+    "en_name": "PANCO HOTEL",
+    "ch_address": "臺北市中山區中山北路1段135巷39號(地上層至7層)",
+    "en_address": "No. 39, Ln. 135, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25671001",
+    "room_count": "50"
+  },
+  {
+    "id": "610",
+    "ch_name": "夜光商旅",
+    "en_name": "YESINN HOTEL",
+    "ch_address": "臺北市萬華區內江街55巷11號1至4樓、13號2至4樓",
+    "en_address": "No.11, Ln. 55, Neijiang St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23815059",
+    "room_count": "16"
+  },
+  {
+    "id": "544",
+    "ch_name": "福華大飯店",
+    "en_name": "Howard Plaza Hotel",
+    "ch_address": "臺北市大安區仁愛路3段160號",
+    "en_address": "No.160, Ren Ai Rd., Sec. 3 Da-an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27002323",
+    "room_count": "606"
+  },
+  {
+    "id": "4",
+    "ch_name": "合洋背包客棧",
+    "en_name": "HO-YA",
+    "ch_address": "臺北市中正區忠孝西路1段23號2、3、4樓",
+    "en_address": "2,3,4 F., No. 23, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23881505",
+    "room_count": "6"
+  },
+  {
+    "id": "588",
+    "ch_name": "富粧商務旅店",
+    "en_name": "Fuchang Hotel",
+    "ch_address": "臺北市萬華區康定路6,8號2-5樓",
+    "en_address": "2-5F., No.6, 8, Kangding Rd., Wanhua District, Taipei City",
+    "tel": "02-23711247",
+    "room_count": "28"
+  },
+  {
+    "id": "71",
+    "ch_name": "日野苑",
+    "en_name": "Hinoen Hotel",
+    "ch_address": "臺北市中正區重慶南路1段18號2樓至7樓",
+    "en_address": "2-7F., No. 18, Sec. 1, Chongqing S. Rd., Zhongzheng Dist., Taipei City 100001 , Taiwan (R.O.C.)",
+    "tel": "02-23889998",
+    "room_count": "35"
+  },
+  {
+    "id": "358",
+    "ch_name": "西門星辰大飯店",
+    "en_name": "Ximen Citizen Hotel",
+    "ch_address": "臺北市萬華區峨眉街94號2至9樓",
+    "en_address": "No. 94, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R. O. C)",
+    "tel": "02-23898898",
+    "room_count": "65"
+  },
+  {
+    "id": "30",
+    "ch_name": "福泰桔子商務旅館西門漢中店",
+    "en_name": "Orange Hotel Ximen Hanzhong",
+    "ch_address": "臺北市萬華區漢中街170號1-14樓",
+    "en_address": "1-14F., No. 170, Hanzhong St., Wanhua Dist., Taipei City 108",
+    "tel": "02-23811155",
+    "room_count": "66"
+  },
+  {
+    "id": "576",
+    "ch_name": "獅城旅館",
+    "en_name": "LION PALACE HOTEL",
+    "ch_address": "臺北市大同區華陰街179號3-5樓",
+    "en_address": "3-5F., No.179, Huayin St., Datong District, Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25591231",
+    "room_count": "67"
+  },
+  {
+    "id": "111",
+    "ch_name": "野趣光延旅館",
+    "en_name": "T.O HOTEL",
+    "ch_address": "臺北市中正區開封街一段2號2樓",
+    "en_address": "2F., No. 2, Sec. 1, Kaifeng St., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23140202",
+    "room_count": "44"
+  },
+  {
+    "id": "324",
+    "ch_name": "台北艾麗酒店",
+    "en_name": "Humble House Taipei",
+    "ch_address": "臺北市信義區松高路18號",
+    "en_address": "No.18, Songgao Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-66318000",
+    "room_count": "235"
+  },
+  {
+    "id": "248",
+    "ch_name": "峻美精旅",
+    "en_name": "Hotel Bnight",
+    "ch_address": "臺北市中山區長春路62號6樓",
+    "en_address": "6F., No.62, Changchun Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25312338",
+    "room_count": "15"
+  },
+  {
+    "id": "524",
+    "ch_name": "唐門客棧",
+    "en_name": "DOWN TOWN HOTEL",
+    "ch_address": "臺北市中正區信義路二段33號2樓",
+    "en_address": "2F., No.33, Sec. 2, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23963322",
+    "room_count": "28"
+  },
+  {
+    "id": "567",
+    "ch_name": "力歐時尚旅館",
+    "en_name": "LIO HOTEL",
+    "ch_address": "臺北市中正區延平南路9號1-9樓",
+    "en_address": "1-9F., No.9, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23145296",
+    "room_count": "37"
+  },
+  {
+    "id": "160",
+    "ch_name": "台北宿之酒店．臻品之選",
+    "en_name": "SUZ & Catorze Taipei, a Tribute Portfolio Hotel",
+    "ch_address": "臺北市萬華區環河南路一段51號2至14樓",
+    "en_address": "10843 No.51, Sec. 1, Huanhe S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23755511",
+    "room_count": "87"
+  },
+  {
+    "id": "174",
+    "ch_name": "和昌商務旅館台北西門館",
+    "en_name": "sunrise business hotel ximen",
+    "ch_address": "臺北市萬華區桂林路24號1-5樓",
+    "en_address": "1-5F., No.24, Guilin Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23088828",
+    "room_count": "16"
+  },
+  {
+    "id": "59",
+    "ch_name": "慕誠行旅",
+    "en_name": "Work Inn",
+    "ch_address": "臺北市信義區基隆路二段48號1樓至3樓",
+    "en_address": "1F, No.48, Sec. 2, Keelung Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-27252168",
+    "room_count": "33"
+  },
+  {
+    "id": "412",
+    "ch_name": "東鑫商務旅館",
+    "en_name": "EASTERN STAR HOTEL",
+    "ch_address": "臺北市大安區忠孝東路四段209號11樓,11樓-1,-2,211號11樓,11樓-1",
+    "en_address": "11F., No.209, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-87736638",
+    "room_count": "25"
+  },
+  {
+    "id": "169",
+    "ch_name": "慶爾喜旅館長沙二館",
+    "en_name": "CheersLoft",
+    "ch_address": "臺北市萬華區長沙街二段11號3樓之1",
+    "en_address": "2F,N0.11,Sec.2,Changsha St. Wahua Dist. , Taipei City 108, Taiwan",
+    "tel": "02-77309920",
+    "room_count": "6"
+  },
+  {
+    "id": "245",
+    "ch_name": "姆提文創旅店",
+    "en_name": "Nihao Cafe Hotel",
+    "ch_address": "臺北市大安區信義路三段147巷5弄4號1樓",
+    "en_address": "1F., No.4, Aly. 5, Ln. 147, Sec. 3, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23897563",
+    "room_count": "11"
+  },
+  {
+    "id": "65",
+    "ch_name": "台北捷運-北投會館(捷之旅)",
+    "en_name": "Metro Taipei-Beitou Resort (Metro Inn)",
+    "ch_address": "臺北市北投區大業路527巷88號(2至3樓)",
+    "en_address": "No. 88, Ln. 527, Daye Rd., Beitou Dist., Taipei City 112056, Taiwan (R.O.C.)",
+    "tel": "02-28930105",
+    "room_count": "42"
+  },
+  {
+    "id": "596",
+    "ch_name": "豪景大酒店",
+    "en_name": "Hotel Riverview Taipei",
+    "ch_address": "臺北市萬華區環河南路1段77號",
+    "en_address": "No.77, Sec. 1, Huanhe S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23113131",
+    "room_count": "217"
+  },
+  {
+    "id": "340",
+    "ch_name": "天閣酒店(台北長安)",
+    "en_name": "The Tango Taipei ChangAn",
+    "ch_address": "臺北市中山區林森北路80號1至14樓",
+    "en_address": "1-14F., No.80, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25317777",
+    "room_count": "80"
+  },
+  {
+    "id": "181",
+    "ch_name": "台北這地方微旅店",
+    "en_name": "Place Inn Taipei",
+    "ch_address": "臺北市中山區吉林路294號(1樓)及294之1號(2樓)",
+    "en_address": "No.294,Jinlin Rd,. Zhongshan Dist., Taipei City 104,Taiwan",
+    "tel": "02-25637522",
+    "room_count": "3"
+  },
+  {
+    "id": "236",
+    "ch_name": "台北松山意舍酒店",
+    "en_name": "amba Taipei Songshan",
+    "ch_address": "臺北市南港區市民大道七段8號17樓至21樓",
+    "en_address": "17F-21F., No.8, Sec. 7, Civic Blvd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-26532828",
+    "room_count": "190"
+  },
+  {
+    "id": "177",
+    "ch_name": "富裕自由旅店林森館",
+    "en_name": "RF HOTEL LINSEN",
+    "ch_address": "臺北市中山區林森北路85巷23號1至2樓",
+    "en_address": "1F, No.23, Ln.85, Linsen N. Rd, Zhongzheng Dist,Taipei City 100, Taiwan",
+    "tel": "02-25671333",
+    "room_count": "11"
+  },
+  {
+    "id": "383",
+    "ch_name": "天閣酒店(台北南西)",
+    "en_name": "Tango hotel Taipei NanShi",
+    "ch_address": "臺北市中山區南京西路3號1至9樓",
+    "en_address": "No.3, Nanjing W. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25679999",
+    "room_count": "52"
+  },
+  {
+    "id": "2",
+    "ch_name": "晶棧行旅",
+    "en_name": "Zuum Inn",
+    "ch_address": "臺北市中正區公園路13號7樓",
+    "en_address": "7 F., No. 13, Gongyuan Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23895999",
+    "room_count": "14"
+  },
+  {
+    "id": "407",
+    "ch_name": "皇家季節酒店2館",
+    "en_name": "SEASONS HOTEL ROYAL",
+    "ch_address": "臺北市大同區南京西路330號1至11樓",
+    "en_address": "1-11F., No.330, Nanjing W.Rd., Datong District, Taipei City 103, Taiwan(R.O.C)",
+    "tel": "02-25556488",
+    "room_count": "46"
+  },
+  {
+    "id": "612",
+    "ch_name": "天成大飯店",
+    "en_name": "Cosmos Hotel TAIPEI",
+    "ch_address": "臺北市中正區忠孝西路1段43號",
+    "en_address": "No.43, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23617856",
+    "room_count": "226"
+  },
+  {
+    "id": "571",
+    "ch_name": "富玉莊旅社",
+    "en_name": "Rich Zone Hotel",
+    "ch_address": "臺北市士林區福港街149巷15弄8,10號2-3樓",
+    "en_address": "2-3F., No.8, Aly. 15, Ln. 149, Fugang St., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28822308",
+    "room_count": "20"
+  },
+  {
+    "id": "70",
+    "ch_name": "寒居酒店 Humble Boutique Hotel",
+    "en_name": "Humble Boutique Hotel",
+    "ch_address": "臺北市中山區松江路116號1樓至9樓",
+    "en_address": "No. 116, Songjiang Rd., Zhongshan Dist., Taipei City 104091 , Taiwan (R.O.C.)",
+    "tel": "02-66008000",
+    "room_count": "111"
+  },
+  {
+    "id": "139",
+    "ch_name": "天閣酒店台北劍潭",
+    "en_name": "The Tango Hotel Taipei Jiantan",
+    "ch_address": "臺北市士林區基河路16之6號1樓至12樓",
+    "en_address": "1F-12F, No.16-6, Jihe Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28862999",
+    "room_count": "72"
+  },
+  {
+    "id": "120",
+    "ch_name": "城市商旅站前館",
+    "en_name": "City Suites-Main Station",
+    "ch_address": "臺北市大同區延平北路一段51號1至3樓及53號1樓",
+    "en_address": "No. 51, Sec. 1, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25507000",
+    "room_count": "92"
+  },
+  {
+    "id": "432",
+    "ch_name": "凱微精品旅館",
+    "en_name": "Kai Wei Boutique Hotel",
+    "ch_address": "臺北市中山區林森北路381號9-10樓",
+    "en_address": "9-10F., No.381, Linsen N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25426879",
+    "room_count": "28"
+  },
+  {
+    "id": "439",
+    "ch_name": "印石時尚旅館",
+    "en_name": "In-Stone Motel",
+    "ch_address": "臺北市文山區秀明路二段15號",
+    "en_address": "No.15, Sec. 2, Xiuming Rd., Wenshan Dist., Taipei City 116, Taiwan (R.O.C.)",
+    "tel": "02-86617070",
+    "room_count": "50"
+  },
+  {
+    "id": "138",
+    "ch_name": "台北中山九昱希爾頓逸林酒店",
+    "en_name": "Double Tree by Hiton Taipei Zhongshan",
+    "ch_address": "臺北市中山區中山北路一段121巷1之1號,121巷1號1樓至14樓",
+    "en_address": "1F.-14F, No. 1, Ln. 121, No. 1-1, Ln. 121, Sec. 1, Zhongshan N. Rd., Zhongshan Dist., Taipei City 10",
+    "tel": "02-66199999",
+    "room_count": "105"
+  },
+  {
+    "id": "331",
+    "ch_name": "謙商旅-東門館",
+    "en_name": "Chaiin Hotel - Dongmen",
+    "ch_address": "臺北市中正區信義路二段163號",
+    "en_address": "No.163, Sec. 2, Xinyi Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23582520",
+    "room_count": "85"
+  },
+  {
+    "id": "343",
+    "ch_name": "台北馥華商旅敦北館",
+    "en_name": "Simple+ hotel",
+    "ch_address": "臺北市松山區敦化北路4巷52號1至7樓",
+    "en_address": "No.52, Ln. 4, Dunhua N. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-66131300",
+    "room_count": "73"
+  },
+  {
+    "id": "483",
+    "ch_name": "香城大飯店松山分店",
+    "en_name": "Charming City Hotel SungShan",
+    "ch_address": "臺北市松山區市民大道六段67號1-9樓",
+    "en_address": "1-9F., No.67, Sec. 6, Shimin Blvd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27693969",
+    "room_count": "56"
+  },
+  {
+    "id": "458",
+    "ch_name": "台北馥敦飯店",
+    "en_name": "Taipei Fullerton Hotel",
+    "ch_address": "臺北市松山區復興北路315號1-7樓",
+    "en_address": "No.315, Fusing N. Rd., Songshan District, Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27138181",
+    "room_count": "71"
+  },
+  {
+    "id": "467",
+    "ch_name": "蒲園飯店",
+    "en_name": "Golden Garden Hotel",
+    "ch_address": "臺北市松山區八德路四段176號地下2樓、地下1樓、1樓、3樓至5樓、7樓",
+    "en_address": "No.176, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-27530772",
+    "room_count": "32"
+  },
+  {
+    "id": "130",
+    "ch_name": "金普頓大安酒店",
+    "en_name": "Kimpton Da An Hotel",
+    "ch_address": "臺北市大安區仁愛路四段27巷23號3樓至11樓、25號、25號3樓至11樓、27號2樓至14樓",
+    "en_address": "No. 25, Ln. 27, Sec. 4, Ren’ai Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27792000",
+    "room_count": "129"
+  },
+  {
+    "id": "35",
+    "ch_name": "相鐵飯店台北西門",
+    "en_name": "SOTETSU TAIPEI XIMEN",
+    "ch_address": "臺北市中正區中華路一段57號",
+    "en_address": "No. 57, Section 1, Zhonghua Road, Zhongzheng District, Taipei City",
+    "tel": "02-23316203",
+    "room_count": "200"
+  },
+  {
+    "id": "305",
+    "ch_name": "雀客旅館",
+    "en_name": "CHECK INN",
+    "ch_address": "臺北市中山區松江路253號1至13樓",
+    "en_address": "1-13F., No.253, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-77266277",
+    "room_count": "65"
+  },
+  {
+    "id": "172",
+    "ch_name": "好駐旅館",
+    "en_name": "Hao Zhu Hotel",
+    "ch_address": "臺北市中山區新生北路一段106號6樓、7樓、7樓之1-9",
+    "en_address": "No.106，Sec.1，Xinsheng N.Rd.，Zhongshan Dist.，Taipei City 104，Taiwan(R.O.C)",
+    "tel": "02-25213131",
+    "room_count": "29"
+  },
+  {
+    "id": "60",
+    "ch_name": "侘侘行旅",
+    "en_name": "Workinn at Taipei Main Station",
+    "ch_address": "臺北市中正區公園路13號8樓、9樓",
+    "en_address": "8F、9F., No.13, Gongyuan Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-89782345",
+    "room_count": "49"
+  },
+  {
+    "id": "68",
+    "ch_name": "陸號行旅萬年館",
+    "en_name": "hotel6 Wannien",
+    "ch_address": "臺北市萬華區西寧南路70號6樓",
+    "en_address": "6F.,No.70,Xining S Rd.,Wanhua Dist.,Taipei City108001,Taiwan(R.O.C.)",
+    "tel": "02-23619069",
+    "room_count": "39"
+  },
+  {
+    "id": "191",
+    "ch_name": "世民酒店台北北門",
+    "en_name": "citizenM Taipei North Gate",
+    "ch_address": "臺北市中正區中華路一段3號(1樓至26樓)",
+    "en_address": "No.3, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "07-10161061",
+    "room_count": "267"
+  },
+  {
+    "id": "195",
+    "ch_name": "柯達大飯店 台北長安",
+    "en_name": "K Hotels Chang-An",
+    "ch_address": "臺北市中山區松江路61之1號1樓、4樓至11樓",
+    "en_address": "1F., No.61-1, Songjiang Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25169999",
+    "room_count": "103"
+  },
+  {
+    "id": "5",
+    "ch_name": "在家行旅南西館",
+    "en_name": "At Home Hotel Nanxi",
+    "ch_address": "臺北市大同區寧夏路11號2樓、2樓之1、2樓之2、2樓之3",
+    "en_address": "2F,2F-1,2F-2,2F-3, No. 11, Ningxia Rd., Datong Dist., Taipei City 103019, Taiwan (R.O.C.)",
+    "tel": "02-25413959",
+    "room_count": "40"
+  },
+  {
+    "id": "48",
+    "ch_name": "慶爾喜旅館西門捷運館",
+    "en_name": "Cheershotel ZhongHua",
+    "ch_address": "臺北市萬華區中華路一段152號7樓、11樓及成都路1號7樓、11樓",
+    "en_address": "7th and 11th floors, No. 152, Section 1, Zhonghua Road and 7th and 11th floors, No. 1, Chengdu Road",
+    "tel": "02-77309920",
+    "room_count": "21"
+  },
+  {
+    "id": "511",
+    "ch_name": "欣和大旅社",
+    "en_name": "SHIN HER HOTEL",
+    "ch_address": "臺北市大安區羅斯福路2段75-1號2-6樓",
+    "en_address": "2-6F., No.75-1, Sec. 2, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-23660105",
+    "room_count": "38"
+  },
+  {
+    "id": "548",
+    "ch_name": "洛碁大飯店山水閣",
+    "en_name": "Green World Sansui",
+    "ch_address": "臺北市中山區中山北路二段181號1-5樓",
+    "en_address": "1-5F., No.181, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25971281",
+    "room_count": "32"
+  },
+  {
+    "id": "309",
+    "ch_name": "皇家玫瑰旅館站前館",
+    "en_name": "Royal Rose Hotel Station",
+    "ch_address": "臺北市中山區華陰街3號1-4樓",
+    "en_address": "No.3, Huayin St., Zhongshan Dist., Taipei City 10444, Taiwan (R.O.C.)",
+    "tel": "02-25217222",
+    "room_count": "12"
+  },
+  {
+    "id": "530",
+    "ch_name": "喬合大飯店",
+    "en_name": "DEJA VU HOTEL",
+    "ch_address": "臺北市大安區復興南路一段136號1至4樓；復興南路一段126巷10弄1號等、3號2樓至2樓之8、3號3樓至3樓之8、3號4樓至4樓之10、3號5至5樓之10、3號6樓至6樓之9",
+    "en_address": "1-4F., No.136, Sec. 1, Fuxing S. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-27765877",
+    "room_count": "69"
+  },
+  {
+    "id": "243",
+    "ch_name": "西門希爾商旅",
+    "en_name": "HotelsHere, Ximen",
+    "ch_address": "臺北市萬華區峨眉街28號4樓之1、4樓之2、4樓之3",
+    "en_address": "4F.-1-2-3, No.28, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23810081",
+    "room_count": "15"
+  },
+  {
+    "id": "570",
+    "ch_name": "北門文旅",
+    "en_name": "Bayman Hotel",
+    "ch_address": "臺北市大同區長安西路145巷3號",
+    "en_address": "No.3, Ln. 145, Chang’an W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25567797",
+    "room_count": "15"
+  },
+  {
+    "id": "599",
+    "ch_name": "曲水會館",
+    "en_name": "KYOTO HOTEL",
+    "ch_address": "臺北市北投區溫泉路105號1-3樓",
+    "en_address": "No.105, Wenquan Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28912151",
+    "room_count": "19"
+  },
+  {
+    "id": "519",
+    "ch_name": "麗雅精品旅館",
+    "en_name": "Dear Hotel",
+    "ch_address": "臺北市中山區長春路62號8樓之1",
+    "en_address": "8F.1.No62.Changchun Rd.Zhongshan Dist.Taipei City104.Taiwan(ROC)",
+    "tel": "02-25411133",
+    "room_count": "12"
+  },
+  {
+    "id": "3",
+    "ch_name": "茶色部屋行旅 站前館",
+    "en_name": "Brown House Hotel",
+    "ch_address": "臺北市中正區忠孝西路1段50號26樓",
+    "en_address": "26 F., No. 50, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City",
+    "tel": "02-23822800",
+    "room_count": "55"
+  },
+  {
+    "id": "561",
+    "ch_name": "三德大飯店",
+    "en_name": "Santos Hotel",
+    "ch_address": "臺北市大同區承德路3段49號",
+    "en_address": "No.49, Sec. 3, Chengde Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25963111",
+    "room_count": "287"
+  },
+  {
+    "id": "275",
+    "ch_name": "台北萬豪酒店",
+    "en_name": "Taipei Marriott Hotel",
+    "ch_address": "臺北市中山區樂群二路199號",
+    "en_address": "No.199, Lequn 2nd Road ? (Intersection with Jingye 4th Road), Zhongshan District, Taipei City, Taiwa",
+    "tel": "02-85029999",
+    "room_count": "318"
+  },
+  {
+    "id": "198",
+    "ch_name": "洛碁大飯店南港館",
+    "en_name": "Green World NanGang",
+    "ch_address": "臺北市南港區忠孝東路七段526號1-14樓、528號2-14樓",
+    "en_address": "No.526, Sec. 7, Zhongxiao E. Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-27893009",
+    "room_count": "120"
+  },
+  {
+    "id": "503",
+    "ch_name": "旅居文旅-西門驛站",
+    "en_name": "Hub Hotel Ximen Inn",
+    "ch_address": "臺北市萬華區西寧南路67號5-9樓",
+    "en_address": "5-9F., No.67, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23880050",
+    "room_count": "38"
+  },
+  {
+    "id": "43",
+    "ch_name": "台灣西鐵國際旅館",
+    "en_name": "SOLARIA NISHITETSU HOTEL TAIPEI XIMEN",
+    "ch_address": "臺北市萬華區中華路一段88號1樓、6樓至28樓",
+    "en_address": "6F.,No. 88, Section 1, Zhonghua Road, Wanhua District, Taipei City 108002, Taiwan（R.O.C）",
+    "tel": "02-23143939",
+    "room_count": "298"
+  },
+  {
+    "id": "387",
+    "ch_name": "雀客旅館台北信義",
+    "en_name": "CHECK inn Taipei XinYi",
+    "ch_address": "臺北市信義區信義路四段468號3-13樓",
+    "en_address": "3-13F., No.468, Sec. 4, Xinyi Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-23459777",
+    "room_count": "88"
+  },
+  {
+    "id": "376",
+    "ch_name": "意寬精品旅館 HOME HOTEL",
+    "en_name": "HOME HOTEL",
+    "ch_address": "臺北市信義區松仁路90號1樓、3至12樓",
+    "en_address": "1F,3-12F., No.90, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)",
+    "tel": "02-87890111",
+    "room_count": "121"
+  },
+  {
+    "id": "238",
+    "ch_name": "米尼旅店",
+    "en_name": "miniinn",
+    "ch_address": "臺北市中正區忠孝西路一段23號5至6樓",
+    "en_address": "5F-6F., No.23, Sec. 1, Zhongxiao W. Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23881516",
+    "room_count": "8"
+  },
+  {
+    "id": "464",
+    "ch_name": "函舍旅館",
+    "en_name": "HAN SHE HOTEL",
+    "ch_address": "臺北市萬華區成都路68號4-5樓",
+    "en_address": "4-5F., No.68, Chengdu Rd., Wanhua District, Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23718812",
+    "room_count": "19"
+  },
+  {
+    "id": "113",
+    "ch_name": "町記憶旅店3館",
+    "en_name": "CHO HOTEL 3",
+    "ch_address": "臺北市萬華區昆明街142號2、3樓",
+    "en_address": "2,3F., No. 142, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23709930",
+    "room_count": "44"
+  },
+  {
+    "id": "562",
+    "ch_name": "葳皇時尚飯店",
+    "en_name": "V one Hotel",
+    "ch_address": "臺北市大同區延平北路二段197號3, 4,11樓",
+    "en_address": "3F., No.197, Sec. 2, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25575379",
+    "room_count": "48"
+  },
+  {
+    "id": "502",
+    "ch_name": "艾捷天麗大飯店",
+    "en_name": "HEJ ARENA Hotel",
+    "ch_address": "臺北市松山區南京東路四段156號1-11樓",
+    "en_address": "No.156, Sec. 4, Nanjing E. Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.)",
+    "tel": "02-25796162",
+    "room_count": "78"
+  },
+  {
+    "id": "49",
+    "ch_name": "見潭璞旅",
+    "en_name": "Boutech Jiantan Hotel",
+    "ch_address": "臺北市士林區承德路四段250號",
+    "en_address": "No.250,Sec.4,Chengde Rd.,Shilin Dist.,Taipei City 111052,Taiwan（R.O.C.）",
+    "tel": "02-28831777",
+    "room_count": "240"
+  },
+  {
+    "id": "399",
+    "ch_name": "捷絲旅西門町店",
+    "en_name": "Just Sleep Ximending",
+    "ch_address": "臺北市中正區中華路一段41號5-9樓",
+    "en_address": "5F-9F., No.41, Sec. 1, Zhonghua Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23709000",
+    "room_count": "143"
+  },
+  {
+    "id": "233",
+    "ch_name": "洛碁大飯店松山館",
+    "en_name": "Greenworld songshan",
+    "ch_address": "臺北市南港區玉成街149號",
+    "en_address": "No.149, Yucheng St., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-27837088",
+    "room_count": "97"
+  },
+  {
+    "id": "271",
+    "ch_name": "艾特文旅",
+    "en_name": "ART&#39;OTEL",
+    "ch_address": "臺北市萬華區武昌街二段124之2號4樓",
+    "en_address": "4F., No.142-2, Sec. 2, Changsha St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23885558",
+    "room_count": "29"
+  },
+  {
+    "id": "166",
+    "ch_name": "睡覺盒子旅館",
+    "en_name": "Sleepbox Hostel",
+    "ch_address": "臺北市中正區衡陽路34號1樓及36號地下之1、地下之2",
+    "en_address": "1F., No.34, Hengyang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-55713712",
+    "room_count": "39"
+  },
+  {
+    "id": "583",
+    "ch_name": "西門大飯店",
+    "en_name": "XIMEN HOTEL",
+    "ch_address": "臺北市萬華區中華路一段78號2-6樓",
+    "en_address": "2-6F., No.78, Sec. 1, Jhonghua Rd., Wanhua District, Taipei City",
+    "tel": "02-23819922",
+    "room_count": "78"
+  },
+  {
+    "id": "328",
+    "ch_name": "品格子旅店",
+    "en_name": "Inn Cube",
+    "ch_address": "臺北市中正區公園路13號10樓",
+    "en_address": "10F., No.13, Gongyuan Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)",
+    "tel": "02-23114511",
+    "room_count": "34"
+  },
+  {
+    "id": "14",
+    "ch_name": "樂爾公寓",
+    "en_name": "LORE HOTEL",
+    "ch_address": "臺北市大同區延平北路三段4號6樓、6樓之1",
+    "en_address": "6F.、6F-1, No.4, Sec. 3, Yanping N. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25850006",
+    "room_count": "20"
+  },
+  {
+    "id": "301",
+    "ch_name": "昇美精旅",
+    "en_name": "Hotel Bchic",
+    "ch_address": "臺北市中山區新生北路二段25號1至6樓",
+    "en_address": "1-6F., No.25, Sec. 2, Xinsheng N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25111399",
+    "room_count": "42"
+  },
+  {
+    "id": "126",
+    "ch_name": "野趣旅舍 T.O.HOTEL",
+    "en_name": "T.O.HOTEL",
+    "ch_address": "臺北市大同區承德路二段28號1至5樓",
+    "en_address": "No. 28, Sec. 2, Chengde Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+    "tel": "02-25521300",
+    "room_count": "16"
+  },
+  {
+    "id": "455",
+    "ch_name": "晶樺商務旅店",
+    "en_name": "JING HWA BUSINESS HOTEL",
+    "ch_address": "臺北市萬華區西園路一段168號10樓",
+    "en_address": "10F., No.168, Sec. 1, Xiyuan Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23048788",
+    "room_count": "10"
+  },
+  {
+    "id": "149",
+    "ch_name": "懷特豪斯青年旅舍",
+    "en_name": "JIIZUHOSTEL",
+    "ch_address": "臺北市松山區南京東路五段123巷1號1至4樓、1之1號2至4樓、1之2號2至4樓",
+    "en_address": "2-4F No.1-2,2-4F No.1-1,1-4F No.1,Ln.123,Sec.5,Nanjing E.Rd.,Songshan Dist.,Taipei City 105,Taiwan R",
+    "tel": "02-37656578",
+    "room_count": "38"
+  },
+  {
+    "id": "501",
+    "ch_name": "帥客旅店",
+    "en_name": "Saual Keh Hotel",
+    "ch_address": "臺北市中正區羅斯福路一段90巷2號1-5樓",
+    "en_address": "No.2, Lane 90, Sec. 1, Roosevelt Rd., Zhongzheng District",
+    "tel": "02-23223887",
+    "room_count": "32"
+  },
+  {
+    "id": "22",
+    "ch_name": "台北大安伊普索酒店",
+    "en_name": "EPISODE Dann Taipei, JdV by Hyatt",
+    "ch_address": "臺北市大安區復興南路一段219之2號1樓、4-12樓",
+    "en_address": "5F, No.219-2,Sec.1,Fuxing S.Rd.,Da&#39;an Dist,.Taipei City 106234,Taiwan(R.O.C.)",
+    "tel": "02-27117268",
+    "room_count": "136"
+  },
+  {
+    "id": "53",
+    "ch_name": "台北西門窩青年旅館",
+    "en_name": "Taipei ximenwow hostel",
+    "ch_address": "臺北市萬華區漢中街42號8樓",
+    "en_address": "8F., No.42, Hanzhong St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23315100",
+    "room_count": "6"
+  },
+  {
+    "id": "190",
+    "ch_name": "皇家玫瑰旅館 雙城館",
+    "en_name": "Royal Rose Hotel Shuangcheng",
+    "ch_address": "臺北市中山區雙城街28巷8號、8號2樓至4樓、8之1號(1樓)、8之3號(2樓)、8之5號(3樓)、8之7號(4樓)",
+    "en_address": "No.8, Ln. 28, Shuangcheng St., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25958077",
+    "room_count": "17"
+  },
+  {
+    "id": "550",
+    "ch_name": "松林旅社",
+    "en_name": "SONG LIN HOTEL",
+    "ch_address": "臺北市萬華區桂林路174號3至5樓及夾層、176號1至5樓及夾層",
+    "en_address": "No.176, Guilin Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23067122",
+    "room_count": "31"
+  },
+  {
+    "id": "547",
+    "ch_name": "洛碁大飯店協美",
+    "en_name": "Green World Sansui",
+    "ch_address": "臺北市中山區中山北路二段181號10-12樓",
+    "en_address": "10-12F., No.181, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25971281",
+    "room_count": "24"
+  },
+  {
+    "id": "74",
+    "ch_name": "雀客藏居台北南港",
+    "en_name": "CHECKinn Select Taipei NanGang",
+    "ch_address": "臺北市南港區重陽路59號",
+    "en_address": "No.59, Chongyang Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)",
+    "tel": "02-26512251",
+    "room_count": "105"
+  },
+  {
+    "id": "416",
+    "ch_name": "神旺商務酒店",
+    "en_name": "San Want Residences",
+    "ch_address": "臺北市中山區南京東路一段128號,2至13樓",
+    "en_address": "No.128, Sec. 1, Nanjing E. Rd., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25115185",
+    "room_count": "81"
+  },
+  {
+    "id": "81",
+    "ch_name": "JR東日本大飯店台北",
+    "en_name": "Hotel Metropolitan Premier Taipei",
+    "ch_address": "臺北市中山區臺北市中山區南京東路三段133號",
+    "en_address": "No. １３３, Sec. 3, Nanjing E. Rd., Zhongshan Dist., Taipei City , Taiwan (R.O.C.)",
+    "tel": "02-77500999",
+    "room_count": "288"
+  },
+  {
+    "id": "444",
+    "ch_name": "芝山璞旅",
+    "en_name": "Archess Hotel",
+    "ch_address": "臺北市士林區福國路106號1樓,2-6樓之1至7",
+    "en_address": "No.106, Fuguo Rd., Shihlin District, Taipei City 111, Taiwan (R.O.C.)",
+    "tel": "02-28332323",
+    "room_count": "41"
+  },
+  {
+    "id": "214",
+    "ch_name": "在家行旅西門館",
+    "en_name": "At Home Hotel Ximen",
+    "ch_address": "臺北市萬華區昆明街96巷8號1樓",
+    "en_address": "No.8, Ln. 96, Kunming St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23619000",
+    "room_count": "5"
+  },
+  {
+    "id": "9",
+    "ch_name": "美好行旅北車漢口館",
+    "en_name": "WonderTime",
+    "ch_address": "臺北市中正區漢口街1段45號6樓",
+    "en_address": "6F., No. 45, Sec. 1, Hankou St., Zhongzheng Dist., Taipei City",
+    "tel": "02-23818008",
+    "room_count": "21"
+  },
+  {
+    "id": "303",
+    "ch_name": "卡樂町旅店",
+    "en_name": "ColorMIX Hotel & Hostel",
+    "ch_address": "臺北市萬華區內江街55巷22號",
+    "en_address": "No.22, Ln. 55, Neijiang St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23826000",
+    "room_count": "20"
+  },
+  {
+    "id": "118",
+    "ch_name": "天雲旅棧台北中山",
+    "en_name": "Tango Hotel Taipei Zhong Shan",
+    "ch_address": "臺北市中山區中山北路一段83巷7,7之1號至7之18號",
+    "en_address": "NO.7,Ln.83,Sec.1,Zhongshan N.rd,Zhongshan Dist,Taipei city104,taiwan(R.O.C)",
+    "tel": "02-25216666",
+    "room_count": "56"
+  },
+  {
+    "id": "373",
+    "ch_name": "璞漣商務旅館西門店",
+    "en_name": "Hotel Puri Ximen Branch",
+    "ch_address": "臺北市萬華區成都路27巷6號",
+    "en_address": "No.6, Ln. 27, Chengdu Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "tel": "02-23718616",
+    "room_count": "57"
+  },
+  {
+    "id": "263",
+    "ch_name": "台北發現青年旅舍",
+    "en_name": "Taipei Discover Hostel",
+    "ch_address": "臺北市中山區民權東路二段21號5、6樓",
+    "en_address": "5-6F., No.21, Sec. 2, Minquan E. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25980209",
+    "room_count": "7"
+  },
+  {
+    "id": "187",
+    "ch_name": "亞太飯店 北投館",
+    "en_name": "Asia Pacific Hotel",
+    "ch_address": "臺北市北投區幽雅路31號",
+    "en_address": "No.３１, Youya Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28983088",
+    "room_count": "140"
+  },
+  {
+    "id": "492",
+    "ch_name": "泉都溫泉會館",
+    "en_name": "CHYUAN DU SPRING RESORT",
+    "ch_address": "臺北市北投區光明路220號",
+    "en_address": "No.220, Guangming Rd., Beitou Dist., Taipei City 112, Taiwan (R.O.C.)",
+    "tel": "02-28960077",
+    "room_count": "64"
+  },
+  {
+    "id": "428",
+    "ch_name": "香城大飯店豪悅分店",
+    "en_name": "HAPPINESS MOTEL",
+    "ch_address": "臺北市中山區松江路93巷9號1至8樓及9號2、3、4、5樓之1至之7、6樓之1至之3、7樓之1、8樓之1及97巷18號",
+    "en_address": "No.18, Lane 97, Songjiang Rd., Jhongshan District, Taipei City 104, Taiwan (R.O.C.)",
+    "tel": "02-25177272",
+    "room_count": "32"
+  },
+  {
+    "id": "393",
+    "ch_name": "玩行旅 大安分館",
+    "en_name": "Wowhappy Daan",
+    "ch_address": "臺北市大安區大安路1段81號1-7樓、81之1號、81號2樓之1、3樓之1至之5、4樓之1至之5、5樓之1至之5、6樓之1至之5、7樓之1至之5",
+    "en_address": "No.81,81-1, Sec. 1, Da-an Rd., Da-an District, Taipei City 106, Taiwan (R.O.C.)",
+    "tel": "02-87727862",
+    "room_count": "65"
+  }
+]

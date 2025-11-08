@@ -1,0 +1,14 @@
+{% extends "index.html" %}
+
+{% block header_title %}歡迎光臨，這是會員頁{% endblock %}
+
+{% block body_only %}
+  <main class="container">
+    <section class="card">
+      <p style="text-align:center;">恭喜您，成功登入系統</p>
+      <div style="text-align:center; margin-top: 16px;">
+        <a class="btn" href="/logout" style="padding: 8px;">登出系統</a>
+      </div>
+    </section>
+  </main>
+{% endblock %}

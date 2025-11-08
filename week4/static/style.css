@@ -1,0 +1,96 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #f3f4f6;            
+  color: black;
+}
+
+.banner {
+  background: #1e2d3b;            
+  color: #fff;
+  padding: 16px 0;
+  text-align: center;
+}
+.banner h1 {
+  margin: 0;
+  font-size: 48px;
+  letter-spacing: 1px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.container.vstack {
+  display: flex;
+  flex-direction: column !important;
+  align-items: center;
+}
+.container.vstack .card {
+  width: 360px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #dcdcdc;
+  padding: 24px 28px 28px;
+}
+
+.form-title {
+  text-align: center;
+  margin: 0 0 18px 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.row label {
+  width: 64px;                     
+
+  font-size: 16px;
+}
+.row input[type="email"],
+.row input[type="password"] {
+  width: 220px;                    
+  height: 28px;
+  border: 1px solid #888;
+  padding: 2px 6px;
+  outline: none;
+  border-radius: 2px;              
+  background: #fff;
+}
+
+.agree-row {
+  justify-content: center;
+}
+.agree-label {
+  width: auto;
+  margin-right: 8px;
+}
+.agree-row input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+}
+
+.submit-row {
+  justify-content: center;
+  margin-top: 12px;
+}
+.btn {
+  min-width: 72px;
+  height: 30px;
+  border: 1px solid #333;
+  background: #eee;
+  color: #111;
+  border-radius: 2px;             
+  cursor: pointer;
+}
+.btn:hover {
+  filter: brightness(0.96);
+}

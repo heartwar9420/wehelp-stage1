@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% block header_title %}旅館的資訊{% endblock %}
+
+{% block body_only %}
+  <main class="container">
+    <section class="card">
+      {% if hotel %}
+        <h2 class="form-title"></h2>
+        <p><b></b>{{ hotel.ch_name }}、{{ hotel.en_name }}、{{ hotel.tel }}</p>
+      {% else %}
+        <p style="text-align:center;">查詢不到相關資料</p>
+      {% endif %}
+      <p style="text-align:center;"><a class="btn" href="/">回到首頁</a></p>
+    </section>
+  </main>
+{% endblock %}
