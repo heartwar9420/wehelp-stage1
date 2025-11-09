@@ -48,14 +48,14 @@ async def login(email: str = Form(""), password: str = Form(""), request: Reques
     p = password.strip()
 
     if not e or not p:
-        return RedirectResponse("/error?msg=請輸入信箱和密碼", status_code=303)
+        return RedirectResponse("/ohoh?msg=請輸入信箱和密碼", status_code=303)
 
     if e == "abc@abc.com" and p == "abc":
         request.session["LOGGED_IN"] = True
         request.session["EMAIL"] = e
         return RedirectResponse("/member", status_code=303)
 
-    return RedirectResponse("/error?msg=信箱或密碼輸入錯誤", status_code=303)
+    return RedirectResponse("/ohoh?msg=信箱或密碼輸入錯誤", status_code=303)
 
 # Member
 @app.get("/member", response_class=HTMLResponse)
@@ -70,10 +70,15 @@ async def logout(request: Request):
     request.session.clear()
     return RedirectResponse("/", status_code=303)
 
-# Error
-@app.get("/error", response_class=HTMLResponse)
-async def error(request: Request, msg: str = "發生未知錯誤"):
-    return templates.TemplateResponse("error.html", {"request": request, "msg": msg})
+# ohoh Page
+@app.get("/ohoh", response_class=HTMLResponse)
+async def ohoh(request: Request, msg: str = "發生未知錯誤"):
+    return templates.TemplateResponse(
+        "ohoh.html",{
+            "request": request,
+            "msg": msg,
+        }
+    )
 
 # Hotel
 @app.get("/hotel/{hotel_id}", response_class=HTMLResponse)

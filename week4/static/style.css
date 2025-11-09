@@ -13,7 +13,7 @@ body {
 }
 .banner h1 {
   margin: 0;
-  font-size: 48px;
+  font-size: 36px;
   letter-spacing: 1px;
 }
 
@@ -36,12 +36,13 @@ body {
   background: #fff;
   border: 1px solid #dcdcdc;
   padding: 24px 28px 28px;
+  font-size: 24px;
 }
 
 .form-title {
   text-align: center;
   margin: 0 0 18px 0;
-  font-size: 20px;
+  font-size: 36px;
   font-weight: 700;
 }
 
