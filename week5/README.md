@@ -13,6 +13,7 @@ CREATE TABLE member(
   `time` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 ```
+![task2](./screenshots/task2.png)
 ## Task 3
 ```sql
 INSERT INTO member(name,email,password) VALUES ('test','test@test.com','test');
@@ -28,6 +29,7 @@ SELECT * FROM member WHERE name LIKE '%es%';
 SELECT * FROM member WHERE email ='test@test.com' AND password = 'test';
 UPDATE member SET name = 'test2' WHERE email = 'test@test.com';
 ```
+![task3](./screenshots/task3.png)
 ## Task 4
 ```sql
 SELECT COUNT(*) FROM member;
@@ -40,6 +42,7 @@ SELECT AVG(follower_count) AS avg_followers FROM (
     LIMIT 2
 ) AS top_two;
 ```
+![task4](./screenshots/task4.png)
 ## Task 5
 ```sql
 CREATE TABLE message (
@@ -65,3 +68,4 @@ FROM message
 INNER JOIN member ON message.member_id = member.id
 GROUP BY member.email;
 ```
+![task5](./screenshots/task5.png)
