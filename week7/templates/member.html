@@ -1,0 +1,134 @@
+{% extends "index.html" %}
+
+{% block header_title %}歡迎光臨，這是會員頁{% endblock %}
+
+{% block body_only %}
+<main class="container">
+    <section class="card">
+        <p style="text-align:center;">{{ name }} ，歡迎登入系統</p>
+        <div style="text-align:center; margin-top: 16px;">
+            <a href="/logout" class="logout-link">登出系統</a>
+        </div>
+        <hr>
+
+        <h2 style="text-align:center;">查詢會員姓名</h2>
+            <div class="row">
+            <input id="query_member" type="text" required>
+            <button class="btn" id="member_id" style ="margin-left: 5px;">查詢</button>
+            </div>
+            <div id="query_result" style="text-align:center;"></div>
+        <hr>
+
+        <h2 style="text-align:center;">更新我的名字</h2>
+            <div class="row">
+            <input id="update_input" type="text" required>
+            <button class="btn" id="update_id" style ="margin-left: 5px;" >更新</button>
+            </div>
+            <div id="update_result" style="text-align:center;"></div>
+        <hr>
+
+        <h2 style="text-align:center;">誰查詢了我</h2>
+            <div class="row" style="display:flex;justify-content:center" >
+            <button class="btn" id="tracking_query_btn" >查詢</button>
+            </div>
+            <div id="tracking_result" style="text-align:center;"></div>
+        <hr>
+
+        <h2 style="text-align:center;">快來留言吧</h2>
+        <form action="/createMessage" method="post">
+            <div class="row">
+            <label for="content">內容</label>
+            <input id="content" name="content" type="text" required>
+            </div>
+            <div class="row submit-row">
+            <button type="submit" class="btn">送出</button>
+            </div>
+        </form>
+        <hr>
+        <div class="message-list">
+        {% for m in messages %}
+        <div class="message-row">
+            <span>{{ m.name }}：{{ m.content }}</span>
+
+            {% if m.name == name %}
+            <form action="/deleteMessage/{{ m.id }}"
+                    method="post"
+                    onsubmit="return confirm('確定要刪除這則留言嗎？');">
+                <button type="submit" class="delete-btn">X</button>
+            </form>
+            {% endif %}
+        </div>
+        {% endfor %}
+        </div>
+        </section>
+    <script>
+        let member_id = document.getElementById("member_id")
+            member_id.addEventListener("click",function(){
+                let input = document.getElementById("query_member").value;
+                query_member(input);
+            })
+        async function query_member(id) {
+            let response = await fetch("/api/member/"+id,{
+                method:"GET"
+            })
+            let query_result = await response.json();
+            let box= document.getElementById("query_result");
+            if (query_result.data === null){
+                box.innerHTML = "No Data"
+            }else{
+                box.innerHTML = query_result.data.name +"(" + query_result.data.email + ")"
+            }
+        }
+
+        let update_id = document.getElementById("update_id")
+            update_id.addEventListener("click",function(){
+                let input = document.getElementById("update_input").value;
+                update_name(input);
+            })
+        async function update_name(name) {
+            let response = await fetch("/api/member",{
+                method:"PATCH",
+                headers:{
+                    "Content-Type":"application/json"
+                },
+                body: JSON.stringify({
+                    name : name
+                })
+            });
+            let update_result = await response.json();
+            let box = document.getElementById("update_result");
+            if (update_result.ok){
+                box.innerHTML = "更新成功"
+            }else{
+                box.innerHTML = "更新失敗"
+            }
+        }
+
+        let tracking_query_btn = document.getElementById("tracking_query_btn")
+            tracking_query_btn.addEventListener("click",function(){
+                tracking_query();
+            })
+        async function tracking_query() {
+            let response = await fetch("/api/member/query_log",{
+                method:"GET"
+            });
+            let tracking_result = await response.json();
+            let box = document.getElementById("tracking_result");
+            let message = ""
+            if (!tracking_result.data || tracking_result.data.length === 0){
+                box.innerHTML = "目前沒有人查詢你";
+            }else{
+                for (let item of tracking_result.data){
+                    let iso = item.created_at || "";
+                    let time = iso.replace("T"," ");
+                    time = time.split(".")[0];
+                    let line = `${item.name}(${time})`;
+                    message += line+"<br>";
+                }
+                box.innerHTML = message;
+            }
+            
+        }
+    </script>
+</main>
+{% endblock %}
